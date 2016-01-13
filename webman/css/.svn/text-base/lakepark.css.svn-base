@@ -1,0 +1,246 @@
+
+/* Login Stuff
+------------------------------------------------------------- */
+.rusty-notice-wrapper,
+.rusty-form-wrapper,
+.login-form-wrapper
+{
+}
+
+.login-form
+{
+	width: 340px;;
+	text-align: center;
+
+	margin:			60px auto 10px auto;
+	padding:		40px 20px 20px 20px;
+
+	border:			3px solid #e2e2e2;
+
+	border-radius:		10px;
+	-moz-border-radius:	10px;
+	-webkit-border-radius:	10px;
+	-moz-box-shadow:	5px 5px 5px #888;
+	-webkit-box-shadow:	5px 5px 5px #888;
+	box-shadow:		5px 5px 5px #888;
+}
+
+.login-recovery-wrap
+{
+	padding:	20px 20px 20px 20px;
+	margin:		10px auto 10px ;
+	font-size:	12px;
+}
+
+.login-recovery
+{
+}
+
+.login-register
+{
+	padding 5px;
+	font-weight: bold;
+	color: green;
+	margin:  10px auto 10px ;
+	font-size: 16px;
+}
+
+#loginform
+{
+	padding: 20px 10px 10px 10px;
+}
+
+.login-username
+{
+	padding: 20px 10px 10px 10px;
+}
+
+.login-password,
+.login-remember
+{
+	padding: 10px 10px 10px 10px;
+}
+
+
+
+.rusty-notice,
+.rusty-box
+{
+	width: 340px;
+	text-align: center;
+
+	margin:			10px auto 25px auto;
+	padding:		5px 5px 5px 5px;
+
+	border:			2px solid #e2e2e2;
+
+	border-radius:		10px;
+	-moz-border-radius:	10px;
+	-webkit-border-radius:	10px;
+	-moz-box-shadow:	3px 3px 3px #888;
+	-webkit-box-shadow:	3px 3px 3px #888;
+	box-shadow:		5px 5px 5px #888;
+}
+
+
+/* Registration Form
+------------------------------------------------------------- */
+
+
+/* Price Table  -- See the plugin style sheet
+------------------------------------------------------------- */
+.pricetable
+{
+}
+
+.pricetable-inner
+{
+}	
+
+/* Registration Form
+------------------------------------------------------------- */
+.rusty-form-wrapper
+{
+
+}
+
+body .gform_wrapper
+{
+	width: 450px;
+	text-align: center;
+
+	margin:	30px auto 30px auto;
+	padding 80px 20px 20px 20px;
+}
+
+body .gform_wrapper .gform_heading
+{
+	text-align: center;
+}
+
+body .gform_wrapper .gform_heading .gform_description
+{
+	font-size: 12px;
+	font-style: italic;
+}
+
+/* Landing Page Sizes
+ --------------------------------------------------------------*/
+.rusty-landing .entry-content
+{
+	margin: 0 auto;
+	width: 80%;	
+}
+
+
+/* Landing Page Sizes
+ --------------------------------------------------------------*/
+div.custom-footer
+{
+	font-size:	12px;
+	font-style:	italic;
+	text-align:	center;
+	padding:	8px;
+	margin:		10px;
+}
+
+
+div.custom-footer #rusty-copyright 
+{
+	float: left;
+	text-align: right;
+}
+
+div.custom-footer #rusty-members-link,
+div.custom-footer #rusty-members-link a:visited
+{
+	color:		maroon;
+	font-size:	16px;
+	font-weight:	bold;
+	float:		right;
+}
+
+
+/* Feature tabel below the price table
+ --------------------------------------------------------------*/
+.rusty-feature-table
+{
+	width: 70%;
+	margin: 10px auto 40px auto;
+}
+
+
+.post-edit-link
+{
+	clear: both;
+	display: block;
+	text-align: center;
+}
+
+.sidebar li.menu-item
+{
+	border: 0 0 0 0;
+}
+
+/* paypal-disclaimers
+ --------------------------------------------------------------*/
+.lpo-paypal-disclaimers
+{
+	font-size: 12px;
+	font-style: italic;
+	margin: 0 40px 20px 40px;
+	padding: 0px 40px 0 40px;
+	border: 1px dotted #e2e2e2;
+}
+
+/* Feature tabel below the price table
+ --------------------------------------------------------------*/
+.lpo-todo-list
+{
+			
+}
+
+.lpo-todo-list ul .lpo-todo-item
+{
+	font-weight: bold;
+	font-style: italic;
+	padding: 5px 0 5px 0;
+}
+
+
+.lpo-todo-list ul .lpo-todo-item ul li
+{
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* Post Meta Table Information
+ --------------------------------------------------------------*/
+.lpo-table-wrap
+{
+
+}
+
+.lpo-table
+{
+	width: 90%;
+	border: 1px dotted black;
+	margin: 20px auto 20px auto;
+}
+
+.lpo-table-row
+{
+	border-bottom: 1px solid grey;
+	background: #f2f2f2;
+}
+
+.lpo-table-cell
+{
+	padding: 0 10px 0 10px;
+}
+
+.lpo-table-key
+{
+	text-align: right;
+}

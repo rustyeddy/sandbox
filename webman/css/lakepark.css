@@ -1,0 +1,83 @@
+/* Login Stuff
+------------------------------------------------------------- */
+.login-form-wrapper
+{
+}
+
+.login-form
+{
+	width: 340px;
+	text-align: center;
+
+	margin:			60px auto 10px auto;
+	padding:		40px 20px 20px 20px;
+
+	border:			3px solid #e2e2e2;
+
+	border-radius:		10px;
+	-moz-border-radius:	10px;
+	-webkit-border-radius:	10px;
+	-moz-box-shadow:	5px 5px 5px #888;
+	-webkit-box-shadow:	5px 5px 5px #888;
+	box-shadow:		5px 5px 5px #888;
+}
+
+.login-recovery-wrap
+{
+	padding:	20px 20px 20px 20px;
+	margin:		10px auto 10px ;
+	font-size:	12px;
+}
+
+.login-recovery
+{
+}
+
+.login-register
+{
+	padding 5px;
+	font-weight: bold;
+	color: green;
+	margin:  10px auto 10px ;
+	font-size: 16px;
+}
+
+#loginform
+{
+	padding: 20px 10px 10px 10px;
+}
+
+.login-username
+{
+	padding: 20px 10px 10px 10px;
+}
+
+.login-password,
+.login-remember
+{
+	padding: 10px 10px 10px 10px;
+}
+
+
+/* Registration Form
+------------------------------------------------------------- */
+body .gform_wrapper
+{
+	width: 450px;
+	text-align: center;
+
+	margin:	30px auto 30px auto;
+	padding 80px 20px 20px 20px;
+}
+
+body .gform_wrapper .gform_heading
+{
+	text-align: center;
+}
+
+body .gform_wrapper .gform_heading .gform_description
+{
+	font-size: 12px;
+	font-style: italic;
+}
+
