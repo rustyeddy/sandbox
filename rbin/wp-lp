@@ -1,0 +1,13 @@
+#!/bin/bash
+
+##
+## TODO: Allow this stuff to be read from a .json config file
+##
+if [ ! -e "config.sh" ]; then
+	echo "Please create a config.sh file, refer to config-sample.sh for details"
+	exit 1
+fi	
+
+source config.sh
+
+wp user create $wpuser $wpemail --role=administrator --user_pass=${wppasswd}

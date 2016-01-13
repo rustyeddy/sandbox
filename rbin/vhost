@@ -1,0 +1,44 @@
+#!/bin/bash
+
+#
+# Example usage:
+#
+# sudo ./vhost.sh lpo.conf lpo.gumsole.com rusty@lakeparkonline.com /www/html/lpo
+#
+
+##
+## Use getops instead and check that all params exits
+##
+## Also allow the option of reading from a config file.
+##
+vhost=$1
+server_name=$2
+admin_email=$3
+docroot=$4
+
+##
+## TODO: see if the vhost config files already exist, if so clobber them 
+## and recreate.
+##
+afile=/etc/apache2/sites-available/${vhost}
+efile=/etc/apache2/sites-enabled/${vhost}
+
+cat << EOF > /tmp/${vhost}
+<VirtualHost *:80>
+	ServerName ${server_name}
+	ServerAlias www.${server_name}
+	ServerAdmin ${admin_email}
+	DocumentRoot ${docroot}
+	ErrorLog ${APACHE_LOG_DIR}/error.log
+	CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+EOF
+
+# Copy the vhost file to the apache dir 
+cp /tmp/${vhost} $afile
+
+# make the symbolic link to the available config
+ln -s $afile $efile
+
+## Now restart apache
+/etc/init.d/apache2 restart
