@@ -1,0 +1,53 @@
+#
+# Vagrantfile to startup php/nginx, etc. with libvirt
+# 
+# See: http://www.lucainvernizzi.net/blog/2014/12/03/vagrant-and-libvirt-kvm-qemu-setting-up-boxes-the-easy-way/
+# for libvirt specific stuff.
+# 
+# Especially: https://github.com/pradels/vagrant-libvirt
+# 
+
+# 
+# Todo: 
+# - apt-get update 
+# - Install NFS server
+# - apt-get install git
+# - apt-get install nginx
+# - apt-get install php5-fpm
+# - apt-get install php5-cli
+# - Install composer: https://getcomposer.org/doc/00-intro.md
+# 
+
+ENV['VAGRANT_DEFAULT_PROVIDER'] = 'libvirt'
+
+Vagrant.configure("2") do |config|
+
+    config.vm.provider :libvirt do |domain|
+        domain.memory = 4096
+        domain.cpus = 2
+    end
+
+    config.vm.define :goes do |goes|
+
+        goes.vm.hostname = "goes"
+    
+        goes.ssh.forward_agent = true
+
+        goes.vm.box = "ubuntu/trusty64"
+
+        goes.vm.network :public_network, 
+            :dev => "br0", 
+            :mode => 'bridge',
+            :type => 'bridge'
+
+    end
+
+    # Drive mapping
+    config.vm.synced_folder "config/", "/srv/config"
+    config.vm.synced_folder "log", "/srv/log"
+    config.vm.synced_folder "www/", "/srv/www"
+
+    # Provisioning
+    config.vm.provision :shell, path: "bootstrap.sh", args: "44", keep_color: true
+
+end

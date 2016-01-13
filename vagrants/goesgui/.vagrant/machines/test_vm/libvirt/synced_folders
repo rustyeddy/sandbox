@@ -1,0 +1,1 @@
+{"nfs":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/hermosa/vagrants/goesgui","disabled":false,"map_uid":1001,"map_gid":1001,"nfs_udp":true,"nfs_version":3,"uuid":"483945360","linux__nfs_options":["rw","no_subtree_check","all_squash","anonuid=1001","anongid=1001","fsid=483945360"]}}}
