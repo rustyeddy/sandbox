@@ -1,0 +1,137 @@
+/*
+ * ScratchPad Style Seek
+ */
+body
+{
+    background: #e7e7e7;
+    /*font-size: 1.2rem;*/
+    font-family: serif;
+}
+
+p
+{
+    line-height: 1.65;
+    /*text-indent: 30px;*/
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+    font-family: verdana, sans-serif;
+    font-style: italic;
+}
+
+.wrap
+{
+    margin: 0 auto 0 auto;
+    padding: 1.2rem;
+    width: 960px;
+}
+
+ul li
+{
+    line-height: 1.6;
+}
+
+/***************** The header *****************/
+
+header
+{
+    background: red;
+    color: white;
+}
+
+header .wrap
+{
+    font-size: 2rem;
+    font-weight: bold;
+
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+/*********************** Top navbar *************************/
+#primay-nav
+{
+    background: #aaa;
+    color: white;
+}
+
+#primary-nav .wrap
+{
+    padding-top: .6rem;
+    padding-bottom: .6rem;
+}
+
+ul.horizontal-nav li
+{
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+
+/****************** content sidebar wrap ********************/
+
+#content-sidebar-wrap
+{
+    background: white;
+
+
+    border: 2px solid #999;
+    border-radius: 9px;
+
+    margin-top: 20px;
+}
+
+/* ---------------------- The Content --------------- */
+div#content
+{
+    float: left;
+    width: 70%;
+}
+
+div#sidebar
+{
+    float: left;
+    width: 30%;
+}
+
+
+/* ---------------------- The footer --------------- */
+section#footer-section
+{
+}
+
+#footer
+{
+    background: #333;
+    color: white;
+    clear: both;
+}
+
+/* ---------------------- Breadcrumbs --------------- */
+
+.bread-crumb li
+{
+    display: inline;
+    list-style-type: none;
+    padding-right: 10px;
+}
+
+
+
+/* ---------------------- Stuff --------------- */
+.clear
+{
+    clear: both;
+}
+
+div.attributes
+{
+    text-align: center;
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Rusty's Scratch Pad</title>
+    <?php echo $pm->page_title(); ?>
+    <?php echo $pm->stylesheets(); ?>
+  </head>
+
+  <!-- the body -->
+  <body>
+    <!-- Header -->
+    <header>
+      <div class='wrap'>
+	<div>Scratch Pad</div>
+      </div>
+    </header>
+
+    <!-- Top Navbar -->
+    <nav id='header-nav'>
+      <div class='wrap'>
+
+	<?php echo $pm->breadcrumbs(); ?>
+
+      </div> <!-- wrap -->
+    </nav> <!-- header-nav -->
+
+    <!-- Sidebar content wrap -->
+    <div id='content-sidebar-wrap' class='wrap'>
+
+      <!-- The content -->
+      <div id='content'>
+        <?php echo $pm->content(); ?>        
+      </div> <!-- content -->
+
+      <!-- the side navbar -->
+      <div id='sidebar'>
+
+	<!-- file menu -->
+	<div class='nav-wrap'>
+
+	  <h3>Files</h3>
+	  <nav class='sidebar-nav'>
+            <?php echo $pm->navbar_files(); ?>
+	  </nav>
+	</div> <!-- nav wrap -->
+
+	<!-- directory menu -->
+	<div class='nav-wrap'>
+
+	  <h3>Directories</h3>
+	  <nav class='sidebar-section'>
+            <?php echo $pm->navbar_dirs(); ?>
+	  </nav>
+	</div> <!-- nav-wrap -->
+
+      </div> <!-- sidebar -->
+
+      <!-- just so the background is correct -->
+      <div class='clear'></div>
+
+    </div> <!-- content-sidebar wrap -->
+
+  </body>
+</html>
+

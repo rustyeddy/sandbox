@@ -1,0 +1,9 @@
+config.php
+*~
+foo
+xxx
+error_log
+\#*
+\.\#*
+vendor
+
