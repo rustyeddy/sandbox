@@ -1,0 +1,629 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"color-third"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"color",
+				"color-highlight"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"page-width-max"
+			],
+			[
+				"wp_enqueu",
+				"wp_enqueue_scripts"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wp_",
+				"wp_enqueue_scripts"
+			],
+			[
+				"genesis_entry",
+				"genesis_entry_content"
+			],
+			[
+				"array_k",
+				"array_keys"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"fol",
+				"folder_exclude_patterns"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"lpot",
+				"lpot_full_theme_dir"
+			],
+			[
+				"sc",
+				"scssc"
+			],
+			[
+				"root",
+				"rootdir"
+			],
+			[
+				"full",
+				"fullpath"
+			],
+			[
+				"mic",
+				"Michelf"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: @media"
+			],
+			[
+				"pr",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdown ext",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"prevview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"priv",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pre",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"pri",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"makr",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"set ",
+				"Set Syntax: HTML"
+			],
+			[
+				"set synt h",
+				"Set Syntax: HTML"
+			],
+			[
+				"markdown preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown pr",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdown ex",
+				"Set Syntax: Markdown Extended"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"echo $cwd",
+			" pwd",
+			"ls",
+			"pwd",
+			"lpwd",
+			"cmd",
+			"shell ",
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/style.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_series.scss",
+		"/C/Users/rusty/Dropbox/LPO/Resources/WP Plugins/Hybrid Connect/Hybrid Connect.txt",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_genesis-new.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_sidebar.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_home-hero.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/lib/theme-options.php",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_archive.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_settings.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_home-designer.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_breadcrumb.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_header.scss",
+		"/C/Users/rusty/Dropbox/LPO/Resources/WP Plugins/Scribe/info.txt",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_home-featured.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/base/_variables.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/lib/utils.php",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_home.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/home.php",
+		"/C/Users/rusty/Dropbox/Sierra Hydrog/remote-access.md",
+		"/C/Users/rusty/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/rusty/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_responsive.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/style.css",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_colors-fonts.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/base/_grid-settings.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_mixins.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/base/_typography.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_variables.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/base/_base.scss",
+		"/D/www/lpo.dev/wp-content/themes/foundation/config.rb",
+		"/D/www/lpo.dev/wp-content/lpo.sublime-project",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/front-page.php",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_genesis.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/functions.php",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_gravity-forms.scss",
+		"/D/www/bones.dev/.htaccess",
+		"/C/Users/rusty/AppData/Local/Temp/Temp1_wild_flowers.zip/wild_flowers/readme.txt",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/js/sticky-menu.js",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/scss/_secondary-sticky-menu.scss",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/themes/lakepark/scss/_secondary-sticky-menu.scss",
+		"/D/www/lpo.dev/wp-content/themes/genesis/header.php",
+		"/D/www/lpo.dev/wp-content/themes/lakepark/.sass-cache/8e14c232ae814d3e5dd0a843d22ee502b69df989/_columns.scssc",
+		"/D/www/lpo.dev/wp-content/plugins/backupbuddy/_compat.php",
+		"/D/www/lpo.dev/wp-content/themes/genesass/README.md",
+		"/D/www/lpo.dev/wp-content/themes/genesass/functions.php",
+		"/C/Users/rusty/Dropbox/LPO/Notes/lpo-website/about.md",
+		"/D/www/lpo.dev/wp-content/themes/index.php",
+		"/D/www/lpo.dev/.htaccess",
+		"/D/www/bones.dev/bones/index.php",
+		"/D/www/bones.dev/index.php",
+		"/D/www/bones.dev/bones/wp-settings.php",
+		"/D/www/bones.dev/bones/wp-config.php",
+		"/C/Users/rusty/Dropbox/LPO/Notes/lpo-website/website-post.md",
+		"/C/Users/rusty/Dropbox/LPO/Notes/lpo-website/website-management.md",
+		"/C/Users/rusty/Dropbox/LPO/Resources/WP Plugins/Gravity Forms/license.txt",
+		"/C/Users/rusty/Dropbox/LPO/Notes/lpo-website/about-lpo.txt",
+		"/C/Users/rusty/Dropbox/LPO/Notes/lpo-website/lpo-website.sublime-project",
+		"/C/Users/rusty/Dropbox/LPO/Resources/WP Plugins/ACF Addons/Info.txt",
+		"/C/Users/rusty/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/rusty/Dropbox/LPO/Training/Survey Funnel Formula/Notes/SFF-w1p3-anaylzing-survey-results.md",
+		"/C/Users/rusty/Dropbox/LPO/Training/Survey Funnel Formula/Notes/SFF-w1p2-nolist-survey-structure.md",
+		"/C/Users/rusty/Dropbox/LPO/Training/Training.sublime-project",
+		"/C/Users/rusty/Desktop/ACF Addons/Info.txt",
+		"/C/Users/rusty/Dropbox/LPO/Training/Survey Funnel Formula/Notes/SFF-w1-Overview.md",
+		"/C/Users/rusty/Dropbox/LPO/Training/Survey Funnel Formula/Notes/SFF-001-Overview.mdown",
+		"/D/www/private.dev/wp-content/themes/moses/scss/style.scss",
+		"/D/www/private.dev/wp-content/themes/moses/style.css",
+		"/D/www/private.dev/wp-content/plugins/backupbuddy/.idea/scopes/scope_settings.xml",
+		"/D/www/private.dev/wp-content/plugins/gravityforms/select_columns.php",
+		"/D/www/private.dev/wp-content/themes/moses/single-resource.php",
+		"/D/www/private.dev/wp-content/themes/moses/lib/debug.php",
+		"/D/www/private.dev/wp-content/themes/moses/scss/_typography.scss",
+		"/D/www/private.dev/wp-content/themes/moses/moses.php",
+		"/D/www/private.dev/wp-content/themes/moses/functions.php",
+		"/D/www/private.dev/wp-content/mylpo.sublime-project",
+		"/D/www/private.dev/wp-content/themes/moses/.sass-cache/fc4d2ee10f39b170f8b956bc7845e44b331e8e08/_typography.scssc",
+		"/D/www/private.dev/wp-content/themes/moses/.sass-cache/0e2ef8f5d885759b9ead63af4cdfee5f35c546fc/_triangle.scssc",
+		"/D/www/private.dev/wp-content/plugins/backupbuddy/_compat.php",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/moses/style.css",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/moses/scss/bourbon/css3/_animation.scss",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/moses/scss/bourbon/css3/_radial-gradient.scss",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/moses/scss/neat/grid/_reset.scss",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/mylpo.sublime-project",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/moses/scss/style.scss",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/plugins/resources/README.txt",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/moses/scss/genesis.scss",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis-sample/scss/base/_typography.scss",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis-sample/scss/base/_tables.scss",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis-sample/scss/base/_base.scss",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis/lib/functions/general.php",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/plugins/gravityforms/languages/gravityforms-es_ES.mo",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/plugins/gravityforms/gravityforms.php",
+		"/C/Users/rusty/Dropbox/Sierra Hydrog/WindRainReset/MeasWMiles_v4.txt",
+		"/C/Users/rusty/Dropbox/Sierra Hydrog/WindRainReset/TBRainAccumSensor_v3.txt",
+		"/C/xampplite/DesktopServer.exe",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis-sample/scss/rusty.scss",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis-sample/rusty.css",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis-sample/lakepark.php",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis-sample/functions.php",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis/style.css",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis-sample/scss/.sass-cache/8142a94ea49a29eda2549b2097923cd323a08a5b/_str-to-num.scssc",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis/search.php",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/plugins/gravityforms/languages/gravityforms-ka_GE.mo",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis-sample/scss/.sass-cache/8142a94ea49a29eda2549b2097923cd323a08a5b/_linear-angle-parser.scssc",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis-sample/style.css",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesass/style.css",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/index.php",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesass/scss/style.scss",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesass/style.css/style.css",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/genesis/lib/css/load-styles.php",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/plugins/gravityforms/css/tooltip.css",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/plugins/gravityforms/css/admin.css",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/plugins/gravityforms/select_columns.php",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/.mylpo.sublime-project",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/rusty/404.php",
+		"/D/src/DesktopServer/mylpo.dev/wp-content/themes/rusty/archive.php",
+		"/C/Users/rusty/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/rusty/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/rusty/Desktop/Double Your Freelancing/Complete Package/Bonus Webinars.txt",
+		"/C/Users/rusty/Desktop/Double Your Freelancing/Complete Package/upgrade.txt",
+		"/C/Users/rusty/Desktop/Wind & Rain Resets/TBRainAccumSensor_v3.txt",
+		"/C/Users/rusty/Desktop/Double Your Freelancing/Complete Package/Video Interviews/Video Links.txt",
+		"/C/Users/rusty/AppData/Local/Temp/Temp1_api_library_php.zip/examples/merge_document.php",
+		"/C/Users/rusty/Desktop/seopowersuite-jre/Install.txt",
+		"/C/Users/rusty/Desktop/windrainreset/TBRainAccumSensor_v3.txt",
+		"/C/Users/rusty/Desktop/windrainreset/SDI_0RainAccumSensorV4.txt",
+		"/C/Users/rusty/Desktop/windrainreset/MeasWMiles_v4.txt",
+		"/C/Users/rusty/AppData/Local/Temp/Temp1_rerainandwindresets.zip/WindAccum.txt"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"specifi",
+			"identi",
+			"local mean",
+			">>",
+			"confused",
+			">>",
+			"duplicate",
+			"duplicates",
+			"duplicate",
+			"yellow",
+			"problems",
+			"Black",
+			"Yellow",
+			"echo ",
+			"stylesheets",
+			"template",
+			"n",
+			"read_directory"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 130.0
+	},
+	"project": "notebook.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"_he",
+				"lakepark\\scss\\_header.scss"
+			],
+			[
+				"functions.php",
+				"lakepark\\functions.php"
+			],
+			[
+				"_colo",
+				"lakepark\\scss\\_colors-fonts.scss"
+			],
+			[
+				"_gen",
+				"lakepark\\scss\\_genesis.scss"
+			],
+			[
+				"scss",
+				"moses\\scss\\style.scss"
+			],
+			[
+				"",
+				"moses\\style.css"
+			],
+			[
+				"src/",
+				"resources\\src\\resources-post-type.php"
+			],
+			[
+				"_typography.scss",
+				"themes\\genesis-sample\\scss\\base\\_typography.scss"
+			],
+			[
+				"gen",
+				"themes\\moses\\scss\\genesis.scss"
+			],
+			[
+				"style.css",
+				"themes\\genesis\\style.css"
+			],
+			[
+				"lake",
+				"themes\\genesis-sample\\lakepark.php"
+			],
+			[
+				"references.md",
+				"omg\\references.md"
+			],
+			[
+				"lpo-services.md",
+				"C:\\Users\\rusty\\Dropbox\\LPO\\Notes\\local-services-with-moz.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\rusty\\Dropbox\\LPO\\Notes\\lpo-website\\lpo-website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 144.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
