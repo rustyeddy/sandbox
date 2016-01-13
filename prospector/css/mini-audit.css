@@ -1,0 +1,170 @@
+#main-wrapper {
+    margin: auto;
+    border: solid #CCCCCC; border-width: 0px 1px;
+    width: 800px;
+    background-color: #FFFFFF;
+}
+
+/*
+#header {
+    margin: auto;
+    padding: 30px 0px;
+    width: 720px; height: 140px;
+}
+
+#logo-wrapper {
+    float: left;
+}
+
+#logo {
+    border: none;
+    max-height: 140px;
+}
+*/
+
+#company-info-wrapper {
+    float: right;
+    padding: 16px 10px;
+    text-align: right;
+}
+
+.indent {
+    text-indent: 20px;
+}
+
+#contents {
+    /*margin: auto;*/
+    width: 720px;
+}
+
+#summary,
+#paid-keywords,
+#competitors {
+    border: solid 1px #CCCCCC;
+    width: 718px;
+}
+
+#summary td,
+#paid-keywords td,
+#competitors td {
+    padding: 4px 0px 4px 8px;
+}
+
+#ads-list {
+    padding: 0px;
+    margin: 0px;
+    width: 720px;
+    list-style: none;
+}
+
+#ads-list li {
+    display: inline-block;
+    margin-left: 0;
+    padding: 0px 15px 0px 3px;	/* 4px makes all ads one column! */
+    width: 340px;
+    height: 80px;
+}
+
+#ads-list li a {
+    color: #2518b5;
+    font-size: medium;
+}
+
+#ads-list li p {
+    padding: 0px; margin: 0px;
+    height: 36px;
+    overflow: hidden;
+}
+
+#ads-list li span {
+    color: #009933;
+}
+
+#summary.normal img {
+    display: inline-block;
+    width: 20px; height: 20px;
+}
+
+#summary.normal span.raw-result {
+    display: none;
+}
+
+#summary.raw img {
+    display: none;
+}
+
+#summary.raw span.green {
+    color: #2DB200;
+}
+
+#summary.raw span.yellow {
+    color: #FEBE10;
+}
+
+#summary.raw span.red {
+    color: #FF4000;
+}
+
+#footer {
+    width: 720px;
+    padding: 30px 0px 40px 0px; margin: auto;
+}
+
+#footer-left {
+    float: left;
+    padding: 5px 20px;
+    border: solid 2px #385D8A;
+    color: #FFFFFF; font-style: italic; font-weight: bold;
+    background-color: #4F81BD;
+
+}
+
+#footer-right {
+    float: left;
+    padding: 7px 20px;
+}
+
+#copyright {
+    clear: both;
+    padding-top: 10px;
+}
+
+@media print {
+    body { background-color: #FFFFFF; }
+    #main-wrapper { border: none; }
+    #contents > * {
+        page-break-inside: avoid;
+    }
+}
+
+/*
+ * The sidebar and wrapper
+ */
+.mini-audit-sidebar h2,
+.mini-audit-content h2
+{
+    clear: both;
+    font-size: 1.5rem;
+
+    padding: 25px 0px 15px 0px;
+}
+
+.mini-audit-content 
+{
+    float: left;
+    font: 12px/18px Arial;
+}
+
+.mini-audit-sidebar
+{
+    float: left;
+    margin-left: 40px;
+    width: 390px;
+}
+
+.mini-audit-content table 
+{
+    border: none;
+}
+
+

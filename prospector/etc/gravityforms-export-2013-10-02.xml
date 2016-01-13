@@ -1,0 +1,42 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<forms version="1.7.9">
+	<form labelPlacement="top_label" useCurrentUserAsAuthor="1">
+		<title><![CDATA[Prospect Uploader]]></title>
+		<descriptionPlacement><![CDATA[below]]></descriptionPlacement>
+		<button type="text">
+			<text><![CDATA[Submit]]></text>
+		</button>
+		<fields>
+			<field id="1" size="medium" type="text">
+				<defaultValue><![CDATA[Unknown]]></defaultValue>
+				<description><![CDATA[Entry the keyword used to import this set of prospects]]></description>
+				<label><![CDATA[Keyword]]></label>
+			</field>
+			<field id="2" size="medium" type="text">
+				<defaultValue><![CDATA[United States]]></defaultValue>
+				<label><![CDATA[Location]]></label>
+			</field>
+			<field id="3" isRequired="1" size="medium" type="fileupload">
+				<label><![CDATA[File]]></label>
+				<allowedExtensions><![CDATA[.zip, .html, .csv]]></allowedExtensions>
+			</field>
+		</fields>
+		<confirmations>
+			<confirmation id="5245f83b90482" isDefault="1" type="message">
+				<name><![CDATA[Default Confirmation]]></name>
+				<message><![CDATA[{all_fields}]]></message>
+			</confirmation>
+		</confirmations>
+		<notifications>
+			<notification id="5245f83b893e9">
+				<to><![CDATA[{admin_email}]]></to>
+				<name><![CDATA[Admin Notification]]></name>
+				<event><![CDATA[form_submission]]></event>
+				<toType><![CDATA[email]]></toType>
+				<subject><![CDATA[New submission from {form_title}]]></subject>
+				<message><![CDATA[{all_fields}]]></message>
+			</notification>
+		</notifications>
+	</form>
+</forms>
