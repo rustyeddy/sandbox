@@ -1,0 +1,10 @@
+#!/bin/sh
+
+tests='.'
+if [ $# -gt 0 ] 
+then
+    tests=$@
+fi
+
+phpunit --verbose --bootstrap bootstrap.php $tests
+exit;

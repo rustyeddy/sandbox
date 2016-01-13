@@ -1,0 +1,28 @@
+{
+    "name":		"rustyeddy/mwp",
+    "description":	"A command line utility to manage multiple WordPress installations",
+    "keywords":		[ "cli", "wordpress" ],
+    "homepage":		"http://github.com/rustyeddy/mwp",
+    "license":		"MIT",
+
+    "repositories": [
+    	{
+    		"type": "package",
+    		"package": {
+    			"name": "jacwright/restserver",
+    			"version": "1.0",
+    			"source": {
+    				"url" : "https://github.com/jacwright/RestServer",
+    				"type": "git",
+    				"reference": "master"
+    			}
+    		}
+    	}
+    ],
+
+    "require":	{
+        "wp-cli/php-cli-tools": "0.9.4-patch46",
+        "monolog/monolog": "~1.11",
+        "jacwright/restserver": "1.*"
+    }
+}
