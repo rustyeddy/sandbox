@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+    <h2>Hello, {{ user.nickname }}</h2>
+
+    <hr/>
+    <h2>KVM - Domains</h2>
+    <div class="vms">
+        {% for domain in domains %}
+            <p>{{ domain.name }}</p>
+        {% endfor %}
+    </div>
+
+{% endblock %}
