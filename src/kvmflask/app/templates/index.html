@@ -3,11 +3,26 @@
     <h2>Hello, {{ user.nickname }}</h2>
 
     <hr/>
-    <h2>KVM - Domains</h2>
-    <div class="vms">
-        {% for domain in domains %}
-            <p>{{ domain.name }}</p>
-        {% endfor %}
-    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <h2>KVM - Domains</h2>
+
+            <div class="vms">
+                {% for domain in domains %}
+                    <p>{{ domain.name }}</p>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <h2>Middle</h2>
+            <p>This is a middle block</p>
+        </div>
+
+        <div class="col-md-4">
+            <h2>Right</h2>
+            <p>This is the right block</p>
+        </div>
+
 
 {% endblock %}
