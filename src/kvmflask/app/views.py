@@ -16,6 +16,6 @@ def index():
         dlist.append({"name": d})
 
     return render_template('index.html',
-                           user='user',
+                           user=user,
                            title='Home',
                            domains=dlist)
