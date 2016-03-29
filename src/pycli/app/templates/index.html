@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    {% if title %}
     <title>{{ title }} - PyClient App</title>
+    {% else %}
+    <title>PyClient App</title>
+    {% endif %}
 </head>
 <body>
 <h1>Hello, {{ user.nickname }}</h1>
