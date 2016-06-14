@@ -6,4 +6,3 @@ class Namecheap(RestClient):
     def __init__(self):
         pass
 
-    
