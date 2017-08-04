@@ -1,0 +1,20 @@
+---
+- hosts: ec2hosts
+  name: AWS EC2 | Configure newly created hosts
+  user: ubuntu
+  gather_facts: true
+
+  tasks:
+    # move these to their own role
+    - name: AWS EC2 | Update the repo for the VM(s)
+      apt:
+        upgrade: dist
+
+    - name: AWS EC2 | Update the programs in the repository
+      apt:
+        update_cache: yes
+
+    - name: AWS EC2 | Install NTP time keeper
+      service:
+        name: ntp
+        state: started

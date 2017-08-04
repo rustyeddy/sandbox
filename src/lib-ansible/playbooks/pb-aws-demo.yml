@@ -1,0 +1,33 @@
+---
+
+- hosts: localhost
+  connection: local
+  gather_facts: False
+
+  vars:
+    ami_id: ami-6e1a0117
+    instance_type: t2.micro
+    exact_count: 5
+    usename: Demo
+    region: us-west-2
+    key_pair: ec2-key-pair
+
+  tasks:
+
+    - name: AWS EC2 | Provision a set of instances
+      ec2:
+        region: "{{ region }}"
+        key_name: "{{ key_pair }}"
+        instance_type: "{{ instance_type }}"
+        image: "{{ ami_id }}"
+        wait: true
+        exact_count: "{{ exact_count }}"
+        count_tag:
+          Name: "{{ usename }}"
+        instance_tags:
+          Name: "{{ usename }}"
+      register: ec2
+
+    - name: AWS EC2 | Add instance public IPs to host group
+      add_host: hostname={{ item.public_ip }} groups=ec2hosts
+      with_items="{{ ec2.instances }}"
