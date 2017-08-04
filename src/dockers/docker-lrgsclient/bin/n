@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## TODO: create a check for these environment variables
+username=$DCSUSER
+password=$DCSPASS
+
+/srv/LrgsClient/bin/getDcpMessages -u $username -P $password -h cdadata.wcda.noaa.gov -f ../etc/all-realtime.sc -a '====' -x -t 3600

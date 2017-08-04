@@ -1,0 +1,2 @@
+LrgsClient filter=lfs diff=lfs merge=lfs -text
+lib/lrgs-client-install-6-2-RC03.jar filter=lfs diff=lfs merge=lfs -text
