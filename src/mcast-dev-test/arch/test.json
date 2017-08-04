@@ -1,0 +1,44 @@
+{
+  "mcastgroup": [
+    {
+      "source_address": "10.0.0.1/32",
+      "group_address": "224.224.1.5/32",
+      "ingress_point": {
+        "McastConnectPoint": {
+          "elementId": "of:0000000000000001",
+          "portNumber": 1
+        }
+      },
+      "egress_point": {
+        "McastConnectPoint": [
+          {
+            "elementId": "of:0000000000000002",
+            "portNumber": 2
+          },
+          {
+            "elementId": "of:000000000000003",
+            "portNumber": 3
+          }
+        ]
+      }
+    },
+    {
+      "source_address": "10.0.0.3/32",
+      "group_address": "224.224.1.3/32",
+      "ingress_point": {
+        "McastConnectPoint": {
+          "elementId": "of:0000000000000003",
+          "portNumber": 3
+        }
+      },
+      "egress_point": {
+        "McastConnectPoint": [
+          {
+            "elementId": "of:0000000000000004",
+            "portNumber": 4 
+          }
+        ]
+      }
+    }
+  ]
+}

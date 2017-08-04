@@ -1,0 +1,5 @@
+#!/bin/bash
+
+curl --user karaf:karaf -X POST -H "Content-Type: application/json" http://localhost:8181/onos/v1/network/configuration/ -d @/home/rusty/src/mcast-dev-test/etc/pim-cfg.json 
+echo ""
+echo "Hopefully it got loaded"

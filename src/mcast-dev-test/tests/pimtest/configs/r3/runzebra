@@ -1,0 +1,2 @@
+#!/bin/sh
+zebra -k -f ~/mcast-dev-test/etc/r3/zebra.conf -i ~/run/r3/pid.lock -z ~/run/r3/zserve.api

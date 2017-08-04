@@ -1,0 +1,13 @@
+#!/bin/bash
+
+##
+## Get the IP address of a docker instance
+##
+
+if [ -n $0 ]; then
+    name="onos"
+else 
+    name=$0
+fi
+
+sudo /usr/bin/docker inspect --format '{{ .NetworkSettings.IPAddress }}' $name

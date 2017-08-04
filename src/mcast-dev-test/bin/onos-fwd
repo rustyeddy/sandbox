@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Deactivate mfwd
+onos-app localhost deactivate org.onosproject.mfwd
+
+# Activate fwd apps
+onos-app localhost activate org.onosproject.fwd
+onos-app localhost activate org.onosproject.proxyarp

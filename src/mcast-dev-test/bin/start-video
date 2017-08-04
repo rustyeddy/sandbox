@@ -1,0 +1,8 @@
+#!/bin/sh
+
+iface=$1
+
+# on the server
+/usr/bin/vlc-wrapper -vvv --miface="$iface" /home/directv/Videos/planet.mp4 --sout "#duplicate{dst=rtp{dst=227.1.1.1,port=5004,mux=ts,sap,name=MW},dst=display}"
+
+#vlc-wrapper -vvv --miface='h1-eth0' /home/directv/Videos/mw.mp4 --sout "#duplicate{dst=rtp{dst=227.1.1.1,port=5004,mux=ts,sap,name=MW},dst=display}"

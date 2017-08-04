@@ -1,0 +1,2 @@
+#!/bin/sh
+ripd -f ~/mcast-dev-test/etc/r2/ripd.conf -i ~/run/r2/ripd-pid.lock 

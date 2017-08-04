@@ -1,0 +1,11 @@
+#!/bin/sh
+
+## Connect VM Video Server to switch 1
+#ifconfig eth0 0.0.0.0
+#ovs-vsctl add-port s1 eth0
+#ifconfig s1 10.1.1.102/24 up
+
+## Connect Wireless router to switch 4
+ifconfig eth1 0.0.0.0
+ovs-vsctl add-port s4 eth1
+ifconfig s4 10.1.1.102/24 up

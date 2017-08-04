@@ -1,0 +1,18 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 127.0.0.1:6010          127.0.0.1:50012         ESTABLISHED
+tcp        0      0 127.0.0.1:50044         127.0.0.1:6010          ESTABLISHED
+tcp        0      0 127.0.0.1:6010          127.0.0.1:49995         ESTABLISHED
+tcp        0      0 127.0.0.1:49995         127.0.0.1:6010          ESTABLISHED
+tcp        0     32 127.0.0.1:6010          127.0.0.1:50044         ESTABLISHED
+tcp        0      0 127.0.0.1:50012         127.0.0.1:6010          ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     326466   
+unix  3      [ ]         STREAM     CONNECTED     326465   
+unix  3      [ ]         STREAM     CONNECTED     1037743  
+unix  3      [ ]         STREAM     CONNECTED     1037742  
+unix  2      [ ]         DGRAM                    1861033  
+unix  3      [ ]         STREAM     CONNECTED     64644    
+unix  3      [ ]         STREAM     CONNECTED     64645    
+unix  2      [ ]         DGRAM                    1860290  

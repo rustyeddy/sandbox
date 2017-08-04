@@ -1,0 +1,2 @@
+#!/bin/sh
+zebra -k -f ~/run/r1/zebra.conf -i ~/run/r1/pid.lock -z ~/run/r1/zserve.api

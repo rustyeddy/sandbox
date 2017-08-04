@@ -1,0 +1,44 @@
+{
+  "defn_name": "sprite_layer_id",
+  "defn_desc": "Brief One-Line description of sprite layer",
+ 
+  "_comment": [
+    "Multi-line comment...",
+    "if desired.",
+    "(This is optional)"
+  ],
+ 
+  "paths": [
+    {
+      "tag": "<path_id>",
+      "stroke": {
+        "width": 2.5,
+        "dasharray": "[4, 2,]"
+      },
+      "viewbox":"<viewbxox>"
+    },
+    { ... path defn 2 ... },
+    ...
+  ],
+ 
+  "defn": [
+    { ... sprite defn 1 ... },
+    { ... sprite defn 2 ... },
+    ...
+  ],
+ 
+  "load": {
+    "alpha": ... ,
+    "sprites": [
+      { ... sprite instance 1 ... },
+      { ... sprite instance 2 ... },
+      { ... sprite instance 3 ... },
+      ...
+    ],
+    "labels": [
+      { ... label instance 1 ... },
+      { ... label instance 2 ... },
+      ...
+    ]
+  }
+}

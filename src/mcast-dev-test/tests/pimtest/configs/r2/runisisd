@@ -1,0 +1,2 @@
+#!/bin/sh
+isisd -f ~/mcast-dev-test/etc/r2/isis.conf -i ~/run/r2/isis-pid.lock 

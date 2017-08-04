@@ -1,0 +1,35 @@
+<PARAMS>
+
+    <testcases>1,2,3,4</testcases>
+
+    <SCALE>1,2</SCALE>
+    <availableNodes>1</availableNodes>
+    <ENV>
+    	<cellName>local</cellName>
+        <cellApps>drivers,openflow,proxyarp,mobility</cellApps>
+    </ENV>
+    <GIT>
+        <autopull>off</autopull>
+        <checkout>master</checkout>
+    </GIT>
+    <CTRL>
+        <num>1</num>
+        <ip1>OC1</ip1>
+        <port1>8181</port1>
+    </CTRL>
+   <BENCH>
+        <user>yogesh</user>
+        <ip1>OC1</ip1>
+    </BENCH>
+    <MFWD>
+        <src>10.0.0.1/32</src>
+        <grp>239.0.0.1/32</grp>
+        <ingress>of:0000000000000001/1</ingress>
+        <egress>of:0000000000000002/2 of:0000000000000003/3</egress> 
+        <file>test.json</file>
+    </MFWD> 
+    <MININET>
+        <topo>topos/fourswmesh.py</topo>
+    </MININET>
+
+</PARAMS>
