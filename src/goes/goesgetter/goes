@@ -1,0 +1,19 @@
+#!/usr/bin/env php
+<?php
+
+namespace SierraHydrog\Goes;
+require_once "bootstrap.php";
+
+// Turn off logging by default
+global $log;
+global $commands;
+
+$prog = array_shift($argv);
+if (count($argv) < 1) {
+    $commands->usage();
+    exit(1);
+}
+
+$output = $commands->process($argv);
+echo $output . "\n";
+

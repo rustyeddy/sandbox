@@ -1,0 +1,217 @@
+[
+    {
+        "_id": "NFW",
+        "siteName": "North Fork Willow Creek near Sugar Pine, CA",
+        "mnemonic": "NFW",
+        "projectId": "MID",
+        "pdtType": "CDEC",
+        "nesdisId": "3A800160",
+        "decodingScheme": "Oldest First",
+        "scanInterval": "15",
+        "shefOrder": "HG, VB",
+        "timeseriesIds": [
+            "HG.GOES@NFW",
+            "VB.GOES@NFW"
+        ],
+        "latitude": "37-23-52",
+        "longitude": "119-33-33",
+        "elevation": "5200",
+        "notes": "GOES Timesieries have been created"
+    },
+    {
+        "_id": "BGF",        
+        "siteName": "North Fork Willow Creek near Sugar Pine, CA",
+        "mnemonic": "BGF",
+        "projectId": "MID",
+        "pdtType": "CDEC",
+        "nesdisId": "3A801216",
+        "decodingScheme": "Oldest First",
+        "scanInterval": "15",
+        "shefOrder": "HG, VB",
+        "timeseriesIds": [
+            "HG.GOES@BGF",
+            "VB.GOES@BGF"
+        ],
+        "specialRemarks": "HG comes in columns, VB once on the hour",
+        "latitude": "37-28-10",
+        "longitude": "119-36-51",
+        "elevation": "5200",
+        "parser": "ParserBGF",
+        "notes": [
+            "GOES Timesieries have been created",
+            "Custom parser each value on a single line"
+        ]
+    },
+    {
+        "_id": "DW1",
+        "siteName": "DW1",
+        "mnemonic": "DW1",
+        "projectId": "UNKNOWN",
+        "pdtType": "ACOE",
+        "nesdisId": "CE94B440",
+        "decodingScheme": "Oldest First",
+        "scanInterval": "15",
+        "shefOrder": "TA, VX",
+        "timeseriesIds": [
+            "TA.GOES@DW1",
+            "YBL.GOES@DW1"
+        ],
+        "latitude": "371849",
+        "longitude": "-1194109"
+    },
+    {
+        "_id": "FHL",
+        "siteName": "FHL",
+        "mnemonic": "FHL",
+        "projectId": "UNKNOWN",
+        "pdtType": "ACOE",
+        "nesdisId": "CE52A39C",
+        "decodingScheme": "Oldest First",
+        "scanInterval": "15",
+        "shefOrder": "HG, VX",
+        "timeseriesIds": [
+            "HG.GOES@FHL",
+            "YBL.GOES@FHL"
+        ],
+        "latitude": "370902",
+        "longitude": "-1195122"
+    },
+    {
+        "_id": "HIDW",
+        "siteName": "HIDW",
+        "mnemonic": "HIDW",
+        "projectId": "UNKNOWN",
+        "pdtType": "ACOE",
+        "nesdisId": "CE94A736",
+        "decodingScheme": "Oldest First",
+        "scanInterval": "15",
+        "shefOrder": "TA, PA, US, UD, UC, XR, RN, RW, PC, ER, VX",
+        "timeseriesIds": [
+            "TA.GOES@HIDW",
+            "PA.GOES@HIDW",
+            "US.GOES@HIDW",
+            "UD.GOES@HIDW",
+            "Wind Distance.GOES@HIDW",
+	    "XR.GOES@HIDW",
+            "RadFlux.GOES@HIDW",
+            "RW.GOES@HIDW",
+            "PC.GOES@HIDW",
+            "ER.GOES@HIDW",
+            "YBL.GOES@HIDW"
+        ],
+        "latitude": "370652",
+        "longitude": "-1195336"
+    },
+    {
+        "_id": "HIDP",
+        "siteName": "HIDP",
+        "mnemonic": "HIDP",
+        "projectId": "UNKNOWN",
+        "pdtType": "ACOE",
+        "nesdisId": "CE9481DA",
+        "decodingScheme": "Oldest First",
+        "scanInterval": "15",
+        "shefOrder": "HP, VX",
+	"timeseriesIds": [
+            "Lake_Elev_NGVD.GOES@HIDP",
+            "YBL.GOES@HIDP"
+        ],
+        "latitude": "370634",
+        "longitude": "-1195305",
+	"notes": "we do not actually track HIDP, so we are not currently collecting data"
+    },
+    {
+        "_id": "OKH",
+        "siteName": "Oakhurst",
+        "mnemonic": "OKH",
+        "projectId": "UNKNOWN",
+        "pdtType": "ACOE",
+        "nesdisId": "CE94C2D0",
+        "decodingScheme": "Oldest First",
+        "scanInterval": "15",
+        "shefOrder": "PC, TA, VX",
+        "timeseriesIds": [
+            "PC.GOES@OKH",
+            "TA.GOES@OKH",
+            "YBL.GOES@OKH"
+        ],
+        "latitude": "372041",
+        "longitude": "-1194033"
+    },
+    {
+        "_id": "WST",
+        "siteName": "WST",
+        "mnemonic": "WST",
+        "projectId": "UNKNOWN",
+        "pdtType": "ACOE",
+        "nesdisId": "CE94D1A6",
+        "decodingScheme": "Oldest First",
+        "scanInterval": "15",
+        "shefOrder": "PC, TA, VX",
+        "timeseriesIds": [
+            "PC.GOES@WST",
+            "TA.GOES@WST",
+            "YBL.GOES@WST"
+        ],
+        "latitude": "372658",
+        "longitude": "-1193859"
+    },
+    {
+        "_id": "S124",
+        "siteName": "Fish Release near Murphys, CA",
+        "mnemonic": "S124",
+        "projectId": "Utica",
+        "pdtType": "CDEC",
+        "nesdisId": "6A100576",
+        "decodingScheme": "Oldest First",
+        "scanInterval": "15",
+        "shefOrder": "HG, VB, HG, VX",
+        "timeseriesIds": [
+            "HG.GOES@S124",
+            "VB.GOES@S124",
+            "HG.S48GOES@S124",
+            "YBL.GOES@S124"
+        ],
+        "latitude": "38-81-7”",
+        "longitude": "120-20-19",
+        "elevation": "2138",
+        "notes": "S48 piggy backs on this"
+    },
+    {
+        "_id": "WWC",
+        "siteName": "West Woodchuck",
+        "projectId": "Kings River",
+        "mnemonic": "WWC",
+        "nesdisId": "CE955548",
+        "shefOrder": "TA, SD, SW, VX",
+        "timeseriesIds": [
+            "TA.GOES@WWC",
+            "SD.GOES@WWC",
+            "SW.GOES@WWC",
+            "VX.GOES@WWC"
+        ],
+        "longitude": "370152",
+        "latitude": "-1185453",
+        "elevation": "9100"
+
+    },
+    {
+        "_id": "MTM",
+        "siteName": "Mitchell Meadow",
+        "projectId": "Kings River",
+        "mnemonic": "MTM",
+        "nesdisId": "CE9530AE",
+        "shefOrder": "TA, SD, SW, VX",
+        "timeseriesIds": [
+            "TA.GOES@MTM",
+            "SD.GOES@MTM",
+            "SW.GOES@MTM",
+            "VX.GOES@MTM"
+        ],
+        "longitude": "3644100",
+        "latitude": "-1184244",
+        "elevation": "10026"
+    }
+
+]
+

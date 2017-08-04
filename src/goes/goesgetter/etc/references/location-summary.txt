@@ -1,0 +1,124 @@
+  LocStr: LocId   -> Location Name
+Test Location: 101     -> Test Location
+     NFW: 115     -> N. F. Willow Creek Near Sugar Pine, CA.
+     FHL: 130     -> Fresno River Above Hensley Lake, CA.
+    BLBW: 162     -> Black Butte Weather Station
+     MCK: 186     -> Bear Creek At McKee Road
+ alex123: 335     -> example river near Alex's house
+    BARQ: 340     -> Bear Creek Blw Bear Dam Near Planada, CA.
+     PDR: 1586    -> Mill Creek At Piedra, CA.
+    PNFQ: 2014    -> Kings River Blw Pine Flat Dam
+     TMR: 2047    -> Kings River blw North Fork NR Trimmer
+     FTH: 2055    -> Foothill Ditch blw Terminus Dam
+     LCV: 2060    -> Dry Creek near Lemon Cove
+     LMN: 2065    -> Lemon Cove Ditch blw Terminus Dam
+     DCK: 2083    -> Duck Creek near Farmington, CA
+     DUC: 2087    -> Duck Creek Diversion near Farmington, CA
+     FRG: 2095    -> Littlejohn Creek at Farmington, CA
+     RCF: 2102    -> Rock Creek below Farmington Dam
+     CGV: 2110    -> Cosgrove Creek near Valley Springs, CA
+     MRS: 2116    -> Mormon Slough at Bellota
+    NHGQ: 2123    -> Calaveras River below New Hogan Dam
+    BLBQ: 2130    -> Stony Creek below Black Butte Dam
+     STD: 2137    -> South Diversion Canal below Black Butte Dam
+    NHGW: 2145    -> New Hogan Weather
+    COYQ: 2152    -> E.F. Russian River near Ukiah, CA
+    WRSQ: 2161    -> Dry Creek below Warm Springs Dam
+     EXC: 14595   -> Lake McClure at Exchequer
+     MCS: 14604   -> McSwain Reservoir near Snelling, CA
+     MMF: 14609   -> Merced River Below Merced Falls Dam near Snelling, CA
+     MCH: 14614   -> Merced River below Crocker-Huffman Dam near Snelling, CA
+     MSB: 14619   -> Merced River at Shaffer Bridge near Cressey, CA
+     MTK: 14686   -> Martis Creek Near Truckee, CA.
+    COYW: 18831   -> Lake Mendocino Weather
+    WRSW: 19000   -> Warm Springs Weather
+     BGF: 19474   -> Big Creek Near Fish Camp, CA.
+     SET: 19679   -> Goodwin Tunnel Outlet
+     SHG: 19711   -> Shirley Gulch
+    SFMW: 19772   -> South Fork Merced River at Wawona, CA.
+     TRR: 23050   -> Kaweah River at Three Rivers, CA
+    BUCQ: 25146   -> Chowchilla River Blw Buchanan Dam
+    HIDQ: 26650   -> Fresno River Blw Hidden Dam
+     HLK: 27964   -> Highline Canal at Kansas
+    TRMQ: 32452   -> Kaweah River Below Terminus Dam
+    ISBQ: 33086   -> Kern River below Isabella Dam, CA
+    BURQ: 35519   -> Burns Creek Below Burns Reservoir near Planada
+    OWNQ: 37512   -> Owens Creek below Owens Reservoir near LeGrand
+    MARQ: 37519   -> Mariposa Creek below Mariposa Dam
+     BLR: 37526   -> Black Rascal Diversion near Merced
+     MBB: 53559   -> Merced River at Briceburg, CA.
+     KRN: 53807   -> Kern River at Kernville, CA.
+    BRLQ: 56455   -> Borel Canal Below Isabella Aux. Dam
+    BRLF: 58453   -> Borel Canal Syphon
+     SR1: 58532   -> Sherman Peak Repeater 1
+     PSC: 58580   -> Pascoes
+    ISBW: 58654   -> Isabella Weather Station
+     PNR: 61289   -> Pioneer Ditch Below Success Dam
+    SCCQ: 61296   -> Tule River Below Success dam
+     SCS: 61303   -> South Fork Tule River Near Success
+     SGV: 61347   -> Tule River Near Springville
+     DRC: 61354   -> Deer Creek at Trenton Weir
+     TLR: 61355   -> Tule River at Road 64
+    MRTQ: 72458   -> Martis Creek Below Martis Dam, CA.
+    MRTS: 72492   -> Martis Snow Pillow
+     EGL: 72817   -> Eagle Creek
+     HSS: 72941   -> Hossack Meadow
+     RGC: 73166   -> Rogers Camp
+    SCCW: 73875   -> Success Dam Weather Station
+     MNH: 74450   -> Mountain Home
+     BRM: 74739   -> Beartrap Meadow
+     GNF: 74842   -> Giant Forest
+     ATW: 75745   -> Atwell Mill
+     HCK: 75885   -> Hockett Meadow
+    TRMW: 76047   -> Lake Kaweah Weather
+     PR1: 76641   -> Paradise Repeater 1
+    PNFW: 76884   -> Pine Flat Weather Station
+     PT1: 77689   -> Patterson Peak Repeater 1
+     SC1: 77775   -> Sacata Repeater 1
+    BUCW: 77875   -> Eastman Lake Weather
+    HIDW: 77981   -> Hidden Dam Weather Station
+     WST: 79411   -> Westfall Ranger Station
+     OKH: 79553   -> Oakhurst
+     DW1: 79708   -> Deadwood Repeater 1
+     BNR: 79770   -> Bunning Ranch
+     MGN: 79908   -> Magoon
+     FLW: 80963   -> Flowers Mountain
+     PRY: 81324   -> Perry Ranch
+     RRF: 81458   -> Railroad Flat
+     SHR: 82888   -> Sheep Ranch
+     PTV: 84287   -> Potter Valley
+     ALS: 85177   -> Alder Springs
+     LGS: 85222   -> Log Springs
+     TRS: 85581   -> Trough Springs
+     SH1: 85654   -> SheetIron Repeater 1
+    BARP: 88381   -> Bear Reservoir near Planada
+    BURP: 88384   -> Burns Reservoir near Planada
+    MARP: 88387   -> Mariposa Reservoir near Le Grand
+    OWNP: 88392   -> Owens Reservoir near Planada
+     FFC: 95217   -> Forebay Farms Canal
+     MTM: 100021  -> Mitchell Meadow
+     STL: 100177  -> State Lakes
+     UTY: 108764  -> Upper Tyndall
+     WTM: 108778  -> Wet Meadow
+     WWC: 122807  -> West Woodchuck
+     NLS: 124222  -> Noels Springs
+     KRR: 136758  -> S. F. Kings River Above Roaring River
+     KBC: 136764  -> S. F. Kings River Above Boyden Cavern
+     AAC: 151221  -> Angels Creek below Angels Camp, CA
+    YC-1: 153256  -> Oregon Creek at Camptonville, CA
+    YC-2: 153332  -> Camptonville Tunnel at Intake Near Camptonville, CA
+    YC-3: 153351  -> Oregon Creek below Log Cabin Dam near Camptonville, CA
+    YC-4: 153405  -> Lohman Ridge Tunnel at Intake near Camptonville, CA
+    YC-5: 153590  -> MIddle Yuba River below Our House Dam near Camptonville, CA
+    YC-6: 153628  -> South Yuba River at Jones Bar near Grass Valley, CA
+    YC-7: 153681  -> North Yuba River below New Bullards Bar Dam near North San Juan, CA
+     S47: 153729  -> Utica Canal blw Hunters Reservoir
+     S48: 153853  -> Upper Angels Canal below Angels Diversion Dam
+     S49: 153909  -> Ross Reservoir Outflow
+     S57: 153933  -> Lower Utica Canal above Murphys Forebay
+     S66: 154028  -> Mill Creek near Avery, CA
+     S78: 154706  -> Angels Creek Blw Murphys Afterbay
+    S124: 154878  -> Fish Release near Murphys, CA
+    S125: 155069  -> Angels Creek near Utica Power Plant
+    S128: 155255  -> Mill Creek Below Hunters Dam
+    S127: 156751  -> Utica Canal at Pressure Tap

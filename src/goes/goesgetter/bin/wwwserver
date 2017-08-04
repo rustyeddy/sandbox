@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+cd /srv/goesgetter/www/public
+#!/usr/bin/env hhvm -m server 

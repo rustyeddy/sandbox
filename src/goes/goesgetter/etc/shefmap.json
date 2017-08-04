@@ -1,0 +1,154 @@
+{
+    "BR": {
+        "long": "Flow-DemandIrr",
+        "units": ""
+    },
+    "ER": {
+        "long": "Evap-Lake",
+        "units": ""
+    },
+    "HG": {
+        "long": "Stage",
+        "units": ""
+    },
+    "HH": {
+        "long": "Elev",
+        "units": ""
+    },
+    "HM": {
+        "long": "Elev-Tide",
+        "units": ""
+    },
+    "HP": {
+        "long": "Elev",
+        "units": ""
+    },
+    "HT": {
+        "long": "Elev-Tailrace",
+        "units": ""
+    },
+    "HV": {
+        "long": "Stage-2",
+        "units": ""
+    },
+    "LS": {
+        "long": "Stor-Res",
+        "units": ""
+    },
+    "PA": {
+        "long": "Pres-Baro",
+        "units": ""
+    },
+    "PC": {
+        "long": "Precip-Cumulative",
+        "units": ""
+    },
+    "PP": {
+        "long": "Precip-Inc",
+        "units": ""
+    },
+    "PW": {
+        "long": "Precip-Raw",
+        "units": ""
+    },
+    "PV": {
+        "long": "Precip-Cumulative2",
+        "units": ""
+    },
+    "QB": {
+        "long": "Flow",
+        "units": ""
+    },
+    "QD": {
+        "long": "Flow",
+        "units": ""
+    },
+    "QS": {
+        "long": "Flow-Spill",
+        "units": ""
+    },
+    "QT": {
+        "long": "Flow-ResOut",
+        "units": ""
+    },
+    "RN": {
+        "long": "Irrad-Net",
+        "units": ""
+    },
+    "RW": {
+        "long": "Irrad-Solar",
+        "units": ""
+    },
+    "SD": {
+        "long": "Depth-Snow",
+        "units": ""
+    },
+    "SW": {
+        "long": "Depth-SWE",
+        "units": ""
+    },
+    "TA": {
+        "long": "Temp-Air",
+        "units": ""
+    },
+    "TI": {
+        "long": "Temp-Int",
+        "units": ""
+    },
+    "TN": {
+        "long": "Temp-Min",
+        "units": ""
+    },
+    "TW": {
+        "long": "Temp-Water",
+        "units": ""
+    },
+    "TX": {
+        "long": "Temp-Max",
+        "units": ""
+    },
+    "UC": {
+        "long": "Dist-Wind",
+        "units": ""
+    },
+    "UD": {
+        "long": "Dir-Wind",
+        "units": ""
+    },
+    "US": {
+        "long": "Speed-Wind",
+        "units": ""
+    },
+    "VB": {
+        "long": "Voltage",
+        "units": ""
+    },
+    "VD": {
+        "long": "Volt-Drop",
+        "units": ""
+    },
+    "VX": {
+        "long": "Volt-Load",
+        "units": ""
+    },
+    "XR": {
+        "long": "%-Hum",
+        "units": ""
+    },
+    "QM": {
+        "long": "Natural flow at Dam",
+        "units": ""
+    },
+    "QR": {
+        "long": "Total Release to River",
+        "units": ""
+    },
+    "YI": {
+        "long": "Internal Equipment Temperature",
+        "units": ""
+    },
+    "PU": {
+        "long": "???",
+        "units": ""
+    }
+}

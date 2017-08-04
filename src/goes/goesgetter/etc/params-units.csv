@@ -1,0 +1,15 @@
+short, long, units, comments
+HG, Stage, ft, Height of Gauge (River Stage)
+VB, Voltage, V,
+YBL, Battery Voltage Under Load, V,
+TA, Air Temp, F,
+PC, Precip cumul, mm, Is this right or Inches?
+PA, Atoms Pres, kPa,
+ER, Evapo Rate, in/day,
+RadFlux, Rad Flux, W/m^2,
+RW, Solar Rad, W/m^2,
+Lake_Elev_NGVD, Lake/res elevation, m,
+UD, Wind Dir, deg,
+US, Wind Vel, m/s,
+Wind Distance, Wind Distance, mi,
+XR, Rel Humidity, %,

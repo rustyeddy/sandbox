@@ -1,0 +1,33 @@
+PDT,AQUARIUS,AQUARIUS Display Name,
+HG.GOES@NFW,HG.GOES@NFW,Stage,done
+VB.GOES@NFW,VB.GOES@NFW,Voltage,done
+HG.GOES@BGF,HG.GOES@BGF,Stage,done
+VB.GOES@BGF,VB.GOES@BGF,Voltage,done
+TA.GOES@DW1,TA.GOES@DW1,Air Temp,done
+VX.GOES@DW1,YBL.GOES@DW1,Battery Voltage Under Load,done
+HG.GOES@FHL,HG.GOES@FHL,Stage,done
+VX.GOES@FHL,YBL.GOES@FHL,Battery Voltage Under Load,done
+TA.GOES@HIDW,TA.GOES@HIDW,Air Temp,done
+PA.GOES@HIDW,PA.GOES@HIDW,Atmos Pres,done
+US.GOES@HIDW,US.GOES@HIDW,Wind Vel,done
+UD.GOES@HIDW,UD.GOES@HIDW,Wind Dir,done
+UC.GOES@HIDW,Wind Distance.GOES@HIDW,Wind Distance,done
+XR.GOES@HIDW,XR.GOES@HIDW,Rel Humidity,done
+RN.GOES@HIDW,RadFlux.GOES@HIDW,Rad Flux,done
+RW.GOES@HIDW,RW.GOES@HIDW,Solar Rad,done
+PC.GOES@HIDW,PPT.GOES@HIDW,Precip Total,done
+ER.GOES@HIDW,ER.GOES@HIDW,Evapo Rate,done
+VX.GOES@HIDW,YBL.GOES@HIDW,Battery Voltage Under Load,done
+HP.GOES@HIDP,Lake_Elev_NGVD.GOES@HIDP,Lake/res elevation,N/A
+VX.GOES@HIDP,YBL.GOES@HIDP,Battery Voltage Under Load,N/A
+PC.GOES@OKH,PC.GOES@OKH,Percip cumul,done
+TA.GOES@OKH,TA.GOES@OKH,Air Temp,done
+VX.GOES@OKH,YBL.GOES@OKH,Battery Voltage Under Load,done
+PC.GOES@WST,PC.GOES@WST,Percip cumul,done
+TA.GOES@WST,TA.GOES@WST,Air Temp,done
+VX.GOES@WST,YBL.GOES@WST,Battery Voltage Under Load,done
+,,,
+HG.GOES@S124,HG.GOES@S124,Stage,done
+VB.GOES@S124,VB.GOES@S124,Voltage,done
+HV.GOES@S124,HG.S48GOES@S124,Stage for S48,done
+VX.GOES@S124,YBL.GOES@S124,Voltage,done

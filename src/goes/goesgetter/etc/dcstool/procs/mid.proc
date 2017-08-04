@@ -1,0 +1,28 @@
+#Retrieval Process configuration
+#Sun Feb 28 01:01:24 EST 2016
+includeDelimiters=false
+ignoreSensorLimits=false
+removeRedundantData=false
+backup1DataSource=cdabackup.wcda.noaa.gov
+runDecodes=false
+outputPeriodicMinutes=0
+delimAfter=\n
+decodesOutputFormat=human-readable
+presentationGroup=(none)
+whenToRunCode=H
+outputFilenameTemplate=${TRANSPORTID}_$DATE(yyyy-MM-dd-HHmmss)
+outputPeriodicHours=1
+onlyExecuteScriptsNamed=false
+whenRunInterval=1
+whereToPutCode=M
+enableComputation=false
+execCmdAfterFile=false
+decodesOutputTimeZone=UTC
+connectUser=midhde
+configFile=$DECODES_INSTALL_DIR/computations.conf
+autoBuildRDBFname=false
+delimBefore=\n
+startSecondOfDay=660
+primaryDataSource=cdadata.wcda.noaa.gov
+outputDirectory=/srv/goesdata/dcsdata/
+outputConsumerName=file

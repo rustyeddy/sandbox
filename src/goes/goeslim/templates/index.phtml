@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+  <!-- **************************  Head ***************************** -->
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv='refresh' content='4'>
+    <title>GOES Getter</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <link href='//fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen">
+  </head>
+
+  <!-- **************************  Body ***************************** -->
+  <body>
+    <div class='container'>
+      <h1>GOES Getter</h1>
+      <h2>Data Grabber from the GOES LRGS</h2>
+
+      <?php
+         echo "Block files to process: $files <br/>";
+         echo "Cached raw: $raw <br/>";
+         echo "Measurements: $meas <br/>";
+         echo "Measurements Failed: $failed <br/>";
+         echo "Aquarius Saved: $written <br/>";
+         echo "<br/>";
+         ?>
+
+      <table class='table striped'>
+        <thead>
+          <tr>
+            <th>Site ID</th><th>Site Name</th><th>NESDIS ID</th><th>Sensors</th>
+          </tr>
+        </thead>
+        <tbody>
+          <?php foreach($sites as $s) { ?>
+          <tr>
+            <td><?php echo $s->mnemonic; ?></td>
+            <td><?php echo $s->siteName; ?></td>
+            <td><?php echo $s->nesdisId; ?></td>
+            <td class='timeseries'>
+              <ul>
+                <?php
+                   foreach($s->timeseriesIds as $sens) {
+                echo "<li>$sens</li>";
+                }
+                ?>
+              </ul>
+            </td>
+          </tr>
+          <?php } ?>
+        </tbody>
+      </table>
+      <p>by Rusty</p>
+    </div> <!-- container -->
+  </body>
+
+</html>

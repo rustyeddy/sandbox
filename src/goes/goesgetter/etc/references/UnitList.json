@@ -1,0 +1,1783 @@
+{
+  "ResponseVersion": 1,
+  "ResponseTime": "2015-12-12T21:12:01.9118000+00:00",
+  "Summary": "Produced by AQUARIUS Time-Series Software.\r\nThe accuracy and reliability of this data is not guaranteed.  Aquatic Informatics Inc. accepts no liability for its use in any way.",
+  "Units": [
+    {
+      "Identifier": "%",
+      "GroupIdentifier": "Proportion",
+      "Symbol": "%",
+      "DisplayName": "Percent",
+      "BaseMultiplier": "0.01",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "_ATU",
+      "GroupIdentifier": "_ATU",
+      "Symbol": "ATU",
+      "DisplayName": "ATU",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "_BU",
+      "GroupIdentifier": "_BU",
+      "Symbol": "BU",
+      "DisplayName": "BU",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "_FBRU",
+      "GroupIdentifier": "_FBRU",
+      "Symbol": "FBRU",
+      "DisplayName": "FBRU",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "_FBU",
+      "GroupIdentifier": "_FBU",
+      "Symbol": "FBU",
+      "DisplayName": "FBU",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "_FNMU",
+      "GroupIdentifier": "_FNMU",
+      "Symbol": "FNMU",
+      "DisplayName": "FNMU",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "_FNRU",
+      "GroupIdentifier": "_FNRU",
+      "Symbol": "FNRU",
+      "DisplayName": "FNRU",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "_FNU",
+      "GroupIdentifier": "_FNU",
+      "Symbol": "FNU",
+      "DisplayName": "Formazin Nephelometric Unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "_FTU",
+      "GroupIdentifier": "_FTU",
+      "Symbol": "FTU",
+      "DisplayName": "Formazin Turbidity Unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "_JTU",
+      "GroupIdentifier": "_JTU",
+      "Symbol": "JTU",
+      "DisplayName": "Jackson Turbidity Unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "_NTRU",
+      "GroupIdentifier": "_NTRU",
+      "Symbol": "NTRU",
+      "DisplayName": "NTRU",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "_NTU",
+      "GroupIdentifier": "_NTU",
+      "Symbol": "NTU",
+      "DisplayName": "Nephelometric Turbidity Unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "°C",
+      "GroupIdentifier": "Temperature",
+      "Symbol": "°C",
+      "DisplayName": "Celsius",
+      "BaseMultiplier": "1",
+      "BaseOffset": "273.15"
+    },
+    {
+      "Identifier": "°F",
+      "GroupIdentifier": "Temperature",
+      "Symbol": "°F",
+      "DisplayName": "Fahrenheit",
+      "BaseMultiplier": "0.555555555555556",
+      "BaseOffset": "459.67"
+    },
+    {
+      "Identifier": "µg/kg",
+      "GroupIdentifier": "Mass Per Mass",
+      "Symbol": "µg/kg",
+      "DisplayName": "Microgram per kilogram",
+      "BaseMultiplier": "1E-06",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "µg/l",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "µg/l",
+      "DisplayName": "Microgram per litre",
+      "BaseMultiplier": "0.001",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "µm",
+      "GroupIdentifier": "Length",
+      "Symbol": "µm",
+      "DisplayName": "Micrometre",
+      "BaseMultiplier": "1E-06",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "µMhos/cm",
+      "GroupIdentifier": "Conductivity",
+      "Symbol": "µMhos/cm",
+      "DisplayName": "Micromho per centimetre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "µS/cm",
+      "GroupIdentifier": "Conductivity",
+      "Symbol": "µS/cm",
+      "DisplayName": "Microsiemen per centimetre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "A",
+      "GroupIdentifier": "Electric Current",
+      "Symbol": "A",
+      "DisplayName": "Ampere",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "A/m",
+      "GroupIdentifier": "Magnetic Field Strength",
+      "Symbol": "A/m",
+      "DisplayName": "Ampere per metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "A/m^2",
+      "GroupIdentifier": "Electric Current Density",
+      "Symbol": "A/m^2",
+      "DisplayName": "Ampere per square metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Acre",
+      "GroupIdentifier": "Area",
+      "Symbol": "Acre",
+      "DisplayName": "Acre",
+      "BaseMultiplier": "4046.85642",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Acre-ft",
+      "GroupIdentifier": "Volume",
+      "Symbol": "Acre-ft",
+      "DisplayName": "Acre foot",
+      "BaseMultiplier": "1233.48184",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Acre-ft/d",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "Acre-ft/d",
+      "DisplayName": "Acre foot per day",
+      "BaseMultiplier": "0.0142765",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Acre-ft/hr",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "Acre-ft/hr",
+      "DisplayName": "Acre foot per hour",
+      "BaseMultiplier": "0.3426352",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "atm",
+      "GroupIdentifier": "Pressure",
+      "Symbol": "atm",
+      "DisplayName": "Atmosphere",
+      "BaseMultiplier": "101325",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Az Miners Inch",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "Az Miners Inch",
+      "DisplayName": "Arizona Miners Inch",
+      "BaseMultiplier": "0.000707921165",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "B./min",
+      "GroupIdentifier": "Frequency",
+      "Symbol": "B./min",
+      "DisplayName": "Bubbles per minute",
+      "BaseMultiplier": "60",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "bar",
+      "GroupIdentifier": "Pressure",
+      "Symbol": "bar",
+      "DisplayName": "Bar",
+      "BaseMultiplier": "100000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Bq",
+      "GroupIdentifier": "Radioactivity",
+      "Symbol": "Bq",
+      "DisplayName": "Becquerel",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "C",
+      "GroupIdentifier": "Electric Charge",
+      "Symbol": "C",
+      "DisplayName": "Coulomb",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "C/kg",
+      "GroupIdentifier": "Exposure",
+      "Symbol": "C/kg",
+      "DisplayName": "Coulomb per kilogram",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "C/m^2",
+      "GroupIdentifier": "Electric Displacement Field",
+      "Symbol": "C/m^2",
+      "DisplayName": "Coulomb per square metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "C/m^3",
+      "GroupIdentifier": "Electric Charge Density",
+      "Symbol": "C/m^3",
+      "DisplayName": "Coulomb per cubic metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "cal",
+      "GroupIdentifier": "Energy",
+      "Symbol": "cal",
+      "DisplayName": "calorie",
+      "BaseMultiplier": "4.184",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "cd",
+      "GroupIdentifier": "Luminous Intensity",
+      "Symbol": "cd",
+      "DisplayName": "Candela",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Cell/ml",
+      "GroupIdentifier": "Per Volume",
+      "Symbol": "Cell/ml",
+      "DisplayName": "Cell per millilitre",
+      "BaseMultiplier": "1000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "cfu/100ml",
+      "GroupIdentifier": "Per Volume",
+      "Symbol": "cfu/100ml",
+      "DisplayName": "CFU per 100 millilitres",
+      "BaseMultiplier": "10000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "cfu/ml",
+      "GroupIdentifier": "Per Volume",
+      "Symbol": "cfu/ml",
+      "DisplayName": "CFU per millilitre",
+      "BaseMultiplier": "1000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "cm",
+      "GroupIdentifier": "Length",
+      "Symbol": "cm",
+      "DisplayName": "Centimetre",
+      "BaseMultiplier": "0.01",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "col/ml",
+      "GroupIdentifier": "Per Volume",
+      "Symbol": "col/ml",
+      "DisplayName": "Colony per millilitre",
+      "BaseMultiplier": "1000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Count/100ml",
+      "GroupIdentifier": "Per Volume",
+      "Symbol": "Count/100ml",
+      "DisplayName": "Count per 100 millilitres",
+      "BaseMultiplier": "10000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Count/l",
+      "GroupIdentifier": "Per Volume",
+      "Symbol": "Count/l",
+      "DisplayName": "Count per litre",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Count/m",
+      "GroupIdentifier": "Per Length",
+      "Symbol": "Count/m",
+      "DisplayName": "Count per metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Count/m^2",
+      "GroupIdentifier": "Per Area",
+      "Symbol": "Count/m^2",
+      "DisplayName": "Count per square metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Count/m^3",
+      "GroupIdentifier": "Per Volume",
+      "Symbol": "Count/m^3",
+      "DisplayName": "Count per cubic metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Cumec Day",
+      "GroupIdentifier": "Volume",
+      "Symbol": "Cumec Day",
+      "DisplayName": "Cubic metre per second day",
+      "BaseMultiplier": "86400",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "cysts/l",
+      "GroupIdentifier": "Per Volume",
+      "Symbol": "Cysts/l",
+      "DisplayName": "Cyst per litre",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "d",
+      "GroupIdentifier": "Time",
+      "Symbol": "d",
+      "DisplayName": "Day",
+      "BaseMultiplier": "86400",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Dam^3",
+      "GroupIdentifier": "Volume",
+      "Symbol": "Dam^3",
+      "DisplayName": "Cubic Decametre",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Dam^3/h",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "Dam^3/h",
+      "DisplayName": "Cubic Decametre per hour",
+      "BaseMultiplier": "0.277777778",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Dam^3/min",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "Dam^3/min",
+      "DisplayName": "Cubic Decametre per minute",
+      "BaseMultiplier": "16.6666667",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Dam^3/s",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "Dam^3/s",
+      "DisplayName": "Cubic Decametre per second",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "dBm",
+      "GroupIdentifier": "Power Ratio",
+      "Symbol": "dBm",
+      "DisplayName": "Power ratio in decibels (dB)",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "deg",
+      "GroupIdentifier": "Direction",
+      "Symbol": "deg",
+      "DisplayName": "Degree",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "F",
+      "GroupIdentifier": "Capacitance",
+      "Symbol": "F",
+      "DisplayName": "Farad",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "F/m",
+      "GroupIdentifier": "Permittivity",
+      "Symbol": "F/m",
+      "DisplayName": "Farad per metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "FNU",
+      "GroupIdentifier": "Turbidity",
+      "Symbol": "FNU",
+      "DisplayName": "Formazin Nephelometric Unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ft",
+      "GroupIdentifier": "Length",
+      "Symbol": "ft",
+      "DisplayName": "Foot",
+      "BaseMultiplier": "0.3048",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ft/s",
+      "GroupIdentifier": "Velocity",
+      "Symbol": "ft/s",
+      "DisplayName": "Foot per second",
+      "BaseMultiplier": "0.3048",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ft^2",
+      "GroupIdentifier": "Area",
+      "Symbol": "ft^2",
+      "DisplayName": "Square Foot",
+      "BaseMultiplier": "0.09290304",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ft^3",
+      "GroupIdentifier": "Volume",
+      "Symbol": "ft^3",
+      "DisplayName": "Cubic Foot",
+      "BaseMultiplier": "0.028316846592",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ft^3/min",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "ft^3/min",
+      "DisplayName": "Cubic foot per minute",
+      "BaseMultiplier": "0.000471947",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ft^3/s",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "ft^3/s",
+      "DisplayName": "Cubic Foot Per Second",
+      "BaseMultiplier": "0.0283168466",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "FTU",
+      "GroupIdentifier": "Turbidity",
+      "Symbol": "FTU",
+      "DisplayName": "Formazin Turbidity Unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "g",
+      "GroupIdentifier": "Mass",
+      "Symbol": "g",
+      "DisplayName": "Gram",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "g/kg",
+      "GroupIdentifier": "Mass Per Mass",
+      "Symbol": "g/kg",
+      "DisplayName": "Gram per kilogram",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "g/l",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "g/l",
+      "DisplayName": "Gram per litre",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "g/m^3",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "g/m^3",
+      "DisplayName": "Gram per cubic metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "g/s",
+      "GroupIdentifier": "Mass Flow",
+      "Symbol": "g/s",
+      "DisplayName": "Gram per second",
+      "BaseMultiplier": "0.001",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "GJ",
+      "GroupIdentifier": "Energy",
+      "Symbol": "GJ",
+      "DisplayName": "Gigajoule",
+      "BaseMultiplier": "1000000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "grad",
+      "GroupIdentifier": "Direction",
+      "Symbol": "grad",
+      "DisplayName": "Gradian",
+      "BaseMultiplier": "90",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "GW",
+      "GroupIdentifier": "Power",
+      "Symbol": "GW",
+      "DisplayName": "Gigawatt",
+      "BaseMultiplier": "1000000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "GWh",
+      "GroupIdentifier": "Energy",
+      "Symbol": "GWh",
+      "DisplayName": "Gigawatt hour",
+      "BaseMultiplier": "3600000000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Gy",
+      "GroupIdentifier": "Absorbed Dose",
+      "Symbol": "Gy",
+      "DisplayName": "Gray",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Gy/s",
+      "GroupIdentifier": "Absorbed Dose Rate",
+      "Symbol": "Gy/s",
+      "DisplayName": "Gray per second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "H",
+      "GroupIdentifier": "Inductance",
+      "Symbol": "H",
+      "DisplayName": "Henry",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "H/m",
+      "GroupIdentifier": "Permeability",
+      "Symbol": "H/m",
+      "DisplayName": "Henry per metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ha",
+      "GroupIdentifier": "Area",
+      "Symbol": "ha",
+      "DisplayName": "Hectare",
+      "BaseMultiplier": "10000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Hazen",
+      "GroupIdentifier": "None",
+      "Symbol": "Hazen",
+      "DisplayName": "Hazen",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Hellige",
+      "GroupIdentifier": "None",
+      "Symbol": "Hellige",
+      "DisplayName": "Hellige",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "hPa",
+      "GroupIdentifier": "Pressure",
+      "Symbol": "hPa",
+      "DisplayName": "Hectopascal",
+      "BaseMultiplier": "100",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "hr",
+      "GroupIdentifier": "Time",
+      "Symbol": "hr",
+      "DisplayName": "Hour",
+      "BaseMultiplier": "3600",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Hz",
+      "GroupIdentifier": "Frequency",
+      "Symbol": "Hz",
+      "DisplayName": "Hertz",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Imp Gal",
+      "GroupIdentifier": "Volume",
+      "Symbol": "Imp Gal",
+      "DisplayName": "Imperial Gallon",
+      "BaseMultiplier": "0.00454609",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Imp Gal/s",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "Imp Gal/s",
+      "DisplayName": "Imperial gallon per second",
+      "BaseMultiplier": "0.00454609",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "in",
+      "GroupIdentifier": "Length",
+      "Symbol": "in",
+      "DisplayName": "Inch",
+      "BaseMultiplier": "0.0254",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "in/day",
+      "GroupIdentifier": "Velocity",
+      "Symbol": "in/day",
+      "DisplayName": "inch per day",
+      "BaseMultiplier": "2.93981003096633E-07",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "in^3/s",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "in^3/s",
+      "DisplayName": "Cubic inch per second",
+      "BaseMultiplier": "1.6387E-05",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "inHg",
+      "GroupIdentifier": "Pressure",
+      "Symbol": "inHg",
+      "DisplayName": "Inch of Hg",
+      "BaseMultiplier": "3386",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "J",
+      "GroupIdentifier": "Energy",
+      "Symbol": "J",
+      "DisplayName": "Joule",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "J/K",
+      "GroupIdentifier": "Heat Capacity",
+      "Symbol": "J/K",
+      "DisplayName": "Joule per kelvin",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "J/kg",
+      "GroupIdentifier": "Specific Energy",
+      "Symbol": "J/kg",
+      "DisplayName": "Joule per kilogram",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "J/m^3",
+      "GroupIdentifier": "Energy Density",
+      "Symbol": "J/m^3",
+      "DisplayName": "Joule per cubic metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "J/mol",
+      "GroupIdentifier": "Molar Energy",
+      "Symbol": "J/mol",
+      "DisplayName": "Joule per mole",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Js",
+      "GroupIdentifier": "Action",
+      "Symbol": "Js",
+      "DisplayName": "Joule second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "JTU",
+      "GroupIdentifier": "Turbidity",
+      "Symbol": "JTU",
+      "DisplayName": "Jackson Turbidity Unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "K",
+      "GroupIdentifier": "Temperature",
+      "Symbol": "K",
+      "DisplayName": "Kelvin",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kat",
+      "GroupIdentifier": "Catalytic Activity",
+      "Symbol": "kat",
+      "DisplayName": "Katal",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kcal",
+      "GroupIdentifier": "Energy",
+      "Symbol": "kcal",
+      "DisplayName": "Kilocalorie",
+      "BaseMultiplier": "4184",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kg",
+      "GroupIdentifier": "Mass",
+      "Symbol": "kg",
+      "DisplayName": "Kilogram",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kg/m^2",
+      "GroupIdentifier": "Area Density",
+      "Symbol": "kg/m^2",
+      "DisplayName": "Kilogram per square metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kg/m^3",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "kg/m^3",
+      "DisplayName": "Kilogram per cubic metre",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kg/s",
+      "GroupIdentifier": "Mass Flow",
+      "Symbol": "kg/s",
+      "DisplayName": "Kilogram per second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kJ",
+      "GroupIdentifier": "Energy",
+      "Symbol": "kJ",
+      "DisplayName": "Kilojoule",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "km",
+      "GroupIdentifier": "Length",
+      "Symbol": "km",
+      "DisplayName": "Kilometre",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "km/hr",
+      "GroupIdentifier": "Velocity",
+      "Symbol": "km/hr",
+      "DisplayName": "Kilometre per hour",
+      "BaseMultiplier": "0.277777778",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "km^2",
+      "GroupIdentifier": "Area",
+      "Symbol": "km^2",
+      "DisplayName": "Square kilometre",
+      "BaseMultiplier": "1000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kn",
+      "GroupIdentifier": "Velocity",
+      "Symbol": "kn",
+      "DisplayName": "Knot",
+      "BaseMultiplier": "0.514444444",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "KOhm.cm",
+      "GroupIdentifier": "Resistivity",
+      "Symbol": "KOhm.cm",
+      "DisplayName": "KOhm.cm",
+      "BaseMultiplier": "0.1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kPa",
+      "GroupIdentifier": "Pressure",
+      "Symbol": "kPa",
+      "DisplayName": "Kilopascal",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kvar",
+      "GroupIdentifier": "Reactive Power",
+      "Symbol": "kvar",
+      "DisplayName": "Kilovolt-amp reactive",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kW",
+      "GroupIdentifier": "Power",
+      "Symbol": "kW",
+      "DisplayName": "Kilowatt",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kW/m^2",
+      "GroupIdentifier": "Power Flux",
+      "Symbol": "kW/m^2",
+      "DisplayName": "Kilowatt per square metre",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "kWh",
+      "GroupIdentifier": "Energy",
+      "Symbol": "kWh",
+      "DisplayName": "Kilowatt hour",
+      "BaseMultiplier": "3600000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "l",
+      "GroupIdentifier": "Volume",
+      "Symbol": "l",
+      "DisplayName": "Litre",
+      "BaseMultiplier": "0.001",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "l/s",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "l/s",
+      "DisplayName": "Litre per second",
+      "BaseMultiplier": "0.001",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "lbs",
+      "GroupIdentifier": "Mass",
+      "Symbol": "lbs",
+      "DisplayName": "Pound",
+      "BaseMultiplier": "0.45359237",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "lm",
+      "GroupIdentifier": "Luminous Flux",
+      "Symbol": "lm",
+      "DisplayName": "Lumen",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "lx",
+      "GroupIdentifier": "Illuminance",
+      "Symbol": "lx",
+      "DisplayName": "Lux",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m",
+      "GroupIdentifier": "Length",
+      "Symbol": "m",
+      "DisplayName": "Metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "M US Gal/d",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "M US Gal/d",
+      "DisplayName": "Million US Gallon per day",
+      "BaseMultiplier": "0.043813",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m/hr",
+      "GroupIdentifier": "Velocity",
+      "Symbol": "m/hr",
+      "DisplayName": "Metre per hour",
+      "BaseMultiplier": "0.000277777778",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m/s",
+      "GroupIdentifier": "Velocity",
+      "Symbol": "m/s",
+      "DisplayName": "Metre per second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m/s^2",
+      "GroupIdentifier": "Acceleration",
+      "Symbol": "m/s^2",
+      "DisplayName": "Metre per second squared",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m/s^3",
+      "GroupIdentifier": "Jerk",
+      "Symbol": "m/s^3",
+      "DisplayName": "Metre per second cubed",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m/s^4",
+      "GroupIdentifier": "Snap",
+      "Symbol": "m/s^4",
+      "DisplayName": "Metre per quartic second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^-1",
+      "GroupIdentifier": "Wave Number",
+      "Symbol": "m^-1",
+      "DisplayName": "Reciprocal metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^2",
+      "GroupIdentifier": "Area",
+      "Symbol": "m^2",
+      "DisplayName": "Square Metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^2/km",
+      "GroupIdentifier": "Area Per Length",
+      "Symbol": "m^2/km",
+      "DisplayName": "Square metre per kilometre",
+      "BaseMultiplier": "0.001",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^2/m",
+      "GroupIdentifier": "Area Per Length",
+      "Symbol": "m^2/m",
+      "DisplayName": "Square metre per metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^2/s",
+      "GroupIdentifier": "Diffusion Coefficient",
+      "Symbol": "m^2/s",
+      "DisplayName": "Square metre per second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^3",
+      "GroupIdentifier": "Volume",
+      "Symbol": "m^3",
+      "DisplayName": "Cubic metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^3/d",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "m^3/d",
+      "DisplayName": "Cubic metre per day",
+      "BaseMultiplier": "1.1574E-05",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^3/h",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "m^3/h",
+      "DisplayName": "Cubic metre per hour",
+      "BaseMultiplier": "0.000277778",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^3/kg",
+      "GroupIdentifier": "Specific Volume",
+      "Symbol": "m^3/kg",
+      "DisplayName": "Metre cubed per kilogram",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^3/min",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "m^3/min",
+      "DisplayName": "Cubic metre per minute",
+      "BaseMultiplier": "0.016666667",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^3/mol",
+      "GroupIdentifier": "Molar Volume",
+      "Symbol": "m^3/mol",
+      "DisplayName": "Cubic metre per mole",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "m^3/s",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "m^3/s",
+      "DisplayName": "Cubic Metre Per Second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mEq/l",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "mEq/l",
+      "DisplayName": "Milliequivalent per litre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mg CaCO3/l",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "mg CaCO3/l",
+      "DisplayName": "Milligram CaCO3 per litre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mg(SiO2) Eqv/l",
+      "GroupIdentifier": "Turbidity",
+      "Symbol": "mg(SiO2) Eqv/l",
+      "DisplayName": "Milligram of SiO2 per litre",
+      "BaseMultiplier": "7.5",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mg/kg",
+      "GroupIdentifier": "Mass Per Mass",
+      "Symbol": "mg/kg",
+      "DisplayName": "Miligram per kilogram",
+      "BaseMultiplier": "0.001",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mg/kg DMB",
+      "GroupIdentifier": "Mass Per Mass",
+      "Symbol": "mg/kg DMB",
+      "DisplayName": "Milligram per Kilogram (DMB)",
+      "BaseMultiplier": "0.001",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mg/l",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "mg/l",
+      "DisplayName": "Milligram per litre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mg/m^3",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "mg/m^3",
+      "DisplayName": "Milligram per cubic metre",
+      "BaseMultiplier": "0.001",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mg/s",
+      "GroupIdentifier": "Mass Flow",
+      "Symbol": "mg/s",
+      "DisplayName": "Miligram per second",
+      "BaseMultiplier": "1E-06",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mi",
+      "GroupIdentifier": "Length",
+      "Symbol": "mi",
+      "DisplayName": "Mile",
+      "BaseMultiplier": "1609.344",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mi^2",
+      "GroupIdentifier": "Area",
+      "Symbol": "mi^2",
+      "DisplayName": "Square mile",
+      "BaseMultiplier": "2589988.11",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "min",
+      "GroupIdentifier": "Time",
+      "Symbol": "min",
+      "DisplayName": "Minute",
+      "BaseMultiplier": "60",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "MJ",
+      "GroupIdentifier": "Energy",
+      "Symbol": "MJ",
+      "DisplayName": "Megajoule",
+      "BaseMultiplier": "1000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Ml",
+      "GroupIdentifier": "Volume",
+      "Symbol": "Ml",
+      "DisplayName": "Mega-litre",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Ml/d",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "Ml/d",
+      "DisplayName": "Megalitre per day",
+      "BaseMultiplier": "0.011574",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Ml/wk",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "Ml/wk",
+      "DisplayName": "Megalitre per week",
+      "BaseMultiplier": "0.00165343",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mm",
+      "GroupIdentifier": "Length",
+      "Symbol": "mm",
+      "DisplayName": "Millimetre",
+      "BaseMultiplier": "0.001",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mm/d",
+      "GroupIdentifier": "Velocity",
+      "Symbol": "mm/d",
+      "DisplayName": "Millimetre per day",
+      "BaseMultiplier": "1.15740741E-08",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mm/hr",
+      "GroupIdentifier": "Velocity",
+      "Symbol": "mm/hr",
+      "DisplayName": "Millimetre per hour",
+      "BaseMultiplier": "2.77777778E-07",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Mm^3",
+      "GroupIdentifier": "Volume",
+      "Symbol": "Mm^3",
+      "DisplayName": "Megacubic metre",
+      "BaseMultiplier": "1000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Mm^3/d",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "Mm^3/d",
+      "DisplayName": "Mega cubic metre per day",
+      "BaseMultiplier": "11.574",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mmHg",
+      "GroupIdentifier": "Pressure",
+      "Symbol": "mmHg",
+      "DisplayName": "Millimetre of Hg",
+      "BaseMultiplier": "133.322",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mMhos/cm",
+      "GroupIdentifier": "Conductivity",
+      "Symbol": "mMhos/cm",
+      "DisplayName": "Millimho per centimetre",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mol",
+      "GroupIdentifier": "Substance Amount",
+      "Symbol": "mol",
+      "DisplayName": "Molar",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mol/m^3",
+      "GroupIdentifier": "Amount Concentration",
+      "Symbol": "mol/m^3",
+      "DisplayName": "Mole per cubic metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mph",
+      "GroupIdentifier": "Velocity",
+      "Symbol": "mph",
+      "DisplayName": "Mile per hour",
+      "BaseMultiplier": "0.44704",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mS/cm",
+      "GroupIdentifier": "Conductivity",
+      "Symbol": "mS/cm",
+      "DisplayName": "Millisiemen per centimetre",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "mV",
+      "GroupIdentifier": "Voltage",
+      "Symbol": "mV",
+      "DisplayName": "Millivolt",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Mvar",
+      "GroupIdentifier": "Reactive Power",
+      "Symbol": "Mvar",
+      "DisplayName": "Megavolt-amp reactive",
+      "BaseMultiplier": "1000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "MW",
+      "GroupIdentifier": "Power",
+      "Symbol": "MW",
+      "DisplayName": "Megawatt",
+      "BaseMultiplier": "1000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "MWh",
+      "GroupIdentifier": "Energy",
+      "Symbol": "MWh",
+      "DisplayName": "Megawatt hour",
+      "BaseMultiplier": "3600000000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "N",
+      "GroupIdentifier": "Force",
+      "Symbol": "N",
+      "DisplayName": "Newton",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "N/m",
+      "GroupIdentifier": "Surface Tension",
+      "Symbol": "N/m",
+      "DisplayName": "Newton per metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "N/s",
+      "GroupIdentifier": "Yank",
+      "Symbol": "N/s",
+      "DisplayName": "Newton per second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ng/kg",
+      "GroupIdentifier": "Mass Per Mass",
+      "Symbol": "ng/kg",
+      "DisplayName": "Nanogram per kilogram",
+      "BaseMultiplier": "1E-09",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ng/l",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "ng/l",
+      "DisplayName": "Nanogram per litre",
+      "BaseMultiplier": "1E-06",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "nm",
+      "GroupIdentifier": "Length",
+      "Symbol": "nm",
+      "DisplayName": "Nanometre",
+      "BaseMultiplier": "1E-09",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Nmetre",
+      "GroupIdentifier": "Torque",
+      "Symbol": "Nmetre",
+      "DisplayName": "Newton metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Nms",
+      "GroupIdentifier": "Angular Momentum",
+      "Symbol": "Nms",
+      "DisplayName": "Newton metre second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "None",
+      "GroupIdentifier": "None",
+      "Symbol": "None",
+      "DisplayName": "No Unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Ns",
+      "GroupIdentifier": "Momentum",
+      "Symbol": "Ns",
+      "DisplayName": "Newton second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "NTU",
+      "GroupIdentifier": "Turbidity",
+      "Symbol": "NTU",
+      "DisplayName": "Nephelometric Turbidity Unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Ohm",
+      "GroupIdentifier": "Resistance",
+      "Symbol": "Ohm",
+      "DisplayName": "Ohm",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Ohmm",
+      "GroupIdentifier": "Resistivity",
+      "Symbol": "Ohmm",
+      "DisplayName": "Ohm metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "okta",
+      "GroupIdentifier": "Proportion",
+      "Symbol": "okta",
+      "DisplayName": "okta",
+      "BaseMultiplier": "0.125",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Orgs/100ml",
+      "GroupIdentifier": "Per Volume",
+      "Symbol": "Orgs/100ml",
+      "DisplayName": "Organism per 100 millilitres",
+      "BaseMultiplier": "10000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Pa",
+      "GroupIdentifier": "Pressure",
+      "Symbol": "Pa",
+      "DisplayName": "Pascal",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Pas",
+      "GroupIdentifier": "Dynamic Viscosity",
+      "Symbol": "Pas",
+      "DisplayName": "Pascal second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "per unit",
+      "GroupIdentifier": "Proportion",
+      "Symbol": "per unit",
+      "DisplayName": "per unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "pH Units",
+      "GroupIdentifier": "pH",
+      "Symbol": "pH",
+      "DisplayName": "pH Unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ppb",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "ppb",
+      "DisplayName": "Part per billion",
+      "BaseMultiplier": "0.001",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ppm",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "ppm",
+      "DisplayName": "Part per million",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ppt",
+      "GroupIdentifier": "Concentration",
+      "Symbol": "ppt",
+      "DisplayName": "Part per thousand",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "psi",
+      "GroupIdentifier": "Pressure",
+      "Symbol": "psi",
+      "DisplayName": "Pound per Square Inch",
+      "BaseMultiplier": "6894",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "PSU",
+      "GroupIdentifier": "Salinity",
+      "Symbol": "PSU",
+      "DisplayName": "Practical Salinity Unit",
+      "BaseMultiplier": "0",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "R",
+      "GroupIdentifier": "Temperature",
+      "Symbol": "R",
+      "DisplayName": "Rankine",
+      "BaseMultiplier": "0.555555555555556",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "rad",
+      "GroupIdentifier": "Direction",
+      "Symbol": "rad",
+      "DisplayName": "Radian",
+      "BaseMultiplier": "57.2957795",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "rad/s",
+      "GroupIdentifier": "Angular Velocity",
+      "Symbol": "rad/s",
+      "DisplayName": "Radian per second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "RFU",
+      "GroupIdentifier": "Fluorescence",
+      "Symbol": "RFU",
+      "DisplayName": "Reflective Fluorescence Unit",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "s",
+      "GroupIdentifier": "Time",
+      "Symbol": "s",
+      "DisplayName": "Second",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Siemen",
+      "GroupIdentifier": "Conductance",
+      "Symbol": "S",
+      "DisplayName": "Siemen",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Sm^2/mol",
+      "GroupIdentifier": "Molar Conductivity",
+      "Symbol": "Sm^2/mol",
+      "DisplayName": "Siemen square metre per mole",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "sr",
+      "GroupIdentifier": "Solid Angle",
+      "Symbol": "sr",
+      "DisplayName": "Steradian",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "st",
+      "GroupIdentifier": "Mass",
+      "Symbol": "st",
+      "DisplayName": "Stone",
+      "BaseMultiplier": "6.35029318",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Sv",
+      "GroupIdentifier": "Dose Equivalent",
+      "Symbol": "Sv",
+      "DisplayName": "Sievert",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "T",
+      "GroupIdentifier": "Magnetic Field",
+      "Symbol": "T",
+      "DisplayName": "Tesla",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "ton",
+      "GroupIdentifier": "Mass",
+      "Symbol": "ton",
+      "DisplayName": "Short ton",
+      "BaseMultiplier": "907.18474",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "tonne",
+      "GroupIdentifier": "Mass",
+      "Symbol": "tonne",
+      "DisplayName": "Long tonne",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "tonnes/day",
+      "GroupIdentifier": "Mass Flow",
+      "Symbol": "tonnes/day",
+      "DisplayName": "Long tonne per day",
+      "BaseMultiplier": "0.0115740740740741",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "tonnes/s",
+      "GroupIdentifier": "Mass Flow",
+      "Symbol": "tonnes/s",
+      "DisplayName": "Long tonne per second",
+      "BaseMultiplier": "1000",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "torr",
+      "GroupIdentifier": "Pressure",
+      "Symbol": "torr",
+      "DisplayName": "Torr",
+      "BaseMultiplier": "133.322",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "US Gal",
+      "GroupIdentifier": "Volume",
+      "Symbol": "US Gal",
+      "DisplayName": "US Gallon",
+      "BaseMultiplier": "0.00378541178",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "US Gal/s",
+      "GroupIdentifier": "Volumetric Flow",
+      "Symbol": "US Gal/s",
+      "DisplayName": "US Gallon per second",
+      "BaseMultiplier": "0.00378541178",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "V",
+      "GroupIdentifier": "Voltage",
+      "Symbol": "V",
+      "DisplayName": "Volt",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "V/m",
+      "GroupIdentifier": "Electric Field Strength",
+      "Symbol": "V/m",
+      "DisplayName": "Volt per metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "var",
+      "GroupIdentifier": "Reactive Power",
+      "Symbol": "var",
+      "DisplayName": "Volt-amp reactive",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "W",
+      "GroupIdentifier": "Power",
+      "Symbol": "W",
+      "DisplayName": "Watt",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "W/m^2",
+      "GroupIdentifier": "Power Flux",
+      "Symbol": "W/m^2",
+      "DisplayName": "Watt per square metre",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "W/mK",
+      "GroupIdentifier": "Thermal Conductivity",
+      "Symbol": "W/mK",
+      "DisplayName": "Watt per metre kelvin",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Wb",
+      "GroupIdentifier": "Magnetic Flux",
+      "Symbol": "Wb",
+      "DisplayName": "Weber",
+      "BaseMultiplier": "1",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "Wh",
+      "GroupIdentifier": "Energy",
+      "Symbol": "Wh",
+      "DisplayName": "Watt hour",
+      "BaseMultiplier": "3600",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "wk",
+      "GroupIdentifier": "Time",
+      "Symbol": "wk",
+      "DisplayName": "Week",
+      "BaseMultiplier": "604800",
+      "BaseOffset": "0"
+    },
+    {
+      "Identifier": "yd",
+      "GroupIdentifier": "Length",
+      "Symbol": "yd",
+      "DisplayName": "Yard",
+      "BaseMultiplier": "0.9144",
+      "BaseOffset": "0"
+    }
+  ]
+}

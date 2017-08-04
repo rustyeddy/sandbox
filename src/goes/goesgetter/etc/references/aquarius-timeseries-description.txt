@@ -1,0 +1,1095 @@
+
+ResponseVersion: 1
+ResponseTime: 2015-10-08T05:35:15.7396995+00:00
+Summary: Produced by AQUARIUS Time-Series Software.
+The accuracy and reliability of this data is not guaranteed.  Aquatic Informatics Inc. accepts no liability for its use in any way.
+Time Description Entries: 986
+Location: AAC
+                                       Stage.DCP@AAC: Last: 2015-07-06 16:25:58
+                                   Discharge.DCP@AAC: Last: 2015-07-06 16:57:10
+                                     Voltage.DCP@AAC: Last: 2015-07-06 16:25:58
+              Internal Equipment Temperature.DCP@AAC: Last: 2015-07-06 16:25:58
+                              Stage.Field Visits@AAC: Last: 2015-07-06 16:40:12
+                          Discharge.Field Visits@AAC: Last: 2015-07-06 16:40:12
+Location: ALS
+                          Precip Total.Corrected@ALS: Last: 2015-02-17 20:59:02
+                                Precip Total.DCP@ALS: Last: 2015-06-11 12:33:33
+                                  Precip Raw.DCP@ALS: Last: 2015-06-11 12:33:32
+                                    Air Temp.DCP@ALS: Last: 2015-06-11 12:38:36
+                                     Voltage.DCP@ALS: Last: 2015-06-11 12:33:31
+              Internal Equipment Temperature.DCP@ALS: Last: 2015-06-11 12:33:30
+Location: ATW
+                          Precip Total.Corrected@ATW: Last: 2015-01-06 15:44:02
+                                Precip Total.DCP@ATW: Last: 2015-01-06 14:58:31
+                                  Precip Raw.DCP@ATW: Last: 2015-01-05 09:11:10
+                                    Air Temp.DCP@ATW: Last: 2015-01-06 14:50:10
+                                     Voltage.DCP@ATW: Last: 2015-01-06 15:46:57
+              Internal Equipment Temperature.DCP@ATW: Last: 2015-01-06 15:47:08
+Location: BARP
+                                    Voltage.DCP@BARP: Last: 2015-06-08 14:36:08
+             Internal Equipment Temperature.DCP@BARP: Last: 2015-06-08 14:36:09
+                  Reservoir Level.Elevation_DCP@BARP: Last: 2015-06-08 14:36:09
+Location: BARQ
+                           Discharge.calculated@BARQ: Last: 2015-06-08 14:14:24
+                            Discharge.dailymean@BARQ: Last: 2015-01-20 11:53:29
+                                      Stage.DCP@BARQ: Last: 2015-06-08 14:14:22
+                                    Voltage.DCP@BARQ: Last: 2015-06-08 14:14:21
+             Internal Equipment Temperature.DCP@BARQ: Last: 2015-06-08 14:14:21
+                             Stage.Field Visits@BARQ: Last: 2015-06-08 14:33:02
+                         Discharge.Field Visits@BARQ: Last: 2015-06-08 14:33:02
+                      River X Area.Field Visits@BARQ: Last: 2015-06-08 14:33:02
+                     River X Width.Field Visits@BARQ: Last: 2015-06-08 14:33:02
+                    Water Velocity.Field Visits@BARQ: Last: 2015-06-08 14:33:02
+                          Precip Total.Rain_DCP@BARQ: Last: 2015-06-08 14:14:22
+Location: BGF
+                            Discharge.calculated@BGF: Last: 2015-06-08 16:33:57
+                            Discharge.dailymeans@BGF: Last: 2015-03-19 16:29:04
+                              Stage.Field Visits@BGF: Last: 2015-06-08 17:08:05
+                          Discharge.Field Visits@BGF: Last: 2015-06-08 17:08:05
+                       River X Area.Field Visits@BGF: Last: 2015-06-08 17:08:05
+                      River X Width.Field Visits@BGF: Last: 2015-06-08 17:08:05
+                     Water Velocity.Field Visits@BGF: Last: 2015-06-08 17:08:05
+                                 Stage.Stage.DCP@BGF: Last: 2015-06-08 16:33:57
+                             Voltage.Voltage.DCP@BGF: Last: 2015-06-08 16:33:58
+Location: BLBQ
+                                      Stage.DCP@BLBQ: Last: 2015-07-15 13:47:13
+                                  Discharge.DCP@BLBQ: Last: 2015-07-15 15:38:02
+                                 Water Temp.DCP@BLBQ: Last: 2015-06-17 13:09:11
+                                    Voltage.DCP@BLBQ: Last: 2015-06-17 13:09:10
+             Internal Equipment Temperature.DCP@BLBQ: Last: 2015-06-17 13:09:10
+                             Stage.Field Visits@BLBQ: Last: 2015-06-17 13:12:33
+                         Discharge.Field Visits@BLBQ: Last: 2015-06-17 13:12:33
+                      River X Area.Field Visits@BLBQ: Last: 2015-06-17 13:12:33
+                     River X Width.Field Visits@BLBQ: Last: 2015-06-17 13:12:33
+                        Water Temp.Field Visits@BLBQ: Last: 2015-06-17 13:12:33
+                           Voltage.Field Visits@BLBQ: Last: 2015-06-17 13:12:33
+                    Water Velocity.Field Visits@BLBQ: Last: 2015-06-17 13:12:33
+    Internal Equipment Temperature.Field Visits@BLBQ: Last: 2015-06-17 13:12:33
+Location: BLBW
+                         Precip Total.Corrected@BLBW: Last: 2015-01-01 15:41:38
+                                   WSpd Avg.DCP@BLBW: Last: 2015-06-17 12:53:12
+                                 Evapotrans.DCP@BLBW: Last: 2015-06-17 12:53:15
+                                 Atmos Pres.DCP@BLBW: Last: 2015-06-17 12:53:14
+                               Precip Total.DCP@BLBW: Last: 2015-06-17 12:53:14
+                                 Precip Raw.DCP@BLBW: Last: 2015-06-17 12:53:14
+                                   Rad Flux.DCP@BLBW: Last: 2015-06-17 12:53:13
+                                  Solar Rad.DCP@BLBW: Last: 2015-06-17 12:53:14
+                                   Air Temp.DCP@BLBW: Last: 2015-06-17 12:53:14
+                                   Wind Dir.DCP@BLBW: Last: 2015-06-17 12:53:13
+                                    Voltage.DCP@BLBW: Last: 2015-06-17 12:53:12
+                              Wind Distance.DCP@BLBW: Last: 2015-06-17 12:53:13
+                               Rel Humidity.DCP@BLBW: Last: 2015-06-17 12:53:13
+             Internal Equipment Temperature.DCP@BLBW: Last: 2015-06-17 12:53:12
+                         Wind Distance.Discrete@BLBW: Last: 2015-03-22 18:36:13
+                          Rel Humidity.Discrete@BLBW: Last: 2014-12-13 13:24:19
+                       Rad Flux.Discrete_15 Min@BLBW: Last: 2014-12-13 14:02:39
+                      Solar Rad.Discrete_15 Min@BLBW: Last: 2014-12-13 14:23:44
+                     Atmos Pres.Discrete_Hourly@BLBW: Last: 2014-12-08 14:41:28
+                       Air Temp.Discrete_Hourly@BLBW: Last: 2014-12-08 13:57:39
+Location: BLR
+                            Discharge.calculated@BLR: Last: 2015-06-08 14:38:33
+                            Discharge.dailymeans@BLR: Last: 2015-02-23 15:52:03
+                                       Stage.DCP@BLR: Last: 2015-06-08 14:38:32
+                                     Voltage.DCP@BLR: Last: 2015-06-08 14:38:30
+              Internal Equipment Temperature.DCP@BLR: Last: 2015-06-08 14:38:30
+                              Stage.Field Visits@BLR: Last: 2015-06-08 15:03:31
+                          Discharge.Field Visits@BLR: Last: 2015-06-08 15:03:31
+                       River X Area.Field Visits@BLR: Last: 2015-06-08 15:03:31
+                      River X Width.Field Visits@BLR: Last: 2015-06-08 15:03:31
+                            Voltage.Field Visits@BLR: Last: 2015-06-08 15:03:31
+                     Water Velocity.Field Visits@BLR: Last: 2015-06-08 15:03:31
+Location: BNR
+                          Precip Total.Corrected@BNR: Last: 2014-12-15 19:36:40
+                                Precip Total.DCP@BNR: Last: 2015-03-08 19:59:15
+                                  Precip Raw.DCP@BNR: Last: 2015-03-08 19:58:04
+                                    Air Temp.DCP@BNR: Last: 2015-03-08 19:58:35
+                                     Voltage.DCP@BNR: Last: 2015-03-08 19:58:03
+              Internal Equipment Temperature.DCP@BNR: Last: 2015-03-08 19:58:03
+Location: BRLF
+                                  Discharge.DCP@BRLF: Last: 2014-03-24 17:16:12
+                                    Voltage.DCP@BRLF: Last: 2014-03-24 17:16:09
+             Internal Equipment Temperature.DCP@BRLF: Last: 2014-03-24 17:16:09
+Location: BRLQ
+                           Discharge.calculated@BRLQ: Last: 2015-03-18 08:52:03
+                           Discharge.dailymeans@BRLQ: Last: 2015-03-12 15:57:41
+                                      Stage.DCP@BRLQ: Last: 2015-01-07 15:34:28
+                                    Voltage.DCP@BRLQ: Last: 2015-01-07 13:22:54
+             Internal Equipment Temperature.DCP@BRLQ: Last: 2015-01-07 13:22:54
+                             Stage.Field Visits@BRLQ: Last: 2014-01-18 00:03:12
+                         Discharge.Field Visits@BRLQ: Last: 2014-01-18 00:03:11
+                      River X Area.Field Visits@BRLQ: Last: 2014-01-18 00:03:11
+                     River X Width.Field Visits@BRLQ: Last: 2014-01-18 00:03:12
+                    Water Velocity.Field Visits@BRLQ: Last: 2014-01-18 00:03:13
+Location: BRM
+                          Precip Total.Corrected@BRM: Last: 2015-01-10 10:57:49
+                                Precip Total.DCP@BRM: Last: 2015-01-10 10:42:55
+                                  Precip Raw.DCP@BRM: Last: 2015-01-10 10:07:28
+                                    Air Temp.DCP@BRM: Last: 2015-01-10 10:29:33
+                                     Voltage.DCP@BRM: Last: 2015-01-10 10:07:24
+              Internal Equipment Temperature.DCP@BRM: Last: 2015-01-10 10:07:25
+Location: BUCQ
+                           Discharge.calculated@BUCQ: Last: 2015-07-15 13:49:41
+                           Discharge.dailymeans@BUCQ: Last: 2015-01-26 11:36:39
+                                      Stage.DCP@BUCQ: Last: 2015-07-15 13:49:40
+                                 Water Temp.DCP@BUCQ: Last: 2015-06-08 11:40:24
+                                    Voltage.DCP@BUCQ: Last: 2015-06-08 11:40:23
+             Internal Equipment Temperature.DCP@BUCQ: Last: 2015-06-08 11:40:24
+                             Discharge.Discrete@BUCQ: Last: 2014-04-03 14:04:45
+                             Stage.Field Visits@BUCQ: Last: 2015-06-03 17:13:00
+                         Discharge.Field Visits@BUCQ: Last: 2015-06-03 17:13:00
+                      River X Area.Field Visits@BUCQ: Last: 2015-06-03 17:13:00
+                     River X Width.Field Visits@BUCQ: Last: 2015-06-03 17:13:00
+                    Water Velocity.Field Visits@BUCQ: Last: 2015-06-03 17:13:00
+Location: BUCW
+                         Precip Total.Corrected@BUCW: Last: 2014-12-03 16:45:47
+                                   WSpd Avg.DCP@BUCW: Last: 2015-05-08 11:13:52
+                                 Evapotrans.DCP@BUCW: Last: 2015-05-08 11:08:34
+                                 Atmos Pres.DCP@BUCW: Last: 2015-05-08 11:08:06
+                               Precip Total.DCP@BUCW: Last: 2015-05-08 11:08:45
+                                 Precip Raw.DCP@BUCW: Last: 2015-05-08 10:37:03
+                                   Rad Flux.DCP@BUCW: Last: 2015-05-08 11:09:23
+                                  Solar Rad.DCP@BUCW: Last: 2015-05-08 11:11:39
+                                   Air Temp.DCP@BUCW: Last: 2015-05-08 11:06:41
+                                   Wind Dir.DCP@BUCW: Last: 2015-05-08 11:12:26
+                                    Voltage.DCP@BUCW: Last: 2015-05-08 10:37:00
+                              Wind Distance.DCP@BUCW: Last: 2015-05-08 11:13:09
+                               Rel Humidity.DCP@BUCW: Last: 2015-05-08 11:10:49
+             Internal Equipment Temperature.DCP@BUCW: Last: 2015-05-08 10:37:00
+Location: BURP
+                                    Voltage.DCP@BURP: Last: 2014-04-16 12:58:02
+             Internal Equipment Temperature.DCP@BURP: Last: 2014-04-16 12:58:03
+                  Reservoir Level.Elevation_DCP@BURP: Last: 2014-04-16 12:58:33
+Location: BURQ
+                           Discharge.calculated@BURQ: Last: 2015-06-08 15:05:10
+                           Discharge.dailymeans@BURQ: Last: 2015-02-18 09:04:07
+                                      Stage.DCP@BURQ: Last: 2015-06-08 15:05:08
+                                    Voltage.DCP@BURQ: Last: 2015-06-08 15:05:06
+             Internal Equipment Temperature.DCP@BURQ: Last: 2015-06-08 15:05:07
+                             Stage.Field Visits@BURQ: Last: 2015-06-08 15:25:20
+                         Discharge.Field Visits@BURQ: Last: 2015-06-08 15:25:20
+                      River X Area.Field Visits@BURQ: Last: 2015-06-08 15:25:20
+                     River X Width.Field Visits@BURQ: Last: 2015-06-08 15:25:20
+                    Water Velocity.Field Visits@BURQ: Last: 2015-06-08 15:25:20
+                          Precip Total.Rain_DCP@BURQ: Last: 2015-06-08 15:05:08
+Location: CGV
+                             Discharge.DailyMean@CGV: Last: 2015-04-28 16:30:35
+                                       Stage.DCP@CGV: Last: 2015-06-11 13:03:02
+                                   Discharge.DCP@CGV: Last: 2015-06-11 13:03:39
+                                     Voltage.DCP@CGV: Last: 2015-06-11 13:03:14
+              Internal Equipment Temperature.DCP@CGV: Last: 2015-06-11 12:59:55
+                              Stage.Field Visits@CGV: Last: 2015-06-11 13:02:23
+                          Discharge.Field Visits@CGV: Last: 2015-06-11 13:02:23
+                       River X Area.Field Visits@CGV: Last: 2015-06-11 13:02:22
+                      River X Width.Field Visits@CGV: Last: 2015-06-11 13:02:23
+                         Water Temp.Field Visits@CGV: Last: 2015-06-11 13:02:23
+                            Voltage.Field Visits@CGV: Last: 2015-06-11 13:02:23
+                     Water Velocity.Field Visits@CGV: Last: 2015-06-11 13:02:23
+     Internal Equipment Temperature.Field Visits@CGV: Last: 2015-06-11 13:02:22
+Location: COYQ
+                                    Stage.1.DCP@COYQ: Last: 2015-06-11 14:00:11
+                                    Stage.2.DCP@COYQ: Last: 2015-06-11 14:01:29
+                               Discharge.DailyQ@COYQ: Last: 2015-03-31 10:45:22
+                                  Discharge.DCP@COYQ: Last: 2015-06-11 14:07:04
+                                 Water Temp.DCP@COYQ: Last: 2015-06-11 14:02:29
+                                    Voltage.DCP@COYQ: Last: 2015-06-11 13:56:05
+             Internal Equipment Temperature.DCP@COYQ: Last: 2015-06-11 13:56:04
+                             Stage.Field Visits@COYQ: Last: 2015-06-11 13:58:56
+                         Discharge.Field Visits@COYQ: Last: 2015-06-11 13:58:56
+                      River X Area.Field Visits@COYQ: Last: 2015-06-11 13:58:56
+                     River X Width.Field Visits@COYQ: Last: 2015-06-11 13:58:56
+                        Water Temp.Field Visits@COYQ: Last: 2015-06-11 13:58:56
+                           Voltage.Field Visits@COYQ: Last: 2015-06-11 13:58:56
+                    Water Velocity.Field Visits@COYQ: Last: 2015-06-11 13:58:56
+    Internal Equipment Temperature.Field Visits@COYQ: Last: 2015-06-11 13:58:56
+                   Discharge.Russian River USGS@COYQ: Last: 2014-02-13 09:29:57
+Location: COYW
+                         Precip Total.Corrected@COYW: Last: 2014-12-05 12:41:25
+                                   WSpd Avg.DCP@COYW: Last: 2015-06-11 14:08:24
+                                 Evapotrans.DCP@COYW: Last: 2015-06-11 14:08:28
+                                 Atmos Pres.DCP@COYW: Last: 2015-06-11 14:08:27
+                               Precip Total.DCP@COYW: Last: 2015-06-11 14:08:27
+                                 Precip Raw.DCP@COYW: Last: 2015-06-11 14:08:27
+                                   Rad Flux.DCP@COYW: Last: 2015-06-11 14:08:26
+                                  Solar Rad.DCP@COYW: Last: 2015-06-11 14:08:26
+                                   Air Temp.DCP@COYW: Last: 2015-06-11 14:08:27
+                                   Wind Dir.DCP@COYW: Last: 2015-06-11 14:08:25
+                                    Voltage.DCP@COYW: Last: 2015-06-11 14:08:24
+                              Wind Distance.DCP@COYW: Last: 2015-06-11 14:08:25
+                               Rel Humidity.DCP@COYW: Last: 2015-06-11 14:08:25
+             Internal Equipment Temperature.DCP@COYW: Last: 2015-06-11 14:08:24
+                             Solar Rad.Discrete@COYW: Last: 2014-04-29 16:01:46
+                         Wind Distance.Discrete@COYW: Last: 2015-03-25 14:33:19
+                              Rad Flux.Dsicrete@COYW: Last: 2014-04-29 15:19:41
+Location: DCK
+                             Discharge.DailyMean@DCK: Last: 2015-01-29 07:54:50
+                                       Stage.DCP@DCK: Last: 2015-06-11 12:32:13
+                                   Discharge.DCP@DCK: Last: 2015-06-11 12:33:21
+                                     Voltage.DCP@DCK: Last: 2015-06-11 12:29:08
+              Internal Equipment Temperature.DCP@DCK: Last: 2015-06-11 12:29:08
+                              Stage.Field Visits@DCK: Last: 2015-06-11 12:31:32
+                          Discharge.Field Visits@DCK: Last: 2015-06-11 12:31:32
+                       River X Area.Field Visits@DCK: Last: 2015-06-11 12:31:32
+                      River X Width.Field Visits@DCK: Last: 2015-06-11 12:31:32
+                            Voltage.Field Visits@DCK: Last: 2015-06-11 12:31:32
+                     Water Velocity.Field Visits@DCK: Last: 2015-06-11 12:31:32
+     Internal Equipment Temperature.Field Visits@DCK: Last: 2015-06-11 12:31:32
+Location: DUC
+                            Discharge.Dailymeans@DUC: Last: 2015-01-28 09:34:59
+                                       Stage.DCP@DUC: Last: 2015-06-11 11:57:28
+                                   Discharge.DCP@DUC: Last: 2015-06-11 11:59:26
+                                     Voltage.DCP@DUC: Last: 2015-06-11 11:57:56
+              Internal Equipment Temperature.DCP@DUC: Last: 2015-06-11 11:58:24
+                              Stage.Field Visits@DUC: Last: 2015-06-11 11:56:26
+                          Discharge.Field Visits@DUC: Last: 2015-06-11 11:56:26
+                            Voltage.Field Visits@DUC: Last: 2015-06-11 11:56:25
+     Internal Equipment Temperature.Field Visits@DUC: Last: 2015-06-11 11:56:25
+Location: DW1
+                                    Air Temp.DCP@DW1: Last: 2014-12-16 13:50:36
+                                     Voltage.DCP@DW1: Last: 2014-08-14 19:24:20
+              Internal Equipment Temperature.DCP@DW1: Last: 2014-08-14 19:24:28
+Location: EGL
+                          Precip Total.Corrected@EGL: Last: 2015-01-06 10:55:14
+                                Precip Total.DCP@EGL: Last: 2015-01-05 17:04:49
+                                    Air Temp.DCP@EGL: Last: 2015-01-05 17:01:18
+                                     Voltage.DCP@EGL: Last: 2015-01-02 16:17:53
+              Internal Equipment Temperature.DCP@EGL: Last: 2015-01-02 16:17:53
+                               Air Temp.Discrete@EGL: Last: 2015-01-05 16:40:48
+Location: EXC
+                           Air Temp.Air_Temp_DCP@EXC: Last: 2015-05-28 15:48:33
+                             Voltage.Battery_DCP@EXC: Last: 2015-05-28 15:48:37
+                          Total Storage.Capacity@EXC: Last: 2015-06-15 10:55:36
+                   Reservoir Level.Elevation_DCP@EXC: Last: 2015-06-15 10:55:23
+                    Reservoir Level.Field Visits@EXC: Last: 2015-05-07 07:58:13
+                           WSpd Avg.Field Visits@EXC: Last: 2015-05-07 07:58:13
+                              Stage.Field Visits@EXC: Last: 2015-05-07 07:58:13
+                       Precip Total.Field Visits@EXC: Last: 2015-05-07 07:58:13
+                           Air Temp.Field Visits@EXC: Last: 2015-05-07 07:58:13
+                           Wind Dir.Field Visits@EXC: Last: 2015-05-07 07:58:13
+                            Voltage.Field Visits@EXC: Last: 2015-05-07 07:58:13
+     Internal Equipment Temperature.Field Visits@EXC: Last: 2015-05-07 07:58:13
+     Internal Equipment Temperature.Int_Temp_DCP@EXC: Last: 2015-05-28 15:48:38
+                           Precip Total.Rain_DCP@EXC: Last: 2015-05-28 15:48:31
+                            Wind Dir.WindDir_DCP@EXC: Last: 2015-05-28 15:48:36
+                          Wind Vel.WindSpeed_DCP@EXC: Last: 2015-05-28 15:48:34
+Location: FFC
+                                     Stage.Staff@FFC: Last: 2014-07-03 19:01:00
+Location: FHL
+                            Discharge.calculated@FHL: Last: 2015-04-08 16:04:10
+                            Discharge.dailymeans@FHL: Last: 2015-04-08 15:13:31
+                                       Stage.DCP@FHL: Last: 2015-04-08 15:51:38
+                                     Voltage.DCP@FHL: Last: 2015-01-14 13:25:37
+                              Stage.Field Visits@FHL: Last: 2015-03-05 13:10:37
+                          Discharge.Field Visits@FHL: Last: 2015-03-05 13:10:37
+                       River X Area.Field Visits@FHL: Last: 2015-03-05 13:10:37
+                      River X Width.Field Visits@FHL: Last: 2015-03-05 13:10:37
+                     Water Velocity.Field Visits@FHL: Last: 2015-03-05 13:10:37
+Location: FLW
+                          Precip Total.Corrected@FLW: Last: 2015-01-30 09:09:17
+                                Precip Total.DCP@FLW: Last: 2015-03-27 09:17:29
+                                  Precip Raw.DCP@FLW: Last: 2015-03-27 09:17:29
+                                    Air Temp.DCP@FLW: Last: 2015-03-27 09:27:14
+                                     Voltage.DCP@FLW: Last: 2015-03-27 09:17:28
+              Internal Equipment Temperature.DCP@FLW: Last: 2015-03-27 09:17:28
+Location: FRG
+                                Stage.1.H350.DCP@FRG: Last: 2015-06-11 12:37:03
+                                 Stage.2.ENC.DCP@FRG: Last: 2015-06-11 12:38:14
+                            Discharge.Dailymeans@FRG: Last: 2015-01-28 10:14:38
+                                   Discharge.DCP@FRG: Last: 2015-06-11 12:39:51
+                                     Voltage.DCP@FRG: Last: 2015-06-11 12:34:03
+              Internal Equipment Temperature.DCP@FRG: Last: 2015-06-11 12:34:04
+                              Stage.Field Visits@FRG: Last: 2015-06-11 12:36:21
+                          Discharge.Field Visits@FRG: Last: 2015-06-11 12:36:21
+                       River X Area.Field Visits@FRG: Last: 2015-06-11 12:36:21
+                      River X Width.Field Visits@FRG: Last: 2015-06-11 12:36:21
+                            Voltage.Field Visits@FRG: Last: 2015-06-11 12:36:21
+                     Water Velocity.Field Visits@FRG: Last: 2015-06-11 12:36:21
+     Internal Equipment Temperature.Field Visits@FRG: Last: 2015-06-11 12:36:21
+Location: FTH
+                            Discharge.calculated@FTH: Last: 2015-06-17 11:32:54
+                            Discharge.dailymeans@FTH: Last: 2015-06-15 10:15:20
+                                       Stage.DCP@FTH: Last: 2015-06-01 08:52:09
+                                     Voltage.DCP@FTH: Last: 2014-12-31 12:59:25
+              Internal Equipment Temperature.DCP@FTH: Last: 2014-12-31 12:59:25
+                              Stage.Field Visits@FTH: Last: 2015-04-28 11:20:12
+                          Discharge.Field Visits@FTH: Last: 2015-04-28 11:20:12
+                       River X Area.Field Visits@FTH: Last: 2015-04-28 11:20:12
+                      River X Width.Field Visits@FTH: Last: 2015-04-28 11:20:12
+                     Water Velocity.Field Visits@FTH: Last: 2015-04-28 11:20:12
+Location: GNF
+                          Precip Total.Corrected@GNF: Last: 2015-01-17 19:37:31
+                         Snow Depth.DailyAverage@GNF: Last: 2015-01-27 09:15:56
+                                SWE.DailyAverage@GNF: Last: 2015-01-26 19:36:32
+                                Precip Total.DCP@GNF: Last: 2015-01-17 19:12:43
+                                  Precip Raw.DCP@GNF: Last: 2015-01-17 18:20:22
+                                  Snow Depth.DCP@GNF: Last: 2015-01-26 09:01:27
+                                         SWE.DCP@GNF: Last: 2015-01-17 20:42:21
+                                    Air Temp.DCP@GNF: Last: 2015-01-17 19:37:58
+                                     Voltage.DCP@GNF: Last: 2015-01-17 18:20:19
+              Internal Equipment Temperature.DCP@GNF: Last: 2015-01-17 18:20:20
+                                   Snow Depth.QA@GNF: Last: 2015-01-17 18:20:22
+Location: HCK
+                          Precip Total.Corrected@HCK: Last: 2015-01-17 17:54:00
+                                Precip Total.DCP@HCK: Last: 2015-01-17 14:35:53
+                                  Precip Raw.DCP@HCK: Last: 2014-12-19 14:22:45
+                                    Air Temp.DCP@HCK: Last: 2015-01-17 17:53:46
+                                     Voltage.DCP@HCK: Last: 2014-12-19 14:22:41
+              Internal Equipment Temperature.DCP@HCK: Last: 2014-12-19 14:22:43
+Location: HIDQ
+                           Discharge.calculated@HIDQ: Last: 2015-06-08 11:42:49
+                           Discharge.dailymeans@HIDQ: Last: 2015-04-15 15:29:56
+                                      Stage.DCP@HIDQ: Last: 2015-06-08 11:42:49
+                                 Water Temp.DCP@HIDQ: Last: 2015-06-08 11:42:47
+                                    Voltage.DCP@HIDQ: Last: 2015-06-08 11:42:45
+             Internal Equipment Temperature.DCP@HIDQ: Last: 2015-06-08 11:42:45
+                            Discharge.Discrete2@HIDQ: Last: 2015-04-09 15:58:22
+                             Stage.Field Visits@HIDQ: Last: 2015-06-08 12:49:46
+                         Discharge.Field Visits@HIDQ: Last: 2015-06-08 12:49:46
+                      River X Area.Field Visits@HIDQ: Last: 2015-06-08 12:49:46
+                     River X Width.Field Visits@HIDQ: Last: 2015-06-08 12:49:46
+                    Water Velocity.Field Visits@HIDQ: Last: 2015-06-08 12:49:46
+Location: HIDW
+                         Precip Total.Corrected@HIDW: Last: 2014-12-03 11:29:17
+                                   WSpd Avg.DCP@HIDW: Last: 2015-05-08 14:19:25
+                                 Evapotrans.DCP@HIDW: Last: 2015-05-08 14:14:50
+                                 Atmos Pres.DCP@HIDW: Last: 2015-05-08 14:14:26
+                               Precip Total.DCP@HIDW: Last: 2015-05-08 14:15:01
+                                 Precip Raw.DCP@HIDW: Last: 2015-05-08 14:04:09
+                                   Rad Flux.DCP@HIDW: Last: 2015-05-08 14:15:48
+                                  Solar Rad.DCP@HIDW: Last: 2015-05-08 14:18:03
+                                   Air Temp.DCP@HIDW: Last: 2015-05-08 14:13:25
+                                   Wind Dir.DCP@HIDW: Last: 2015-05-08 14:18:35
+                                    Voltage.DCP@HIDW: Last: 2015-05-08 14:04:07
+                              Wind Distance.DCP@HIDW: Last: 2015-05-08 14:18:50
+                               Rel Humidity.DCP@HIDW: Last: 2015-05-08 14:16:55
+             Internal Equipment Temperature.DCP@HIDW: Last: 2015-05-08 14:04:07
+                         Wind Distance.Discrete@HIDW: Last: 2014-04-18 11:33:43
+Location: HLK
+                                     Stage.Chart@HLK: Last: 2013-07-06 09:04:06
+                              Stage.Field Visits@HLK: Last: 2013-07-06 10:19:23
+                          Discharge.Field Visits@HLK: Last: 2013-07-06 10:19:23
+Location: HSS
+                          Precip Total.Corrected@HSS: Last: 2015-01-06 09:38:24
+                                Precip Total.DCP@HSS: Last: 2015-01-06 08:45:02
+                                  Precip Raw.DCP@HSS: Last: 2015-01-02 16:28:59
+                                    Air Temp.DCP@HSS: Last: 2015-01-06 08:37:19
+                                     Voltage.DCP@HSS: Last: 2015-01-06 09:41:47
+              Internal Equipment Temperature.DCP@HSS: Last: 2015-01-06 09:42:11
+Location: ISBQ
+                           Discharge.calculated@ISBQ: Last: 2015-06-22 10:57:43
+                           Discharge.dailymeans@ISBQ: Last: 2015-06-18 14:00:16
+                                      Stage.DCP@ISBQ: Last: 2015-06-18 12:58:28
+                                 Water Temp.DCP@ISBQ: Last: 2015-06-18 13:59:25
+                                    Voltage.DCP@ISBQ: Last: 2015-01-19 09:46:49
+                                   Wind Amp.DCP@ISBQ: Last: 2015-01-19 09:46:50
+             Internal Equipment Temperature.DCP@ISBQ: Last: 2015-01-19 09:46:49
+                             Stage.Field Visits@ISBQ: Last: 2014-01-11 16:51:24
+                         Discharge.Field Visits@ISBQ: Last: 2014-01-11 16:51:23
+                      River X Area.Field Visits@ISBQ: Last: 2014-01-11 16:51:23
+                     River X Width.Field Visits@ISBQ: Last: 2014-01-11 16:51:24
+                    Water Velocity.Field Visits@ISBQ: Last: 2014-01-11 16:51:24
+Location: ISBW
+                         Precip Total.Corrected@ISBW: Last: 2014-12-02 18:21:32
+                                   WSpd Avg.DCP@ISBW: Last: 2015-05-13 14:01:07
+                                 Evapotrans.DCP@ISBW: Last: 2015-05-13 13:48:09
+                                 Atmos Pres.DCP@ISBW: Last: 2015-05-13 13:47:00
+                               Precip Total.DCP@ISBW: Last: 2015-05-13 13:48:41
+                                 Precip Raw.DCP@ISBW: Last: 2015-05-13 13:41:07
+                                   Rad Flux.DCP@ISBW: Last: 2015-05-13 13:50:48
+                                  Solar Rad.DCP@ISBW: Last: 2015-05-13 13:54:37
+                                   Air Temp.DCP@ISBW: Last: 2015-07-15 14:10:11
+                                   Wind Dir.DCP@ISBW: Last: 2015-05-13 13:56:44
+                                    Voltage.DCP@ISBW: Last: 2015-05-13 13:41:04
+                              Wind Distance.DCP@ISBW: Last: 2015-05-13 13:59:04
+                               Rel Humidity.DCP@ISBW: Last: 2015-05-13 13:53:07
+             Internal Equipment Temperature.DCP@ISBW: Last: 2015-05-13 13:41:04
+                            Atmos Pres.Discrete@ISBW: Last: 2014-04-11 12:53:52
+                         Wind Distance.Dsicrete@ISBW: Last: 2015-03-27 11:12:10
+Location: KBC
+                                       Stage.DCP@KBC: Last: 2015-05-08 14:29:32
+                                  Water Temp.DCP@KBC: Last: 2015-05-08 14:29:14
+                                     Voltage.DCP@KBC: Last: 2015-05-08 14:29:43
+              Internal Equipment Temperature.DCP@KBC: Last: 2015-05-08 14:28:50
+                              Stage.Field Visits@KBC: Last: 2015-07-10 10:31:38
+                          Discharge.Field Visits@KBC: Last: 2015-07-10 10:31:37
+                       River X Area.Field Visits@KBC: Last: 2015-07-10 10:31:37
+                      River X Width.Field Visits@KBC: Last: 2015-07-10 10:31:38
+                     Water Velocity.Field Visits@KBC: Last: 2015-07-10 10:31:39
+Location: KRN
+                            Discharge.calculated@KRN: Last: 2015-07-16 15:43:10
+                            Discharge.dailymeans@KRN: Last: 2014-03-31 08:49:00
+                                       Stage.DCP@KRN: Last: 2015-07-08 09:49:45
+                                     Voltage.DCP@KRN: Last: 2015-01-07 12:50:27
+              Internal Equipment Temperature.DCP@KRN: Last: 2015-01-07 12:50:27
+                              Stage.Field Visits@KRN: Last: 2014-04-07 17:25:54
+                          Discharge.Field Visits@KRN: Last: 2014-04-07 17:25:53
+                       River X Area.Field Visits@KRN: Last: 2014-04-07 17:25:53
+                      River X Width.Field Visits@KRN: Last: 2014-04-07 17:25:55
+                     Water Velocity.Field Visits@KRN: Last: 2014-04-07 17:25:55
+Location: KRR
+                                       Stage.DCP@KRR: Last: 2015-05-08 15:27:40
+                                  Water Temp.DCP@KRR: Last: 2015-05-08 15:25:32
+                                     Voltage.DCP@KRR: Last: 2015-05-08 15:25:31
+              Internal Equipment Temperature.DCP@KRR: Last: 2015-05-08 15:25:31
+                              Stage.Field Visits@KRR: Last: 2015-07-10 11:05:16
+                          Discharge.Field Visits@KRR: Last: 2015-07-10 11:05:16
+                       River X Area.Field Visits@KRR: Last: 2015-07-10 11:05:16
+                      River X Width.Field Visits@KRR: Last: 2015-07-10 11:05:16
+                     Water Velocity.Field Visits@KRR: Last: 2015-07-10 11:05:16
+Location: LCV
+                            Discharge.calculated@LCV: Last: 2015-04-28 09:31:42
+                            Discharge.dailymeans@LCV: Last: 2015-05-28 10:38:13
+                                       Stage.DCP@LCV: Last: 2015-04-28 09:31:41
+                                     Voltage.DCP@LCV: Last: 2015-01-06 13:57:04
+              Internal Equipment Temperature.DCP@LCV: Last: 2015-01-06 13:57:04
+                              Stage.Field Visits@LCV: Last: 2014-12-30 14:42:06
+                          Discharge.Field Visits@LCV: Last: 2014-12-30 14:42:06
+                       River X Area.Field Visits@LCV: Last: 2014-12-30 14:42:05
+                      River X Width.Field Visits@LCV: Last: 2014-12-30 14:42:05
+                     Water Velocity.Field Visits@LCV: Last: 2014-12-30 14:42:06
+                           Precip Total.Rain_DCP@LCV: Last: 2014-01-28 07:56:12
+Location: LGS
+                          Precip Total.Corrected@LGS: Last: 2015-02-11 17:27:44
+                                Precip Total.DCP@LGS: Last: 2015-02-11 15:52:22
+                                  Precip Raw.DCP@LGS: Last: 2015-02-11 13:36:30
+                                    Air Temp.DCP@LGS: Last: 2015-02-11 14:41:05
+                                     Voltage.DCP@LGS: Last: 2015-02-11 13:36:28
+              Internal Equipment Temperature.DCP@LGS: Last: 2015-02-11 13:36:29
+Location: LMN
+                            Discharge.calculated@LMN: Last: 2015-05-19 11:29:54
+                            Discharge.dailymeans@LMN: Last: 2015-05-19 13:38:10
+                                       Stage.DCP@LMN: Last: 2015-01-06 14:34:12
+                                    Voltage.DCP @LMN: Last: 2015-01-06 14:36:01
+              Internal Equipment Temperature.DCP@LMN: Last: 2015-01-06 14:35:16
+                              Stage.Field Visits@LMN: Last: 2015-03-19 11:17:53
+                          Discharge.Field Visits@LMN: Last: 2015-03-19 11:17:53
+                       River X Area.Field Visits@LMN: Last: 2015-03-19 11:17:53
+                      River X Width.Field Visits@LMN: Last: 2015-03-19 11:17:54
+                     Water Velocity.Field Visits@LMN: Last: 2015-03-19 11:17:54
+Location: MARP
+                                    Voltage.DCP@MARP: Last: 2014-04-18 03:10:28
+             Internal Equipment Temperature.DCP@MARP: Last: 2014-04-18 03:10:28
+                  Reservoir Level.Elevation_DCP@MARP: Last: 2014-04-18 03:10:29
+Location: MARQ
+                           Discharge.calculated@MARQ: Last: 2015-06-08 15:43:25
+                           Discharge.dailymeans@MARQ: Last: 2015-01-05 15:20:17
+                                      Stage.DCP@MARQ: Last: 2015-06-08 15:43:24
+                                    Voltage.DCP@MARQ: Last: 2015-06-08 15:43:22
+             Internal Equipment Temperature.DCP@MARQ: Last: 2015-06-08 15:43:22
+                             Stage.Field Visits@MARQ: Last: 2015-06-08 15:42:43
+                         Discharge.Field Visits@MARQ: Last: 2015-06-08 15:42:43
+                      River X Area.Field Visits@MARQ: Last: 2015-06-08 15:42:43
+                     River X Width.Field Visits@MARQ: Last: 2015-06-08 15:42:43
+                    Water Velocity.Field Visits@MARQ: Last: 2015-06-08 15:42:43
+                          Precip Total.Rain_DCP@MARQ: Last: 2015-06-08 15:43:24
+Location: MBB
+                              Stage.Field Visits@MBB: Last: 2014-05-14 11:46:34
+                          Discharge.Field Visits@MBB: Last: 2014-05-14 11:46:34
+                       River X Area.Field Visits@MBB: Last: 2014-05-14 11:46:35
+                      River X Width.Field Visits@MBB: Last: 2014-05-14 11:46:35
+                         Water Temp.Field Visits@MBB: Last: 2014-05-14 11:46:36
+                     Water Velocity.Field Visits@MBB: Last: 2014-05-14 11:46:36
+                                 Stage.Stage.DCP@MBB: Last: 2014-01-08 09:01:26
+Location: MCH
+                             Voltage.Battery_DCP@MCH: Last: 2015-05-07 08:38:58
+                                   Discharge.DCP@MCH: Last: 2015-07-09 08:10:51
+                              Stage.Field Visits@MCH: Last: 2015-05-07 08:45:29
+                          Discharge.Field Visits@MCH: Last: 2015-05-07 08:45:30
+                       River X Area.Field Visits@MCH: Last: 2015-05-07 08:45:30
+                      River X Width.Field Visits@MCH: Last: 2015-05-07 08:45:30
+                            Voltage.Field Visits@MCH: Last: 2015-05-07 08:45:30
+                     Water Velocity.Field Visits@MCH: Last: 2015-05-07 08:45:30
+     Internal Equipment Temperature.Field Visits@MCH: Last: 2015-05-07 08:45:30
+     Internal Equipment Temperature.Int_Temp_DCP@MCH: Last: 2015-05-07 08:38:59
+                                 Stage.Stage_DCP@MCH: Last: 2015-05-07 08:52:28
+Location: MCK
+                            Discharge.calculated@MCK: Last: 2015-06-08 13:01:20
+                            Discharge.dailymeans@MCK: Last: 2015-04-09 11:32:06
+                                       Stage.DCP@MCK: Last: 2015-06-08 13:01:20
+                                     Voltage.DCP@MCK: Last: 2015-06-08 13:01:20
+              Internal Equipment Temperature.DCP@MCK: Last: 2015-03-05 14:21:54
+                              Stage.Field Visits@MCK: Last: 2015-06-08 14:12:21
+                          Discharge.Field Visits@MCK: Last: 2015-06-08 14:12:21
+                       River X Area.Field Visits@MCK: Last: 2015-06-08 14:12:21
+                      River X Width.Field Visits@MCK: Last: 2015-06-08 14:12:21
+                     Water Velocity.Field Visits@MCK: Last: 2015-06-08 14:12:21
+Location: MCS
+                             Voltage.Battery_DCP@MCS: Last: 2015-05-07 08:14:10
+                          Total Storage.Capacity@MCS: Last: 2015-05-07 08:30:39
+                   Reservoir Level.Elevation_DCP@MCS: Last: 2015-05-07 08:30:39
+                    Reservoir Level.Field Visits@MCS: Last: 2015-05-07 08:18:31
+                              Stage.Field Visits@MCS: Last: 2015-05-07 08:18:32
+                            Voltage.Field Visits@MCS: Last: 2015-05-07 08:18:31
+     Internal Equipment Temperature.Field Visits@MCS: Last: 2015-05-07 08:18:31
+     Internal Equipment Temperature.Int_Temp_DCP@MCS: Last: 2015-05-07 08:14:10
+                          Total Storage.Midnight@MCS: Last: 2013-10-29 16:49:23
+                        Lake/res elevation.SCADA@MCS: Last: 2015-04-14 11:00:51
+Location: MGN
+                          Precip Total.Corrected@MGN: Last: 2014-12-16 14:37:52
+                                Precip Total.DCP@MGN: Last: 2015-03-12 12:09:18
+                                  Precip Raw.DCP@MGN: Last: 2015-03-12 12:05:15
+                                    Air Temp.DCP@MGN: Last: 2015-03-12 12:08:39
+                                     Voltage.DCP@MGN: Last: 2015-03-12 12:05:13
+              Internal Equipment Temperature.DCP@MGN: Last: 2015-03-12 12:05:13
+                    Precip Total.Discrete_60 min@MGN: Last: 2014-12-16 13:48:56
+                        Air Temp.Discrete-60 min@MGN: Last: 2014-12-16 13:48:55
+Location: MMF
+                             Voltage.Battery_DCP@MMF: Last: 2015-06-18 09:10:41
+                              Stage.Field Visits@MMF: Last: 2015-06-18 09:41:01
+                          Discharge.Field Visits@MMF: Last: 2015-06-18 09:41:01
+                       River X Area.Field Visits@MMF: Last: 2015-06-18 09:41:01
+                      River X Width.Field Visits@MMF: Last: 2015-06-18 09:41:01
+                            Voltage.Field Visits@MMF: Last: 2015-06-18 09:41:01
+                     Water Velocity.Field Visits@MMF: Last: 2015-06-18 09:41:01
+     Internal Equipment Temperature.Field Visits@MMF: Last: 2015-06-18 09:41:01
+                                 Discharge.Final@MMF: Last: 2015-06-18 10:13:09
+     Internal Equipment Temperature.Int_Temp_DCP@MMF: Last: 2015-06-18 09:10:42
+                                 Stage.Stage_DCP@MMF: Last: 2015-06-18 09:24:12
+Location: MNH
+                          Precip Total.Corrected@MNH: Last: 2015-01-06 10:54:08
+                                Precip Total.DCP@MNH: Last: 2015-01-06 10:28:01
+                                  Precip Raw.DCP@MNH: Last: 2015-01-02 16:32:52
+                                    Air Temp.DCP@MNH: Last: 2015-01-06 10:18:30
+                                     Voltage.DCP@MNH: Last: 2015-01-02 16:32:49
+              Internal Equipment Temperature.DCP@MNH: Last: 2015-01-02 16:32:48
+Location: MRS
+                            Discharge.DailyMeans@MRS: Last: 2015-01-29 15:42:25
+                                       Stage.DCP@MRS: Last: 2015-06-11 13:12:09
+                                Precip Total.DCP@MRS: Last: 2015-06-11 13:12:54
+                                   Discharge.DCP@MRS: Last: 2015-07-06 17:09:59
+                                     Voltage.DCP@MRS: Last: 2015-06-11 13:03:59
+              Internal Equipment Temperature.DCP@MRS: Last: 2015-06-11 13:03:59
+                              Stage.Field Visits@MRS: Last: 2015-06-11 13:08:07
+                       Precip Total.Field Visits@MRS: Last: 2015-06-11 13:08:07
+                          Discharge.Field Visits@MRS: Last: 2015-06-11 13:08:07
+                       River X Area.Field Visits@MRS: Last: 2015-06-11 13:08:07
+                      River X Width.Field Visits@MRS: Last: 2015-06-11 13:08:07
+                            Voltage.Field Visits@MRS: Last: 2015-06-11 13:08:07
+                     Water Velocity.Field Visits@MRS: Last: 2015-06-11 13:08:07
+     Internal Equipment Temperature.Field Visits@MRS: Last: 2015-06-11 13:08:07
+Location: MRTQ
+                                      Stage.DCP@MRTQ: Last: 2015-05-08 15:35:10
+                                    Voltage.DCP@MRTQ: Last: 2015-05-08 15:35:10
+             Internal Equipment Temperature.DCP@MRTQ: Last: 2015-05-08 15:35:10
+Location: MRTS
+                                   WSpd Avg.DCP@MRTS: Last: 2015-05-08 15:34:33
+                               Precip Total.DCP@MRTS: Last: 2015-05-08 15:34:33
+                                 Snow Depth.DCP@MRTS: Last: 2015-05-08 15:34:39
+                                        SWE.DCP@MRTS: Last: 2015-05-08 15:34:38
+                                   Air Temp.DCP@MRTS: Last: 2015-05-08 15:34:33
+                                   Wind Dir.DCP@MRTS: Last: 2015-05-08 15:34:34
+                                    Voltage.DCP@MRTS: Last: 2015-05-08 15:34:32
+             Internal Equipment Temperature.DCP@MRTS: Last: 2015-05-08 15:34:32
+                     Soil Moisture.North 12-DCP@MRTS: Last: 2014-04-26 12:23:10
+                     Soil Moisture.North 16-DCP@MRTS: Last: 2015-05-08 15:34:36
+                     Soil Moisture.North 24-DCP@MRTS: Last: 2015-05-08 15:34:36
+                     Soil Moisture.North 32-DCP@MRTS: Last: 2015-05-08 15:34:36
+                     Soil Moisture.North 40-DCP@MRTS: Last: 2015-05-08 15:34:35
+                      Soil Moisture.North 4-DCP@MRTS: Last: 2015-05-08 15:34:35
+                      Soil Moisture.North 8-DCP@MRTS: Last: 2015-05-08 15:34:36
+                 Soil Moisture.Perimeter 12-DCP@MRTS: Last: 2015-05-08 15:34:36
+                 Soil Moisture.Perimeter 16-DCP@MRTS: Last: 2015-05-08 15:34:35
+                 Soil Moisture.Perimeter 24-DCP@MRTS: Last: 2015-05-08 15:34:34
+                  Soil Moisture.Perimeter 4-DCP@MRTS: Last: 2015-05-08 15:34:35
+                  Soil Moisture.Perimeter 8-DCP@MRTS: Last: 2015-05-08 15:34:34
+                  Soil Moisture.Perimeter20-DCP@MRTS: Last: 2015-05-08 15:34:35
+                     Soil Moisture.South 12-DCP@MRTS: Last: 2015-05-08 15:34:37
+                     Soil Moisture.South 16-DCP@MRTS: Last: 2015-05-08 15:34:37
+                     Soil Moisture.South 24-DCP@MRTS: Last: 2015-05-08 15:34:37
+                     Soil Moisture.South 32-DCP@MRTS: Last: 2015-05-08 15:34:38
+                     Soil Moisture.South 40-DCP@MRTS: Last: 2015-05-08 15:34:37
+                     Soil Moisture.South 48-DCP@MRTS: Last: 2015-05-08 15:34:38
+                      Soil Moisture.South 8-DCP@MRTS: Last: 2015-05-08 15:34:38
+Location: MSB
+                             Voltage.Battery_DCP@MSB: Last: 2015-06-15 08:01:23
+                                Discharge.DailyQ@MSB: Last: 2015-06-15 09:39:51
+                                   Discharge.DCP@MSB: Last: 2015-06-15 09:32:46
+                              Stage.Field Visits@MSB: Last: 2015-06-15 08:07:28
+                          Discharge.Field Visits@MSB: Last: 2015-06-15 08:07:29
+                       River X Area.Field Visits@MSB: Last: 2015-06-15 08:07:29
+                      River X Width.Field Visits@MSB: Last: 2015-06-15 08:07:29
+                            Voltage.Field Visits@MSB: Last: 2015-06-15 08:07:29
+                     Water Velocity.Field Visits@MSB: Last: 2015-06-15 08:07:29
+     Internal Equipment Temperature.Field Visits@MSB: Last: 2015-06-15 08:07:29
+     Internal Equipment Temperature.Int_Temp_DCP@MSB: Last: 2015-06-15 08:01:26
+                                 Stage.Stage_DCP@MSB: Last: 2015-06-15 08:30:01
+Location: MTK
+                            Discharge.calculated@MTK: Last: 2015-05-24 20:45:05
+                            Discharge.dailymeans@MTK: Last: 2015-05-24 20:45:37
+                                       Stage.DCP@MTK: Last: 2015-05-24 20:45:04
+                                  Water Temp.DCP@MTK: Last: 2015-05-24 20:45:19
+                                     Voltage.DCP@MTK: Last: 2015-05-23 17:42:15
+              Internal Equipment Temperature.DCP@MTK: Last: 2015-05-23 17:42:15
+                              Stage.Field Visits@MTK: Last: 2015-05-23 17:41:14
+                          Discharge.Field Visits@MTK: Last: 2015-05-23 17:41:14
+                       River X Area.Field Visits@MTK: Last: 2015-05-23 17:41:14
+                      River X Width.Field Visits@MTK: Last: 2015-05-23 17:41:14
+                         Water Temp.Field Visits@MTK: Last: 2015-05-23 17:41:14
+                            Voltage.Field Visits@MTK: Last: 2015-05-23 17:41:14
+                     Water Velocity.Field Visits@MTK: Last: 2015-05-23 17:41:14
+     Internal Equipment Temperature.Field Visits@MTK: Last: 2015-05-23 17:41:14
+Location: MTM
+                         Snow Depth.DailyAverage@MTM: Last: 2015-01-30 10:46:50
+                                SWE.DailyAverage@MTM: Last: 2015-01-30 10:57:18
+                                  Snow Depth.DCP@MTM: Last: 2015-01-30 10:24:39
+                                         SWE.DCP@MTM: Last: 2015-01-30 10:49:26
+                                    Air Temp.DCP@MTM: Last: 2015-01-30 09:53:18
+                                     Voltage.DCP@MTM: Last: 2014-08-15 17:41:38
+              Internal Equipment Temperature.DCP@MTM: Last: 2014-08-15 17:41:47
+                                   Snow Depth.QA@MTM: Last: 2015-01-30 10:13:45
+Location: NFW
+                            Discharge.calculated@NFW: Last: 2015-02-17 11:49:21
+                            Discharge.dailymeans@NFW: Last: 2015-02-17 11:54:00
+                                       Stage.DCP@NFW: Last: 2015-02-17 10:54:06
+                                     Voltage.DCP@NFW: Last: 2013-03-06 15:47:27
+                              Stage.Field Visits@NFW: Last: 2015-03-04 16:06:55
+                          Discharge.Field Visits@NFW: Last: 2015-01-21 09:52:35
+                       River X Area.Field Visits@NFW: Last: 2015-01-21 09:52:36
+                      River X Width.Field Visits@NFW: Last: 2015-01-21 09:52:36
+                     Water Velocity.Field Visits@NFW: Last: 2015-01-21 09:52:37
+Location: NHGQ
+                            Discharge.dailymean@NHGQ: Last: 2015-01-29 09:51:48
+                                      Stage.DCP@NHGQ: Last: 2015-06-11 12:51:59
+                                  Discharge.DCP@NHGQ: Last: 2015-06-11 12:59:33
+                                 Water Temp.DCP@NHGQ: Last: 2015-06-11 12:52:34
+                                    Voltage.DCP@NHGQ: Last: 2015-06-11 12:48:21
+             Internal Equipment Temperature.DCP@NHGQ: Last: 2015-06-11 12:48:21
+                             Stage.Field Visits@NHGQ: Last: 2015-06-11 12:51:11
+                         Discharge.Field Visits@NHGQ: Last: 2015-06-11 12:51:11
+                      River X Area.Field Visits@NHGQ: Last: 2015-06-11 12:51:10
+                     River X Width.Field Visits@NHGQ: Last: 2015-06-11 12:51:11
+                        Water Temp.Field Visits@NHGQ: Last: 2015-06-11 12:51:11
+                           Voltage.Field Visits@NHGQ: Last: 2015-06-11 12:51:11
+                    Water Velocity.Field Visits@NHGQ: Last: 2015-06-11 12:51:11
+    Internal Equipment Temperature.Field Visits@NHGQ: Last: 2015-06-11 12:51:11
+Location: NHGW
+                         Precip Total.Corrected@NHGW: Last: 2014-12-08 11:17:28
+                                   WSpd Avg.DCP@NHGW: Last: 2015-06-11 13:53:32
+                                 Evapotrans.DCP@NHGW: Last: 2015-06-11 13:53:37
+                                 Atmos Pres.DCP@NHGW: Last: 2015-06-11 13:53:34
+                               Precip Total.DCP@NHGW: Last: 2015-06-11 13:53:34
+                                 Precip Raw.DCP@NHGW: Last: 2015-06-11 13:53:34
+                                   Rad Flux.DCP@NHGW: Last: 2015-06-11 13:53:33
+                                  Solar Rad.DCP@NHGW: Last: 2015-06-11 13:53:33
+                                   Air Temp.DCP@NHGW: Last: 2015-06-11 13:53:33
+                                   Wind Dir.DCP@NHGW: Last: 2015-06-11 13:53:33
+                                    Voltage.DCP@NHGW: Last: 2015-06-11 13:53:32
+                              Wind Distance.DCP@NHGW: Last: 2015-06-11 13:53:32
+                               Rel Humidity.DCP@NHGW: Last: 2015-06-11 13:53:33
+             Internal Equipment Temperature.DCP@NHGW: Last: 2015-06-11 13:53:32
+                         Wind Distance.Discrete@NHGW: Last: 2015-03-18 17:18:09
+Location: NLS
+                          Precip Total.Corrected@NLS: Last: 2015-02-17 19:03:05
+                         Snow Depth.DailyAverage@NLS: Last: 2015-02-17 21:31:51
+                                SWE.DailyAverage@NLS: Last: 2015-02-17 20:40:46
+                                Precip Total.DCP@NLS: Last: 2015-02-13 12:27:03
+                                  Precip Raw.DCP@NLS: Last: 2015-02-11 14:25:45
+                                  Snow Depth.DCP@NLS: Last: 2015-02-17 21:25:25
+                                         SWE.DCP@NLS: Last: 2015-02-17 20:31:43
+                                    Air Temp.DCP@NLS: Last: 2015-02-16 10:45:26
+                                     Voltage.DCP@NLS: Last: 2015-02-11 14:25:37
+              Internal Equipment Temperature.DCP@NLS: Last: 2015-02-11 14:25:39
+                             Snow Depth.Discrete@NLS: Last: 2015-02-17 20:07:39
+                                    SWE.Discrete@NLS: Last: 2015-02-17 20:07:40
+                                   Snow Depth.QA@NLS: Last: 2015-02-11 14:25:44
+Location: OKH
+                          Precip Total.Corrected@OKH: Last: 2014-12-15 18:21:37
+                                Precip Total.DCP@OKH: Last: 2015-03-08 19:53:21
+                                  Precip Raw.DCP@OKH: Last: 2015-03-08 19:46:58
+                                    Air Temp.DCP@OKH: Last: 2015-03-08 19:52:42
+                                     Voltage.DCP@OKH: Last: 2015-03-08 19:46:56
+              Internal Equipment Temperature.DCP@OKH: Last: 2015-03-08 19:46:56
+Location: OWNP
+                                    Voltage.DCP@OWNP: Last: 2014-04-21 15:01:22
+             Internal Equipment Temperature.DCP@OWNP: Last: 2014-04-21 15:01:21
+                     Reservoir Level.Elevation_@OWNP: Last: 2014-04-21 15:01:22
+Location: OWNQ
+                           Discharge.calculated@OWNQ: Last: 2015-06-08 15:50:24
+                           Discharge.dailymeans@OWNQ: Last: 2015-02-23 09:35:51
+                                      Stage.DCP@OWNQ: Last: 2015-06-08 15:50:24
+                                    Voltage.DCP@OWNQ: Last: 2015-06-08 15:50:21
+             Internal Equipment Temperature.DCP@OWNQ: Last: 2015-06-08 15:50:21
+                             Stage.Field Visits@OWNQ: Last: 2015-06-08 16:03:49
+                         Discharge.Field Visits@OWNQ: Last: 2015-06-08 16:03:49
+                      River X Area.Field Visits@OWNQ: Last: 2015-06-08 16:03:49
+                     River X Width.Field Visits@OWNQ: Last: 2015-06-08 16:03:49
+                    Water Velocity.Field Visits@OWNQ: Last: 2015-06-08 16:03:49
+                          Precip Total.Rain_DCP@OWNQ: Last: 2015-06-08 15:50:23
+Location: PDR
+                            Discharge.calculated@PDR: Last: 2015-03-18 09:34:31
+                            Discharge.dailymeans@PDR: Last: 2015-02-23 13:38:54
+                                       Stage.DCP@PDR: Last: 2015-01-19 11:13:42
+                                   Discharge.DCP@PDR: Last: 2015-03-18 09:34:32
+                                     Voltage.DCP@PDR: Last: 2015-01-19 11:13:42
+              Internal Equipment Temperature.DCP@PDR: Last: 2015-01-19 11:13:41
+                              Stage.Field Visits@PDR: Last: 2014-12-30 13:17:36
+                          Discharge.Field Visits@PDR: Last: 2014-12-30 13:17:36
+                       River X Area.Field Visits@PDR: Last: 2014-12-30 13:17:36
+                      River X Width.Field Visits@PDR: Last: 2014-12-30 13:17:36
+                     Water Velocity.Field Visits@PDR: Last: 2014-12-30 13:17:37
+Location: PNFQ
+                           Discharge.calculated@PNFQ: Last: 2015-04-27 15:18:30
+                           Discharge.dailymeans@PNFQ: Last: 2015-05-28 11:54:06
+                                      Stage.DCP@PNFQ: Last: 2015-03-23 10:08:39
+                                 Water Temp.DCP@PNFQ: Last: 2015-03-23 09:48:04
+                                    Voltage.DCP@PNFQ: Last: 2015-03-23 09:48:03
+             Internal Equipment Temperature.DCP@PNFQ: Last: 2015-03-23 09:48:03
+                             Stage.Field Visits@PNFQ: Last: 2015-01-21 14:42:23
+                         Discharge.Field Visits@PNFQ: Last: 2015-01-21 14:42:23
+                      River X Area.Field Visits@PNFQ: Last: 2015-02-26 08:50:04
+                     River X Width.Field Visits@PNFQ: Last: 2015-01-21 14:42:24
+                        Water Temp.Field Visits@PNFQ: Last: 2015-01-21 14:42:24
+                    Water Velocity.Field Visits@PNFQ: Last: 2015-01-21 14:42:24
+Location: PNFW
+                         Precip Total.Corrected@PNFW: Last: 2015-05-08 10:31:54
+                                   WSpd Avg.DCP@PNFW: Last: 2015-05-08 10:31:23
+                                 Evapotrans.DCP@PNFW: Last: 2015-05-08 10:25:27
+                                 Atmos Pres.DCP@PNFW: Last: 2015-05-08 10:24:25
+                               Precip Total.DCP@PNFW: Last: 2015-05-08 10:31:45
+                                 Precip Raw.DCP@PNFW: Last: 2015-05-08 10:00:40
+                                   Rad Flux.DCP@PNFW: Last: 2015-05-08 10:26:54
+                                  Solar Rad.DCP@PNFW: Last: 2015-05-08 10:28:02
+                                   Air Temp.DCP@PNFW: Last: 2015-05-08 10:22:31
+                                   Wind Dir.DCP@PNFW: Last: 2015-05-08 10:30:56
+                                    Voltage.DCP@PNFW: Last: 2015-05-08 10:00:35
+                              Wind Distance.DCP@PNFW: Last: 2015-05-08 10:31:04
+                               Rel Humidity.DCP@PNFW: Last: 2015-05-08 10:27:28
+             Internal Equipment Temperature.DCP@PNFW: Last: 2015-05-08 10:00:35
+                Precip Total.PrecipMissing data@PNFW: Last: 2014-04-16 13:32:17
+Location: PNR
+                            Discharge.calculated@PNR: Last: 2015-06-16 10:08:34
+                            Discharge.dailymeans@PNR: Last: 2015-06-22 17:00:51
+                                       Stage.DCP@PNR: Last: 2015-06-16 10:08:34
+                                     Voltage.DCP@PNR: Last: 2015-01-07 09:37:13
+              Internal Equipment Temperature.DCP@PNR: Last: 2015-01-07 09:37:49
+                              Stage.Field Visits@PNR: Last: 2014-12-31 11:07:19
+                          Discharge.Field Visits@PNR: Last: 2014-12-31 11:07:19
+                       River X Area.Field Visits@PNR: Last: 2014-12-31 11:07:19
+                      River X Width.Field Visits@PNR: Last: 2014-12-31 11:07:19
+                     Water Velocity.Field Visits@PNR: Last: 2014-12-31 11:07:19
+Location: PR1
+                                    WSpd Avg.DCP@PR1: Last: 2015-01-27 12:51:49
+                                    Air Temp.DCP@PR1: Last: 2015-01-27 10:09:34
+                                    Wind Dir.DCP@PR1: Last: 2015-01-27 13:59:23
+                                     Voltage.DCP@PR1: Last: 2015-01-26 08:42:50
+                               Wind Distance.DCP@PR1: Last: 2015-01-27 14:46:36
+              Internal Equipment Temperature.DCP@PR1: Last: 2015-01-26 08:42:49
+                               WSpd Avg.Discrete@PR1: Last: 2014-03-06 15:32:09
+                               Wind Dir.Discrete@PR1: Last: 2014-03-06 17:59:04
+                          Wind Distance.Dsicrete@PR1: Last: 2015-01-27 14:40:59
+Location: PRY
+                          Precip Total.Corrected@PRY: Last: 2015-02-07 14:45:28
+                                Precip Total.DCP@PRY: Last: 2015-03-18 18:02:17
+                                  Precip Raw.DCP@PRY: Last: 2015-03-18 18:02:17
+                                    Air Temp.DCP@PRY: Last: 2015-03-23 10:57:42
+                                     Voltage.DCP@PRY: Last: 2015-03-18 19:11:56
+              Internal Equipment Temperature.DCP@PRY: Last: 2015-03-18 18:02:16
+Location: PSC
+                          Precip Total.Corrected@PSC: Last: 2014-12-31 09:20:56
+                 Precip Total.Corrected.Discrete@PSC: Last: 2014-12-29 15:08:57
+                         Snow Depth.DailyAverage@PSC: Last: 2014-12-29 15:25:35
+                                SWE.DailyAverage@PSC: Last: 2014-12-29 15:26:58
+                                Precip Total.DCP@PSC: Last: 2014-12-29 13:27:44
+                                  Precip Raw.DCP@PSC: Last: 2014-12-18 10:20:54
+                                  Snow Depth.DCP@PSC: Last: 2014-12-29 15:25:27
+                                         SWE.DCP@PSC: Last: 2014-12-29 15:35:19
+                                    Air Temp.DCP@PSC: Last: 2014-12-29 14:45:55
+                                     Voltage.DCP@PSC: Last: 2014-12-18 10:20:47
+              Internal Equipment Temperature.DCP@PSC: Last: 2014-12-18 10:20:46
+                                   Snow Depth.QA@PSC: Last: 2014-12-18 10:20:50
+Location: PT1
+                                    Air Temp.DCP@PT1: Last: 2015-01-27 18:18:58
+                                     Voltage.DCP@PT1: Last: 2015-01-27 16:08:42
+              Internal Equipment Temperature.DCP@PT1: Last: 2015-01-27 16:07:56
+Location: PTV
+                          Precip Total.Corrected@PTV: Last: 2015-02-09 11:46:50
+                                Precip Total.DCP@PTV: Last: 2015-03-27 12:05:34
+                                  Precip Raw.DCP@PTV: Last: 2015-03-27 12:05:34
+                                    Air Temp.DCP@PTV: Last: 2015-03-27 12:07:56
+                                     Voltage.DCP@PTV: Last: 2015-03-27 12:05:32
+              Internal Equipment Temperature.DCP@PTV: Last: 2015-03-27 12:05:33
+                              Precip Total.DCP_2@PTV: Last: 2015-03-27 12:05:34
+                                Precip Raw.DCP_2@PTV: Last: 2015-03-27 12:05:33
+Location: RCF
+                            Discharge.Dailymeans@RCF: Last: 2015-01-28 14:31:53
+                                       Stage.DCP@RCF: Last: 2015-06-11 12:46:35
+                                Precip Total.DCP@RCF: Last: 2015-06-11 12:40:25
+                                   Discharge.DCP@RCF: Last: 2015-06-11 12:46:36
+                                     Voltage.DCP@RCF: Last: 2015-06-11 12:40:24
+              Internal Equipment Temperature.DCP@RCF: Last: 2015-06-11 12:40:24
+                              Stage.Field Visits@RCF: Last: 2015-06-11 12:42:39
+                       Precip Total.Field Visits@RCF: Last: 2015-06-11 12:42:39
+                          Discharge.Field Visits@RCF: Last: 2015-06-11 12:42:39
+                       River X Area.Field Visits@RCF: Last: 2015-06-11 12:42:39
+                      River X Width.Field Visits@RCF: Last: 2015-06-11 12:42:39
+                            Voltage.Field Visits@RCF: Last: 2015-06-11 12:42:39
+                     Water Velocity.Field Visits@RCF: Last: 2015-06-11 12:42:39
+     Internal Equipment Temperature.Field Visits@RCF: Last: 2015-06-11 12:42:39
+Location: RGC
+                          Precip Total.Corrected@RGC: Last: 2015-01-06 15:37:03
+                                Precip Total.DCP@RGC: Last: 2015-01-06 11:53:03
+                                  Precip Raw.DCP@RGC: Last: 2015-01-02 16:36:38
+                                    Air Temp.DCP@RGC: Last: 2015-01-06 11:45:08
+                                     Voltage.DCP@RGC: Last: 2015-01-02 16:36:35
+              Internal Equipment Temperature.DCP@RGC: Last: 2015-01-02 16:36:34
+Location: RRF
+                          Precip Total.Corrected@RRF: Last: 2015-02-07 16:41:25
+                                Precip Total.DCP@RRF: Last: 2015-03-27 11:22:27
+                                  Precip Raw.DCP@RRF: Last: 2015-03-27 11:22:26
+                                    Air Temp.DCP@RRF: Last: 2015-03-27 11:47:11
+                                     Voltage.DCP@RRF: Last: 2015-03-27 11:47:19
+              Internal Equipment Temperature.DCP@RRF: Last: 2015-03-27 11:22:26
+Location: SC1
+                                    Air Temp.DCP@SC1: Last: 2015-02-01 21:40:33
+                                     Voltage.DCP@SC1: Last: 2015-01-27 16:11:22
+              Internal Equipment Temperature.DCP@SC1: Last: 2015-01-27 16:11:23
+Location: SCCQ
+                           Discharge.calculated@SCCQ: Last: 2015-07-16 11:20:25
+                           Discharge.dailymeans@SCCQ: Last: 2014-04-17 10:00:37
+                                      Stage.DCP@SCCQ: Last: 2015-07-16 11:20:25
+                                 Water Temp.DCP@SCCQ: Last: 2015-07-16 11:22:50
+                                    Voltage.DCP@SCCQ: Last: 2015-01-07 09:57:33
+             Internal Equipment Temperature.DCP@SCCQ: Last: 2015-01-07 09:57:34
+                             Stage.Field Visits@SCCQ: Last: 2015-06-16 10:33:23
+                         Discharge.Field Visits@SCCQ: Last: 2015-06-16 10:33:23
+                      River X Area.Field Visits@SCCQ: Last: 2015-06-16 10:33:23
+                     River X Width.Field Visits@SCCQ: Last: 2015-06-16 10:33:23
+                    Water Velocity.Field Visits@SCCQ: Last: 2015-06-16 10:33:23
+Location: SCCW
+                         Precip Total.Corrected@SCCW: Last: 2014-12-01 10:38:46
+                                   WSpd Avg.DCP@SCCW: Last: 2015-05-13 14:14:29
+                                 Evapotrans.DCP@SCCW: Last: 2015-05-13 14:19:21
+                                 Atmos Pres.DCP@SCCW: Last: 2015-05-13 14:16:56
+                               Precip Total.DCP@SCCW: Last: 2015-05-13 14:20:54
+                                 Precip Raw.DCP@SCCW: Last: 2015-05-13 14:10:35
+                                   Rad Flux.DCP@SCCW: Last: 2015-05-13 14:22:03
+                                  Solar Rad.DCP@SCCW: Last: 2015-05-13 14:23:28
+                                   Air Temp.DCP@SCCW: Last: 2015-05-13 14:12:58
+                                   Wind Dir.DCP@SCCW: Last: 2015-05-13 14:22:27
+                                    Voltage.DCP@SCCW: Last: 2015-05-13 14:10:32
+                              Wind Distance.DCP@SCCW: Last: 2015-05-13 14:18:00
+                               Rel Humidity.DCP@SCCW: Last: 2015-05-13 14:24:38
+             Internal Equipment Temperature.DCP@SCCW: Last: 2015-05-13 14:10:33
+                             Solar Rad.Discrete@SCCW: Last: 2014-08-04 11:52:41
+Location: SCS
+                            Discharge.calculated@SCS: Last: 2015-06-04 15:56:03
+                           Discharge.Daily means@SCS: Last: 2014-04-09 09:26:04
+                                       Stage.DCP@SCS: Last: 2015-06-04 14:56:49
+                                     Voltage.DCP@SCS: Last: 2015-01-07 11:29:55
+              Internal Equipment Temperature.DCP@SCS: Last: 2015-01-07 11:29:55
+                              Stage.Field Visits@SCS: Last: 2014-12-31 11:39:54
+                          Discharge.Field Visits@SCS: Last: 2014-12-31 11:39:54
+                       River X Area.Field Visits@SCS: Last: 2014-12-31 11:39:54
+                      River X Width.Field Visits@SCS: Last: 2014-12-31 11:39:54
+                     Water Velocity.Field Visits@SCS: Last: 2014-12-31 11:39:54
+Location: SET
+                                Precip Total.DCP@SET: Last: 2015-05-20 09:10:21
+                                   Discharge.DCP@SET: Last: 2015-05-20 09:10:22
+                                     Voltage.DCP@SET: Last: 2015-05-20 09:10:20
+                         Internal Temp (DCP).DCP@SET: Last: 2015-05-20 09:10:20
+Location: SFMW
+                           Discharge.calculated@SFMW: Last: 2015-04-30 08:37:13
+                           Discharge.dailymeans@SFMW: Last: 2015-04-15 11:38:18
+                             Stage.Field Visits@SFMW: Last: 2015-01-22 08:42:47
+                         Discharge.Field Visits@SFMW: Last: 2015-01-22 08:42:48
+                      River X Area.Field Visits@SFMW: Last: 2015-01-22 08:42:47
+                     River X Width.Field Visits@SFMW: Last: 2015-01-22 08:42:47
+                        Water Temp.Field Visits@SFMW: Last: 2015-01-22 08:42:47
+                    Water Velocity.Field Visits@SFMW: Last: 2015-01-22 08:42:47
+                                Stage.Stage.DCP@SFMW: Last: 2015-04-30 07:54:55
+                            Voltage.Voltage.DCP@SFMW: Last: 2013-05-06 13:59:25
+Location: SGV
+                            Discharge.calculated@SGV: Last: 2015-06-22 07:48:18
+                            Discharge.Dailymeans@SGV: Last: 2015-06-11 11:59:07
+                                       Stage.DCP@SGV: Last: 2015-06-22 07:48:17
+                                     Voltage.DCP@SGV: Last: 2015-01-19 09:42:11
+              Internal Equipment Temperature.DCP@SGV: Last: 2015-01-19 09:42:11
+                              Stage.Field Visits@SGV: Last: 2015-03-18 09:07:38
+                          Discharge.Field Visits@SGV: Last: 2015-03-18 09:07:38
+                       River X Area.Field Visits@SGV: Last: 2015-03-18 09:07:38
+                      River X Width.Field Visits@SGV: Last: 2015-03-18 09:07:38
+                     Water Velocity.Field Visits@SGV: Last: 2015-03-18 09:07:39
+Location: SH1
+                                    Air Temp.DCP@SH1: Last: 2015-02-23 09:58:20
+                                     Voltage.DCP@SH1: Last: 2015-02-11 13:39:31
+              Internal Equipment Temperature.DCP@SH1: Last: 2015-02-11 13:39:32
+Location: SHG
+                                       Stage.DCP@SHG: Last: 2015-05-20 09:12:26
+                                Precip Total.DCP@SHG: Last: 2015-05-20 09:12:27
+                                  Precip Raw.DCP@SHG: Last: 2015-05-20 09:12:26
+                                     Voltage.DCP@SHG: Last: 2015-05-20 09:12:24
+                         Internal Temp (DCP).DCP@SHG: Last: 2015-05-20 09:12:24
+Location: SHR
+                          Precip Total.Corrected@SHR: Last: 2015-02-07 17:20:59
+                                Precip Total.DCP@SHR: Last: 2015-03-27 11:58:42
+                                  Precip Raw.DCP@SHR: Last: 2015-03-27 11:58:42
+                                    Air Temp.DCP@SHR: Last: 2015-03-27 12:02:02
+                                     Voltage.DCP@SHR: Last: 2015-03-27 11:58:41
+              Internal Equipment Temperature.DCP@SHR: Last: 2015-03-27 11:58:41
+Location: SR1
+                                    WSpd Avg.DCP@SR1: Last: 2014-12-18 10:12:33
+                                    Air Temp.DCP@SR1: Last: 2014-12-31 10:11:14
+                                    Wind Dir.DCP@SR1: Last: 2015-01-02 16:45:10
+                                     Voltage.DCP@SR1: Last: 2014-12-31 10:09:40
+                               Wind Distance.DCP@SR1: Last: 2014-12-18 10:12:34
+              Internal Equipment Temperature.DCP@SR1: Last: 2014-12-18 10:12:31
+Location: STD
+                               Discharge.AVM.DCP@STD: Last: 2015-06-17 12:55:38
+                             Discharge.DailyMean@STD: Last: 2015-05-14 11:46:49
+                                       Stage.DCP@STD: Last: 2015-06-17 13:01:59
+                                   Discharge.DCP@STD: Last: 2015-06-17 13:07:50
+                                     Voltage.DCP@STD: Last: 2015-06-17 12:55:37
+              Internal Equipment Temperature.DCP@STD: Last: 2015-06-17 12:55:37
+                              Stage.Field Visits@STD: Last: 2015-06-17 12:58:39
+                          Discharge.Field Visits@STD: Last: 2015-06-17 12:58:39
+                       River X Area.Field Visits@STD: Last: 2015-06-17 12:58:39
+                      River X Width.Field Visits@STD: Last: 2015-06-17 12:58:39
+                            Voltage.Field Visits@STD: Last: 2015-06-17 12:58:39
+                     Water Velocity.Field Visits@STD: Last: 2015-06-17 12:58:39
+     Internal Equipment Temperature.Field Visits@STD: Last: 2015-06-17 12:58:39
+                              Discharge.WACK.DCP@STD: Last: 2015-06-17 12:55:38
+Location: STL
+                         Snow Depth.DailyAverage@STL: Last: 2015-01-30 12:34:20
+                                SWE.DailyAverage@STL: Last: 2015-01-30 12:46:19
+                                  Snow Depth.DCP@STL: Last: 2015-01-30 12:32:04
+                                         SWE.DCP@STL: Last: 2015-01-30 12:42:20
+                                    Air Temp.DCP@STL: Last: 2015-01-30 11:57:04
+                                     Voltage.DCP@STL: Last: 2014-08-15 18:14:19
+              Internal Equipment Temperature.DCP@STL: Last: 2014-08-15 18:14:26
+                                   Snow Depth.QA@STL: Last: 2014-08-15 18:11:12
+Location: Test Location
+  Air Temp.Temperature Data (2).csv Air Temp (2).@Test Location: Last: 2013-02-04 12:28:23
+Location: TMR
+                            Discharge.calculated@TMR: Last: 2015-03-18 09:32:37
+                            Discharge.dailymeans@TMR: Last: 2015-02-23 17:03:57
+                                       Stage.DCP@TMR: Last: 2015-01-21 09:16:33
+                                   Discharge.DCP@TMR: Last: 2015-03-18 09:32:38
+                                  Water Temp.DCP@TMR: Last: 2014-12-31 12:52:21
+                                     Voltage.DCP@TMR: Last: 2014-12-31 12:52:20
+              Internal Equipment Temperature.DCP@TMR: Last: 2014-12-31 12:52:20
+                              Stage.Field Visits@TMR: Last: 2014-12-30 13:37:37
+                          Discharge.Field Visits@TMR: Last: 2014-12-30 13:37:37
+                       River X Area.Field Visits@TMR: Last: 2014-12-30 13:37:37
+                      River X Width.Field Visits@TMR: Last: 2014-12-30 13:37:37
+                         Water Temp.Field Visits@TMR: Last: 2014-12-30 13:37:37
+                     Water Velocity.Field Visits@TMR: Last: 2014-12-30 13:37:37
+Location: TRMQ
+                           Discharge.calculated@TRMQ: Last: 2015-05-28 16:35:51
+                           Discharge.dailymeans@TRMQ: Last: 2015-05-28 16:17:03
+                                      Stage.DCP@TRMQ: Last: 2015-05-20 14:32:40
+                                 Water Temp.DCP@TRMQ: Last: 2015-01-06 13:34:54
+                                    Voltage.DCP@TRMQ: Last: 2015-01-06 08:36:32
+             Internal Equipment Temperature.DCP@TRMQ: Last: 2015-01-06 08:36:32
+                             Stage.Field Visits@TRMQ: Last: 2015-01-21 10:23:49
+                         Discharge.Field Visits@TRMQ: Last: 2015-01-21 10:23:49
+                      River X Area.Field Visits@TRMQ: Last: 2015-01-21 10:23:49
+                     River X Width.Field Visits@TRMQ: Last: 2015-01-21 10:23:50
+                    Water Velocity.Field Visits@TRMQ: Last: 2015-01-21 10:23:50
+Location: TRMW
+                         Precip Total.Corrected@TRMW: Last: 2015-03-20 14:42:56
+                            WSpd Avg.Datalogged@TRMW: Last: 2015-03-20 09:26:57
+                                   WSpd Avg.DCP@TRMW: Last: 2015-05-22 09:26:36
+                                 Evapotrans.DCP@TRMW: Last: 2015-05-13 14:05:38
+                                 Atmos Pres.DCP@TRMW: Last: 2015-05-13 14:05:37
+                               Precip Total.DCP@TRMW: Last: 2015-05-13 14:05:38
+                                 Precip Raw.DCP@TRMW: Last: 2015-05-13 14:05:38
+                                   Rad Flux.DCP@TRMW: Last: 2015-05-13 14:05:37
+                                  Solar Rad.DCP@TRMW: Last: 2015-05-13 14:05:37
+                                   Air Temp.DCP@TRMW: Last: 2015-05-13 14:08:45
+                                   Wind Dir.DCP@TRMW: Last: 2015-05-13 14:05:36
+                                    Voltage.DCP@TRMW: Last: 2015-05-13 14:05:35
+                              Wind Distance.DCP@TRMW: Last: 2015-05-23 10:52:33
+                               Rel Humidity.DCP@TRMW: Last: 2015-05-13 14:05:36
+             Internal Equipment Temperature.DCP@TRMW: Last: 2015-05-13 14:05:35
+                            Evapotrans.Discrete@TRMW: Last: 2015-03-20 16:54:04
+                         Wind Distance.Discrete@TRMW: Last: 2015-05-13 12:28:49
+                       Wind Dir.Discrete Values@TRMW: Last: 2015-05-13 11:11:20
+Location: TRR
+                            Discharge.calculated@TRR: Last: 2015-04-28 08:52:31
+                            Discharge.dailymeans@TRR: Last: 2015-04-27 16:54:52
+                                       Stage.DCP@TRR: Last: 2015-04-28 08:52:30
+                                     Voltage.DCP@TRR: Last: 2015-01-06 08:23:35
+              Internal Equipment Temperature.DCP@TRR: Last: 2015-01-06 08:23:35
+                              Stage.Field Visits@TRR: Last: 2015-01-22 11:35:35
+                          Discharge.Field Visits@TRR: Last: 2015-03-24 13:03:20
+                       River X Area.Field Visits@TRR: Last: 2015-01-22 11:35:35
+                      River X Width.Field Visits@TRR: Last: 2015-01-22 11:35:36
+                     Water Velocity.Field Visits@TRR: Last: 2015-01-22 11:35:36
+Location: TRS
+                          Precip Total.Corrected@TRS: Last: 2015-06-09 16:11:59
+                                Precip Total.DCP@TRS: Last: 2015-06-09 16:11:06
+                                  Precip Raw.DCP@TRS: Last: 2015-06-09 15:37:49
+                                    Air Temp.DCP@TRS: Last: 2015-06-12 08:50:44
+                                     Voltage.DCP@TRS: Last: 2015-06-12 08:51:50
+              Internal Equipment Temperature.DCP@TRS: Last: 2015-06-09 15:06:07
+                           Precip Total.Discrete@TRS: Last: 2015-06-09 15:36:36
+Location: UTY
+                         Snow Depth.DailyAverage@UTY: Last: 2014-12-18 12:20:07
+                                SWE.DailyAverage@UTY: Last: 2014-12-18 12:20:23
+                                  Snow Depth.DCP@UTY: Last: 2014-12-18 12:17:49
+                                         SWE.DCP@UTY: Last: 2014-12-18 12:18:24
+                                    Air Temp.DCP@UTY: Last: 2014-12-18 12:19:56
+                                     Voltage.DCP@UTY: Last: 2014-12-18 11:32:13
+              Internal Equipment Temperature.DCP@UTY: Last: 2014-12-17 12:36:10
+                                   Snow Depth.QA@UTY: Last: 2014-12-17 12:38:36
+Location: WRSQ
+                                    Stage.1.DCP@WRSQ: Last: 2015-06-11 14:17:57
+                                    Stage.2.DCP@WRSQ: Last: 2015-06-11 14:12:09
+                               Discharge.DailyQ@WRSQ: Last: 2015-03-31 15:49:56
+                                  Discharge.DCP@WRSQ: Last: 2015-06-11 14:20:30
+                                 Water Temp.DCP@WRSQ: Last: 2015-06-11 14:18:55
+                                    Voltage.DCP@WRSQ: Last: 2015-06-11 14:12:09
+             Internal Equipment Temperature.DCP@WRSQ: Last: 2015-06-11 14:12:09
+                             Stage.Field Visits@WRSQ: Last: 2015-06-11 14:15:53
+                         Discharge.Field Visits@WRSQ: Last: 2015-06-11 14:15:53
+                      River X Area.Field Visits@WRSQ: Last: 2015-06-11 14:15:53
+                     River X Width.Field Visits@WRSQ: Last: 2015-06-11 14:15:53
+                        Water Temp.Field Visits@WRSQ: Last: 2015-06-11 14:15:53
+                           Voltage.Field Visits@WRSQ: Last: 2015-06-11 14:15:53
+                    Water Velocity.Field Visits@WRSQ: Last: 2015-06-11 14:15:53
+    Internal Equipment Temperature.Field Visits@WRSQ: Last: 2015-06-11 14:15:53
+Location: WRSW
+                         Precip Total.Corrected@WRSW: Last: 2014-12-05 15:30:02
+                                   WSpd Avg.DCP@WRSW: Last: 2015-06-11 14:22:25
+                                 Evapotrans.DCP@WRSW: Last: 2015-06-11 14:22:28
+                                 Atmos Pres.DCP@WRSW: Last: 2015-06-11 14:22:27
+                               Precip Total.DCP@WRSW: Last: 2015-06-11 14:22:27
+                                 Precip Raw.DCP@WRSW: Last: 2015-06-11 14:22:27
+                                   Rad Flux.DCP@WRSW: Last: 2015-06-11 14:22:27
+                                  Solar Rad.DCP@WRSW: Last: 2015-06-11 14:22:26
+                                   Air Temp.DCP@WRSW: Last: 2015-06-11 14:22:27
+                                   Wind Dir.DCP@WRSW: Last: 2015-06-11 14:22:26
+                                    Voltage.DCP@WRSW: Last: 2015-06-11 14:22:25
+                              Wind Distance.DCP@WRSW: Last: 2015-06-11 14:22:26
+                               Rel Humidity.DCP@WRSW: Last: 2015-06-11 14:22:26
+             Internal Equipment Temperature.DCP@WRSW: Last: 2015-06-11 14:22:25
+                         Wind Distance.Discrete@WRSW: Last: 2015-03-25 15:58:36
+Location: WST
+                          Precip Total.Corrected@WST: Last: 2014-12-16 12:39:51
+                                Precip Total.DCP@WST: Last: 2015-03-12 12:10:05
+                                  Precip Raw.DCP@WST: Last: 2015-03-12 11:46:37
+                                    Air Temp.DCP@WST: Last: 2015-03-12 11:50:02
+                                     Voltage.DCP@WST: Last: 2015-03-12 11:59:37
+              Internal Equipment Temperature.DCP@WST: Last: 2015-03-12 11:46:35
+                    Precip Total.Discrete_1 hour@WST: Last: 2014-12-16 12:12:31
+                        Air Temp.Discrete_1 hour@WST: Last: 2014-12-16 12:12:31
+Location: WTM
+                         Snow Depth.DailyAverage@WTM: Last: 2014-12-19 15:47:31
+                                SWE.DailyAverage@WTM: Last: 2014-12-19 15:51:45
+                                  Snow Depth.DCP@WTM: Last: 2014-12-19 15:27:31
+                                         SWE.DCP@WTM: Last: 2014-12-19 15:59:37
+                                    Air Temp.DCP@WTM: Last: 2014-12-18 14:19:10
+                                     Voltage.DCP@WTM: Last: 2014-12-18 10:04:04
+              Internal Equipment Temperature.DCP@WTM: Last: 2014-12-18 10:04:04
+                             Snow Depth.Discrete@WTM: Last: 2014-12-18 14:05:57
+                                    SWE.Discrete@WTM: Last: 2014-12-18 14:05:57
+                               Air Temp.Discrete@WTM: Last: 2014-12-18 14:05:56
+                                   Snow Depth.QA@WTM: Last: 2014-12-18 10:04:06
+Location: WWC
+                         Snow Depth.DailyAverage@WWC: Last: 2015-01-30 21:36:29
+                                SWE.DailyAverage@WWC: Last: 2015-01-30 21:32:23
+                                  Snow Depth.DCP@WWC: Last: 2015-01-30 21:29:46
+                                         SWE.DCP@WWC: Last: 2015-01-30 21:16:29
+                                    Air Temp.DCP@WWC: Last: 2015-01-30 21:10:58
+                                     Voltage.DCP@WWC: Last: 2015-01-30 16:35:09
+              Internal Equipment Temperature.DCP@WWC: Last: 2015-01-30 16:35:09
+                                   Snow Depth.QA@WWC: Last: 2015-01-30 16:35:09

@@ -1,0 +1,28 @@
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+---- Document Meta
+document: meta
+version: 0.1
+date: 8/15/2016
+
+--- Sites
+siteId: <STR>
+
+--- Units
+units:
+  - ST: ft
+    HG: ft
+    VZ:  V
+
+--- Measurements
+measureId: st.GOES@BFW
+sensor: st
+type: GOES
+siteId: BFW
+measurements:
+  - timestamp: 20150404T00:23:23.432
+    values:
+      - 00: 23, 23, 22, 21
+        01: 23, 23, 44, 21
+        02:

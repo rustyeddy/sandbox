@@ -1,0 +1,3 @@
+[submodule "goeslim"]
+	path = goeslim
+	url = git@github.com:rustyeddy/goeslim

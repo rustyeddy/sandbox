@@ -1,0 +1,26 @@
+Error: missing required argument: User
+
+Usage: program [-Y <String>] [-h <String>] [-p <Int>] -u <String> [-f <String>] [-v ] [-b <String>] [-a <String>] [-n ] [-t <Int>] [-d <Int>] [-l <String>] [-P <String>] [-s ] [-E ] [-F1 ] [-N <String> ...] [-w <Int>] [-e ] [-x ] [-m <Int>] 
+
+	-Y 'The log file time-zones'  Default: UTC
+	-h 'Host'  Default: localhost
+	-p 'Port number'  Default: 16003
+	-u 'User' 
+	-f 'SearchCritFile' 
+	-v 'verbose-mode'  Default: false
+	-b 'Before-String' 
+	-a 'After-String' 
+	-n 'newline'  Default: false
+	-t 'timeout seconds'  Default: 120
+	-d 'debug level'  Default: 0
+	-l 'log-file name' 
+	-P 'Password for auth connect' 
+	-s 'single'  Default: false
+	-E 'extended'  Default: false
+	-F1 'extended'  Default: false
+	-N 'Network Lists to Send' 
+	-w 'Wait Msec after each msg'  Default: 0
+	-e 'Escape non-printing ASCII chars'  Default: false
+	-x 'unix newline'  Default: false
+	-m 'Max characters to output'  Default: 0
+

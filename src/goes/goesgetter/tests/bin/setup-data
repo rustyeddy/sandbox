@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+mkdir -p tmp
+rm -rf tmp/data
+cp -r tests/data tmp

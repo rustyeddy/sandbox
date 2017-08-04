@@ -1,0 +1,14 @@
+startTimeTag: 1463955651435
+#Sun May 22 18:20:51 EDT 2016
+msgsToday=9
+lastRetrieval=1463955060875
+nextRun=1463958660000
+dataSourceName=cdadata.wcda.noaa.gov
+msgsLastHour=0
+status=Wait-Sched
+msgsThisRun=9
+msgsThisHour=0
+errsThisRun=0
+msgsYesterday=9
+errsToday=0
+endTimeTag: 1463955651435

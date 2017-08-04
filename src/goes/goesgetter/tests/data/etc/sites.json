@@ -1,0 +1,118 @@
+[
+  {
+    "siteName": "North Fork Willow Creek near Sugar Pine, CA",
+    "mnemonic": "NFW",
+    "projectId": "MID",
+    "pdtType": "CDEC",
+    "nesdisId": "3A800160",
+    "decodingScheme": "Oldest First",
+    "scanInterval": "15",
+    "shefOrder": "HG, VB",
+    "shefDescriptions": "Stage, Voltage",
+    "latitude": "37-23-52",
+    "longitude": "119-33-33",
+    "elevation": "5200"
+  },
+  {
+    "siteName": "North Fork Willow Creek near Sugar Pine, CA",
+    "mnemonic": "BGF",
+    "projectId": "MID",
+    "pdtType": "CDEC",
+    "nesdisId": "3A801216",
+    "decodingScheme": "Oldest First",
+    "scanInterval": "15",
+    "shefOrder": "HG, VB",
+    "specialRemarks": "HG comes in columns, VB once on the hour",
+    "latitude": "37-28-10",
+    "longitude": "119-36-51",
+    "elevation": "5200",
+    "parser": "BGFParser"
+  },
+  {
+    "siteName": "DW1",
+    "mnemonic": "DW1",
+    "projectId": "UNKNOWN",
+    "pdtType": "ACOE",
+    "nesdisId": "CE94B440",
+    "decodingScheme": "Oldest First",
+    "scanInterval": "15",
+    "shefOrder": "TA, VX",
+    "latitude": "371849",
+    "longitude": "-1194109"
+  },
+  {
+    "siteName": "FRH",
+    "mnemonic": "FRH",
+    "projectId": "UNKNOWN",
+    "pdtType": "ACOE",
+    "nesdisId": "CE52A39C",
+    "decodingScheme": "Oldest First",
+    "scanInterval": "15",
+    "shefOrder": "HG, VX",
+    "latitude": "370902",
+    "longitude": "-1195122"
+  },
+  {
+    "siteName": "HIDW",
+    "mnemonic": "HIDW",
+    "projectId": "UNKNOWN",
+    "pdtType": "ACOE",
+    "nesdisId": "CE94A736",
+    "decodingScheme": "Oldest First",
+    "scanInterval": "15",
+    "shefOrder": "TA, PA, US, UD, UC, XR, RN, RW, PC, ER, VX",
+    "latitude": "370652",
+    "longitude": "-1195336"
+  },
+  {
+    "siteName": "HIDP",
+    "mnemonic": "HIDP",
+    "projectId": "UNKNOWN",
+    "pdtType": "ACOE",
+    "nesdisId": "CE9481DA",
+    "decodingScheme": "Oldest First",
+    "scanInterval": "15",
+    "shefOrder": "HP, VX",
+    "latitude": "370634",
+    "longitude": "-1195305"
+  },
+  {
+    "siteName": "Oakhurst",
+    "mnemonic": "OKH",
+    "projectId": "UNKNOWN",
+    "pdtType": "ACOE",
+    "nesdisId": "CE94C2D0",
+    "decodingScheme": "Oldest First",
+    "scanInterval": "15",
+    "shefOrder": "PC, TA, VX",
+    "shefDescriptions": "",
+    "latitude": "372041",
+    "longitude": "-1194033"
+  },
+  {
+    "siteName": "WST",
+    "mnemonic": "WST",
+    "projectId": "UNKNOWN",
+    "pdtType": "ACOE",
+    "nesdisId": "CE94D1A6",
+    "decodingScheme": "Oldest First",
+    "scanInterval": "15",
+    "shefOrder": "PC, TA, VX",
+    "latitude": "372658",
+    "longitude": "-1193859"
+  },
+  {
+    "siteName": "Angels Creek Below Murphys. CA",
+    "mnemonic": "S78",
+    "projectId": "UTP",
+    "pdtType": "CDEC",
+    "nesdisId": "6A100576",
+    "decodingScheme": "Oldest First",
+    "scanInterval": "15",
+    "shefOrder": "HG, VB, HV",
+    "latitude": "38-81-7”",
+    "longitude": "120-20-19",
+    "elevation": "2138"
+  }
+]
+

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+dcpmsg=/Applications/LrgsClient/bin/getDcpMessages
+username=midhde
+password=cilz-ZKOK-24
+host=cdadata.wcda.noaa.gov
+fname=etc/dcstool/procs/all-realtime.sc
+${dcpmsg} - u ${username} -p ${password} -h ${host} -f ${fname}
+
+
+

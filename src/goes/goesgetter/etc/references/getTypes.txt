@@ -1,0 +1,349 @@
+Array
+(
+    [0] => struct DateTimeRange {
+ dateTime End;
+ dateTime Start;
+}
+    [1] => struct CustomUpdateResult {
+ dateTime AppliedUtcTime;
+ string CorrectionGuid;
+ int PointsCount;
+}
+    [2] => struct CustomProcessResult {
+ CustomProcessType ResultType;
+}
+    [3] => string CustomProcessType
+    [4] => struct CustomAppendResult {
+ double AppendToken;
+ int PointsCount;
+}
+    [5] => struct CustomUpdateGroup {
+ string Comment;
+ ArrayOfCustomUpdateData UpdateDataList;
+ string User;
+}
+    [6] => struct ArrayOfCustomUpdateData {
+ CustomUpdateData CustomUpdateData;
+}
+    [7] => struct CustomUpdateData {
+ string Csv;
+ DateTimeRange TimeRange;
+}
+    [8] => struct CustomGroupResult {
+ string Error;
+ ArrayOfCustomProcessResult ProcessResults;
+ boolean Result;
+}
+    [9] => struct ArrayOfCustomProcessResult {
+ CustomProcessResult CustomProcessResult;
+}
+    [10] => struct ArrayOflong {
+ long long;
+}
+    [11] => struct ArrayOfKeyValueOfstringanyType {
+ KeyValueOfstringanyType KeyValueOfstringanyType;
+}
+    [12] => struct KeyValueOfstringanyType {
+ string Key;
+ anyType Value;
+}
+    [13] => struct ArrayOfTimeSeriesDescription {
+ TimeSeriesDescription TimeSeriesDescription;
+}
+    [14] => struct TimeSeriesDescription {
+ long AqDataID;
+ string Aqtimeseriestype;
+ dateTime EndTime;
+ double EndValue;
+ string Label;
+ dateTime LastModified;
+ long TotalSamples;
+ string Identifier;
+ string ParameterName;
+ string ParameterType;
+ string TimeSeriesIdentifier;
+ string Units;
+}
+    [15] => struct ArrayOfLocationDTO {
+ LocationDTO LocationDTO;
+}
+    [16] => struct LocationDTO {
+ float Elevation;
+ string ElevationUnits;
+ string Identifier;
+ float Latitude;
+ string LocationName;
+ string LocationPath;
+ string LocationTypeName;
+ float Longitude;
+ float UtcOffset;
+ ArrayOfKeyValueOfstringanyType ExtendedAttributes;
+ long LocationId;
+}
+    [17] => struct AppendResult {
+ string AppendToken;
+ int NumPointsAppended;
+ string TsIdentifier;
+}
+    [18] => struct AppendAsyncStatus {
+ int NumberOfPointsAppended;
+ string Status;
+ string TimeSeriesIdentifier;
+}
+    [19] => struct ArrayOfFieldVisit {
+ FieldVisit FieldVisit;
+}
+    [20] => struct FieldVisit {
+ dateTime EndDate;
+ long FieldVisitID;
+ string HistoryLog;
+ long LocationID;
+ ArrayOfFieldVisitMeasurement Measurements;
+ string Party;
+ string Remarks;
+ dateTime StartDate;
+}
+    [21] => struct ArrayOfFieldVisitMeasurement {
+ FieldVisitMeasurement FieldVisitMeasurement;
+}
+    [22] => struct FieldVisitMeasurement {
+ long ApprovalLevelID;
+ string DisplayId;
+ long FieldVisitID;
+ string LaboratoryId;
+ dateTime LastModified;
+ string MeasurementDetails;
+ dateTime MeasurementEndTime;
+ long MeasurementID;
+ long MeasurementMediaId;
+ dateTime MeasurementTime;
+ string MeasurementType;
+ ArrayOfFieldVisitResult Observations;
+ string Remarks;
+ ArrayOfFieldVisitResult Results;
+}
+    [23] => struct ArrayOfFieldVisitResult {
+ FieldVisitResult FieldVisitResult;
+}
+    [24] => struct FieldVisitResult {
+ double CorrectedResult;
+ double Correction;
+ dateTime EndTime;
+ long MeasurementID;
+ double ObservedResult;
+ string ParameterID;
+ double PercentUncertainty;
+ string Qualifier;
+ long QualityCodeID;
+ string Remarks;
+ string ResultDetails;
+ long ResultID;
+ int ResultType;
+ dateTime StartTime;
+ string UnitID;
+}
+    [25] => struct GetAuthToken {
+ string user;
+ string encodedPassword;
+}
+    [26] => struct GetAuthTokenResponse {
+ string GetAuthTokenResult;
+}
+    [27] => struct IsConnectionValid {
+}
+    [28] => struct IsConnectionValidResponse {
+ boolean IsConnectionValidResult;
+}
+    [29] => struct KeepConnectionAlive {
+}
+    [30] => struct KeepConnectionAliveResponse {
+ boolean KeepConnectionAliveResult;
+}
+    [31] => struct CustomUpdateTimeSeriesData {
+ long timeSeriesId;
+ CustomUpdateGroup updateGroup;
+}
+    [32] => struct CustomUpdateTimeSeriesDataResponse {
+ CustomGroupResult CustomUpdateTimeSeriesDataResult;
+}
+    [33] => struct GetTimeSeriesID {
+ string identifier;
+}
+    [34] => struct GetTimeSeriesIDResponse {
+ long GetTimeSeriesIDResult;
+}
+    [35] => struct GetTimeSeriesID2 {
+ string parentLabel;
+ string identifier;
+ string parameterType;
+}
+    [36] => struct GetTimeSeriesID2Response {
+ long GetTimeSeriesID2Result;
+}
+    [37] => struct GetTimeSeriesList {
+ long locationID;
+ string parameterType;
+}
+    [38] => struct GetTimeSeriesListResponse {
+ ArrayOfTimeSeriesDescription GetTimeSeriesListResult;
+}
+    [39] => struct GetTimeSeriesListForLocation {
+ long locationID;
+}
+    [40] => struct GetTimeSeriesListForLocationResponse {
+ ArrayOfTimeSeriesDescription GetTimeSeriesListForLocationResult;
+}
+    [41] => struct GetLocationId {
+ string locationIdentifier;
+}
+    [42] => struct GetLocationIdResponse {
+ long GetLocationIdResult;
+}
+    [43] => struct AppendTimeSeriesFromBytes {
+ long id;
+ base64Binary csvbytes;
+ string userName;
+ string comment;
+}
+    [44] => struct AppendTimeSeriesFromBytesResponse {
+ int AppendTimeSeriesFromBytesResult;
+}
+    [45] => struct AppendTimeSeriesFromBytes2 {
+ long id;
+ base64Binary csvbytes;
+ string userName;
+}
+    [46] => struct AppendTimeSeriesFromBytes2Response {
+ AppendResult AppendTimeSeriesFromBytes2Result;
+}
+    [47] => struct AppendTimeSeriesAsync {
+ string timeSeriesIdentifier;
+ base64Binary csvBytes;
+ string userName;
+}
+    [48] => struct AppendTimeSeriesAsyncResponse {
+ string AppendTimeSeriesAsyncResult;
+}
+    [49] => struct GetAppendTimeSeriesAsyncStatus {
+ string processToken;
+}
+    [50] => struct GetAppendTimeSeriesAsyncStatusResponse {
+ AppendAsyncStatus GetAppendTimeSeriesAsyncStatusResult;
+}
+    [51] => struct CreateTimeSeries {
+ string identifier;
+}
+    [52] => struct CreateTimeSeriesResponse {
+ long CreateTimeSeriesResult;
+}
+    [53] => struct CreateTimeSeries2 {
+ long parentId;
+ string label;
+ string comments;
+ string description;
+ string parameter;
+ int utcOffsetInMinutes;
+ string unit;
+ double maxGaps;
+}
+    [54] => struct CreateTimeSeries2Response {
+ long CreateTimeSeries2Result;
+}
+    [55] => struct AppendAndMerge {
+ string SiteName;
+ string comment;
+ string configName;
+ base64Binary configFileContents;
+ string parameterMap;
+ string filePath;
+}
+    [56] => struct AppendAndMergeResponse {
+ int AppendAndMergeResult;
+}
+    [57] => struct UndoAppend {
+ string identifier;
+ string appendToken;
+}
+    [58] => struct UndoAppendResponse {
+ int UndoAppendResult;
+}
+    [59] => struct GetTimeSeries {
+ long aqDataId;
+ string viewName;
+ dateTime fromTime;
+ dateTime toTime;
+ dateTime asOfTime;
+}
+    [60] => struct GetTimeSeriesResponse {
+ string GetTimeSeriesResult;
+}
+    [61] => struct DeleteTimeSeriesPointsByTimeRange {
+ long id;
+ dateTime startTime;
+ dateTime endTime;
+}
+    [62] => struct DeleteTimeSeriesPointsByTimeRangeResponse {
+ int DeleteTimeSeriesPointsByTimeRangeResult;
+}
+    [63] => struct DeleteTimeSeries {
+ long timeSeriesId;
+}
+    [64] => struct DeleteTimeSeriesResponse {
+}
+    [65] => struct GetFieldVisitsByLocation {
+ long locationId;
+}
+    [66] => struct GetFieldVisitsByLocationResponse {
+ ArrayOfFieldVisit GetFieldVisitsByLocationResult;
+}
+    [67] => struct GetFieldVisitsByLocationAndDate {
+ long locationId;
+ dateTime startDate;
+}
+    [68] => struct GetFieldVisitsByLocationAndDateResponse {
+ ArrayOfFieldVisit GetFieldVisitsByLocationAndDateResult;
+}
+    [69] => struct GetFieldVisitsByLocationChangedSince {
+ long locationId;
+ string changedSince;
+}
+    [70] => struct GetFieldVisitsByLocationChangedSinceResponse {
+ ArrayOfFieldVisit GetFieldVisitsByLocationChangedSinceResult;
+}
+    [71] => struct SaveFieldVisit {
+ FieldVisit fv;
+}
+    [72] => struct SaveFieldVisitResponse {
+ FieldVisit SaveFieldVisitResult;
+}
+    [73] => struct GenerateFieldVisitTimeSeries {
+ ArrayOflong locationIds;
+}
+    [74] => struct GenerateFieldVisitTimeSeriesResponse {
+}
+    [75] => struct GetAllLocations {
+}
+    [76] => struct GetAllLocationsResponse {
+ ArrayOfLocationDTO GetAllLocationsResult;
+}
+    [77] => struct GetLocation {
+ long locationId;
+}
+    [78] => struct GetLocationResponse {
+ LocationDTO GetLocationResult;
+}
+    [79] => struct CreateLocation {
+ LocationDTO location;
+}
+    [80] => struct CreateLocationResponse {
+ long CreateLocationResult;
+}
+    [81] => struct ModifyLocation {
+ LocationDTO location;
+}
+    [82] => struct ModifyLocationResponse {
+}
+    [83] => int char
+    [84] => duration duration
+    [85] => string guid
+)

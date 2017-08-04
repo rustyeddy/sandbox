@@ -1,0 +1,10 @@
+.idea
+vendor/*
+data/*
+logs/*
+cache/*
+*~
+www.pid
+/vendor/
+/logs/*
+!/logs/README.md

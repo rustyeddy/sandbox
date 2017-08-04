@@ -1,0 +1,22 @@
+{
+  "name": "rustyeddy/GOESGetter",
+  "description": "Retrieve and store Timeseries data from GOES",
+  "keywords": ["timeseries", "GOES", "AQUARIUS"],
+  "homepage": "http://goesgetter.com",
+  "authors": [
+    {
+      "name": "Rusty Eddy",
+      "email": "rusty@rustyeddy.com",
+      "homepage": "http://rustyeddy.com"
+    }
+  ],
+  "require": {
+    "apache/log4php": "2.3.0",
+    "nesbot/Carbon": "^1.21",
+    "phpunit/phpunit": "5.1.*",
+    "erusev/parsedown": "^1.6",
+    "twbs/bootstrap": "^3.3",
+    "predis/predis": "1.1.*@dev",
+    "mongodb/mongodb": "^1.0"
+  }
+}

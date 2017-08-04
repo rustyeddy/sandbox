@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css"
+          integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+
+    <!-- React Stuff -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.7/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.7/react-dom.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.15/browser.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js"
+            integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+</head>
+    <title>GOES Getter</title>
+</head>
+<body>
+
+<!-- The header -->
+<header id='header' class="container">
+
+    <!-- title -->
+    <h1>GOES Getter</h1>
+
+    <!-- navbar -->
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section id="body" class="container">
+
+    <!-- top row -->
+    <div class="row files-stats">
+
+        <div class="col-md-4 files-to-process">
+            <h2>Files to process</h2>
+
+        </div>
+
+        <div class="col-md-4 files-processed">
+            <h2>Files Processed</h2>
+            <script type="text/babel" src="js/failed.js"></script>
+            <div id="files-processed"></div>
+        </div>
+
+        <div class="col-md-4">
+            <h2>Files Failed</h2>
+            <script type="text/babel" src="js/failed.js"></script>
+            <div id="files-failed"></div>
+        </div>
+
+    </div>
+
+    <div class="row site-list">
+        <div class="col-md-12 site-list">
+            <h2>Site List</h2>
+        </div>
+    </div>
+
+    <div class="row log-files">
+        <div class="col-md-12 log-file">
+            <h2>Log File</h2>
+
+        </div>
+    </div>
+</section>
+
+<footer class="container">
+    <div class="footer-banner">
+
+    </div> <!-- footer-banner -->
+</footer>
+
+</body>
+</html>

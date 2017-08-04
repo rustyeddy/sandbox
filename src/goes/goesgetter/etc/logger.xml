@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns="http://logging.apache.org/log4php/">
+    <appender name="default" class="LoggerAppenderFile">
+        <layout class="LoggerLayoutPattern">
+            <param name="conversionPattern" value="%d %p %l %msg%n" />
+        </layout>
+        <param name="file" value="/srv/goesdata/logs/goes.log" />
+        <param name="append" value="true" />
+    </appender>
+    <appender name="console" class="LoggerAppenderConsole">
+        <layout class="LoggerLayoutPattern">
+            <param name="conversionPattern" value="%d %p %l %msg%n" />
+        </layout>
+    </appender>
+    <root>
+        <level value="info" />
+        <appender_ref ref="console" />
+    </root>
+</configuration>

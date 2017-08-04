@@ -1,0 +1,30 @@
+	Stage.GOES@BGF
+	Voltage.GOES@BGF
+	Air Temp.GOES@DW1
+	Battery Voltage Under Load.GOES@DW1
+	Stage.GOES@FHL
+	Battery Voltage Under Load.GOES@FHL
+
+	Evapo Rate.GOES@HIDW
+	Atmos Pres.GOES@HIDW
+	Precip cumul.GOES@HIDW
+	Solar Rad.GOES@HIDW
+	Air Temp.GOES@HIDW
+	Wind Dir.GOES@HIDW
+	Wind Vel.GOES@HIDW
+	Wind Distance.GOES@HIDW
+	Rel Humidity.GOES@HIDW
+	Battery Voltage Under Load.GOES@HIDW
+
+	Stage.GOES@NFW
+	Voltage.GOES@NFW
+	Precip cumul.GOES@OKH
+	Air Temp.GOES@OKH
+	Battery Voltage Under Load.GOES@OKH
+	Stage.GOES@S124
+	Voltage.GOES@S124
+	Battery Voltage Under Load.GOES@S124
+	Stage.GOES@S48
+	Precip cumul.GOES@WST
+	Air Temp.GOES@WST
+	Battery Voltage Under Load.GOES@WST

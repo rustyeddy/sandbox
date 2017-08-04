@@ -1,0 +1,95 @@
+/stop:            stop the web server
+    instance-id   optional, if specified, instance ID has to match
+/translate:       translate hex encoded stacktrace in 'stack' param
+    stack         required, stack trace to translate
+    build-id      optional, if specified, build ID has to match
+    bare          optional, whether to display frame ordinates
+/build-id:        returns build id that's passed in from command line
+/instance-id:     instance id that's passed in from command line
+/compiler-id:     returns the compiler id that built this app
+/repo-schema:     return the repo schema id used by this app
+/check-load:      how many threads are actively handling requests
+/check-queued:    how many http requests are queued waiting to be
+                  handled
+/check-health:    return json containing basic load/usage stats
+/check-ev:        how many http requests are active by libevent
+/check-pl-load:   how many pagelet threads are actively handling
+                  requests
+/check-pl-queued: how many pagelet requests are queued waiting to
+                  be handled
+/check-sql:       report SQL table statistics
+/check-sat        how many satellite threads are actively handling
+                  requests and queued waiting to be handled
+/status.xml:      show server status in XML
+/status.json:     show server status in JSON
+/status.html:     show server status in HTML
+/memory.xml:      show memory status in XML
+/memory.json:     show memory status in JSON
+/memory.html:     show memory status in HTML
+/stats-on:        main switch: enable server stats
+/stats-off:       main switch: disable server stats
+/stats-clear:     clear all server stats
+/stats-web:       turn on/off server page stats (CPU and gen time)
+/stats-mem:       turn on/off memory statistics
+/stats-sql:       turn on/off SQL statistics
+/stats-mutex:     turn on/off mutex statistics
+    sampling      optional, default 1000
+/stats.keys:      list all available keys
+    from          optional, <timestamp>, or <-n> second ago
+    to            optional, <timestamp>, or <-n> second ago
+/stats.xml:       show server stats in XML
+    from          optional, <timestamp>, or <-n> second ago
+    to            optional, <timestamp>, or <-n> second ago
+    agg           optional, aggragation: *, url, code
+    keys          optional, <key>,<key/hit>,<key/sec>,<:regex:>
+    url           optional, only stats of this page or URL
+    code          optional, only stats of pages returning this code
+/stats.json:      show server stats in JSON
+    (same as /stats.xml)
+/stats.kvp:       show server stats in key-value pairs
+    (same as /stats.xml)
+/stats.html:      show server stats in HTML
+    (same as /stats.xml)
+/const-ss:        get const_map_size
+/static-strings:  get number of static strings
+/static-strings-rds: ... that correspond to defined constants
+/dump-static-strings: dump static strings to /tmp/static_strings
+/dump-apc:        dump all current value in APC to /tmp/apc_dump
+/dump-apc-info:   show basic APC stats
+/dump-apc-meta:   dump meta information for all objects in APC to
+                  /tmp/apc_dump_meta
+/advise-out-apc:  forcibly madvise out APC prime data
+/random-apc:      dump the key and size of a random APC entry
+    count         number of entries to return
+/pcre-cache-size: get pcre cache map size
+/dump-pcre-cache: dump cached pcre's to /tmp/pcre_cache
+/dump-array-info: dump array tracer info to /tmp/array_tracer_dump
+/start-stacktrace-profiler: set enable_stacktrace_profiler to true
+/relocate:        relocate translations
+    random        optional, default false, relocate random subset
+       all        optional, default false, relocate all translations
+      time        optional, default 20 (seconds)
+/vm-tcspace:      show space used by translator caches
+/vm-tcaddr:       show addresses of translation cache sections
+/vm-dump-tc:      dump translation cache to /tmp/tc_dump_a and
+                  /tmp/tc_dump_astub
+/vm-namedentities:show size of the NamedEntityTable
+/thread-mem-usage:show memory usage per thread
+/proxy:           set up request proxy
+    origin        URL to proxy requests to
+    percentage    percentage of requests to proxy
+/jemalloc-stats:  get internal jemalloc stats
+/jemalloc-stats-print:
+                  get comprehensive jemalloc stats in
+                  human-readable form
+/jemalloc-prof-activate:
+                  activate heap profiling
+/jemalloc-prof-deactivate:
+                  deactivate heap profiling
+/jemalloc-prof-dump:
+                  dump heap profile
+    file          optional, filesystem path
+/jemalloc-prof-request:
+                  dump thread-local heap profile in
+                  the next request that runs
+    file          optional, filesystem path
